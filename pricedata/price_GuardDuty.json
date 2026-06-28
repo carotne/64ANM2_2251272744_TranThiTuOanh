@@ -1,0 +1,3957 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonGuardDuty",
+  "version" : "20260120230311",
+  "publicationDate" : "2026-01-20T23:03:11Z",
+  "products" : {
+    "94WKQUA34KDU5V3A" : {
+      "sku" : "94WKQUA34KDU5V3A",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Limitless Monitored - CreateDBInstance:0021",
+        "usagetype" : "APS1-FreeRDSACULimitlessMonitored",
+        "operation" : "CreateDBInstance:0021",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "RBTD595UNT646N6V" : {
+      "sku" : "RBTD595UNT646N6V",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0002",
+        "usagetype" : "APS1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance:0002",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "3ZW3PPJRJ7NPXDMJ" : {
+      "sku" : "3ZW3PPJRJ7NPXDMJ",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0005",
+        "usagetype" : "APS1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0005",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "HMN9EQQFHYJHH8HJ" : {
+      "sku" : "HMN9EQQFHYJHH8HJ",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty On Demand Malware Protection S3 Request Monitored",
+        "usagetype" : "APS1-OnDemandMalwareProtectionS3ScanRequest",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "6DPFSMCX5786D359" : {
+      "sku" : "6DPFSMCX5786D359",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0018",
+        "usagetype" : "APS1-PaidRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0018",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "WGK62YYHYPC7U44G" : {
+      "sku" : "WGK62YYHYPC7U44G",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0002",
+        "usagetype" : "APS1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0002",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "QCAXCSQABTVVP6MS" : {
+      "sku" : "QCAXCSQABTVVP6MS",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Malware Protection S3 Request Monitored",
+        "usagetype" : "APS1-MalwareProtectionS3ScanRequest",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "A952ZEHH58M6U9KC" : {
+      "sku" : "A952ZEHH58M6U9KC",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free EKS vCPU Monitored",
+        "usagetype" : "APS1-FreeEKSvCPUMonitored",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "S4TMSQ6NQESC7TNZ" : {
+      "sku" : "S4TMSQ6NQESC7TNZ",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0003",
+        "usagetype" : "APS1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0003",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "6EE78HATK62FDFAC" : {
+      "sku" : "6EE78HATK62FDFAC",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid On Demand Malware Protection S3 Recovery Point Data Scanned",
+        "usagetype" : "APS1-PaidOnDemandS3RecoveryPointDataScanned",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "BKHSB4VGVN4FQMKK" : {
+      "sku" : "BKHSB4VGVN4FQMKK",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0020",
+        "usagetype" : "APS1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0020",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "9D7YTFSNKN7D4T7B" : {
+      "sku" : "9D7YTFSNKN7D4T7B",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid Data Events Processed",
+        "usagetype" : "APS1-PaidEventsAnalyzed-Bytes",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "XP3BWX7USHD7UUDP" : {
+      "sku" : "XP3BWX7USHD7UUDP",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free S3 Data Events Processed",
+        "usagetype" : "APS1-FreeS3DataEventsAnalyzed",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "FUVKW8J3F7P2622E" : {
+      "sku" : "FUVKW8J3F7P2622E",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0005",
+        "usagetype" : "APS1-PaidRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0005",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "FS5VH54FHZMW2FBS" : {
+      "sku" : "FS5VH54FHZMW2FBS",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0004",
+        "usagetype" : "APS1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance:0004",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "N3CHCSZDVUET6U7C" : {
+      "sku" : "N3CHCSZDVUET6U7C",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid EKS vCPU Monitored",
+        "usagetype" : "APS1-PaidEKSvCPUMonitored",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "EAH5Q9KBGU35DJVC" : {
+      "sku" : "EAH5Q9KBGU35DJVC",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0011",
+        "usagetype" : "APS1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0011",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "J8EE2ABZ49CFYCQB" : {
+      "sku" : "J8EE2ABZ49CFYCQB",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0012",
+        "usagetype" : "APS1-PaidRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0012",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "8KM28CW5Z4PNQZVF" : {
+      "sku" : "8KM28CW5Z4PNQZVF",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0019",
+        "usagetype" : "APS1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0019",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "AZRECVC7NPB2BXU6" : {
+      "sku" : "AZRECVC7NPB2BXU6",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0014",
+        "usagetype" : "APS1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0014",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "7H9NQWVCNANQV6HE" : {
+      "sku" : "7H9NQWVCNANQV6HE",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0015",
+        "usagetype" : "APS1-PaidRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0015",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "JBRPQ9UQXWFVFUAZ" : {
+      "sku" : "JBRPQ9UQXWFVFUAZ",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0004",
+        "usagetype" : "APS1-PaidRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0004",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "6JE3B7325AKD2RZK" : {
+      "sku" : "6JE3B7325AKD2RZK",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0006",
+        "usagetype" : "APS1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0006",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "6JCRDMNPWPFWPH5K" : {
+      "sku" : "6JCRDMNPWPFWPH5K",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty S3 Backup Data Malware Scanned",
+        "usagetype" : "APS1-MalwareProtectionS3Backup",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "K9PH89QRGW2FT49S" : {
+      "sku" : "K9PH89QRGW2FT49S",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Limitless Monitored - CreateDBInstance:0021",
+        "usagetype" : "APS1-PaidRDSACULimitlessMonitored",
+        "operation" : "CreateDBInstance:0021",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "EC77A2SMHRC6GMYQ" : {
+      "sku" : "EC77A2SMHRC6GMYQ",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0005",
+        "usagetype" : "APS1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance:0005",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "P5F8Z7DEA5NMT652" : {
+      "sku" : "P5F8Z7DEA5NMT652",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid On Demand Malware Protection EBS Snapshot Data Scanned",
+        "usagetype" : "APS1-PaidOnDemandEBSSnapshotDataScanned",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "9439PQ6G248N2Z9P" : {
+      "sku" : "9439PQ6G248N2Z9P",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance",
+        "usagetype" : "APS1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "RC5GN8P3YNRHZVUZ" : {
+      "sku" : "RC5GN8P3YNRHZVUZ",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0002",
+        "usagetype" : "APS1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0002",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "UACPXBXKC2SXGUDU" : {
+      "sku" : "UACPXBXKC2SXGUDU",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0014",
+        "usagetype" : "APS1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0014",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "4ZN669ERSC56C2AE" : {
+      "sku" : "4ZN669ERSC56C2AE",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid On Demand Malware Protection EBS Volume Data Scanned",
+        "usagetype" : "APS1-PaidOnDemandEBSVolumeDataScanned",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "2TE8JJMQURYNS94S" : {
+      "sku" : "2TE8JJMQURYNS94S",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0010",
+        "usagetype" : "APS1-PaidRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0010",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "9RBSDS26BRS27VGU" : {
+      "sku" : "9RBSDS26BRS27VGU",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free Kubernetes Audit Logs Events Processed",
+        "usagetype" : "APS1-FreeKubernetesAuditLogsAnalyzed",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "UMPHYA6K4PRX7YPG" : {
+      "sku" : "UMPHYA6K4PRX7YPG",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0010",
+        "usagetype" : "APS1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance:0010",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "Y4TFPA5J6MEEQG2E" : {
+      "sku" : "Y4TFPA5J6MEEQG2E",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0009",
+        "usagetype" : "APS1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance:0009",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "J3FN5KPXGTFTMAFA" : {
+      "sku" : "J3FN5KPXGTFTMAFA",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid CloudTrail Events Processed",
+        "usagetype" : "APS1-PaidEventsAnalyzed",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "HS3UDR2JBPQ3DY7D" : {
+      "sku" : "HS3UDR2JBPQ3DY7D",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid EC2 vCPU Monitored",
+        "usagetype" : "APS1-PaidEC2vCPUMonitored",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "DCUP67T8269BPA44" : {
+      "sku" : "DCUP67T8269BPA44",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0009",
+        "usagetype" : "APS1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0009",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "KX9NMU25MNYFC4TR" : {
+      "sku" : "KX9NMU25MNYFC4TR",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0004",
+        "usagetype" : "APS1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0004",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "HVGTJA3HJJ6QNBU2" : {
+      "sku" : "HVGTJA3HJJ6QNBU2",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free CloudTrail Events Processed",
+        "usagetype" : "APS1-FreeEventsAnalyzed",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "WHDD4FQMS3XPJDVJ" : {
+      "sku" : "WHDD4FQMS3XPJDVJ",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0018",
+        "usagetype" : "APS1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance:0018",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "2D3ADR9FHPURUU4Q" : {
+      "sku" : "2D3ADR9FHPURUU4Q",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Limitless Monitored - CreateDBInstance",
+        "usagetype" : "APS1-PaidRDSACULimitlessMonitored",
+        "operation" : "CreateDBInstance",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "N976UGBFK8TTVFED" : {
+      "sku" : "N976UGBFK8TTVFED",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0014",
+        "usagetype" : "APS1-PaidRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0014",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "HNJAT8Y43CV5N37N" : {
+      "sku" : "HNJAT8Y43CV5N37N",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0006",
+        "usagetype" : "APS1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0006",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "V7WYR23ZS7AKB8HS" : {
+      "sku" : "V7WYR23ZS7AKB8HS",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0021",
+        "usagetype" : "APS1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0021",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "B8ZEGYU592UN9WAS" : {
+      "sku" : "B8ZEGYU592UN9WAS",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0019",
+        "usagetype" : "APS1-PaidRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0019",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "W87N8ZF3VJWPXE4X" : {
+      "sku" : "W87N8ZF3VJWPXE4X",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance",
+        "usagetype" : "APS1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "22KMQNUEHYNCZY4R" : {
+      "sku" : "22KMQNUEHYNCZY4R",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0003",
+        "usagetype" : "APS1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0003",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "XA73GKPSMUZ4W8DQ" : {
+      "sku" : "XA73GKPSMUZ4W8DQ",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty EC2 Backup Data Malware Scanned",
+        "usagetype" : "APS1-MalwareProtectionEC2Backup",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "C4W5NUTCYWYUE72Q" : {
+      "sku" : "C4W5NUTCYWYUE72Q",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0008",
+        "usagetype" : "APS1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0008",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "WFHPD8K4TCMY4TN8" : {
+      "sku" : "WFHPD8K4TCMY4TN8",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0020",
+        "usagetype" : "APS1-PaidRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0020",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "3W8YKERT73NAFRXM" : {
+      "sku" : "3W8YKERT73NAFRXM",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0003",
+        "usagetype" : "APS1-PaidRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0003",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "FAWM3QXNX6SK6T96" : {
+      "sku" : "FAWM3QXNX6SK6T96",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0003",
+        "usagetype" : "APS1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance:0003",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "CR6UW7T2H4SA2S2P" : {
+      "sku" : "CR6UW7T2H4SA2S2P",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Limitless Monitored - CreateDBInstance:0016",
+        "usagetype" : "APS1-FreeRDSACULimitlessMonitored",
+        "operation" : "CreateDBInstance:0016",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "QZGYUNQ9VCCRB6SG" : {
+      "sku" : "QZGYUNQ9VCCRB6SG",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid Fargate vCPU Monitored",
+        "usagetype" : "APS1-PaidFargatevCPUMonitored",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "VQBG5WXZWZ2B39GG" : {
+      "sku" : "VQBG5WXZWZ2B39GG",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0018",
+        "usagetype" : "APS1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0018",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "BZWDWSEZ768884N6" : {
+      "sku" : "BZWDWSEZ768884N6",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Limitless Monitored - CreateDBInstance",
+        "usagetype" : "APS1-FreeRDSACULimitlessMonitored",
+        "operation" : "CreateDBInstance",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "APS37JD3M29JJ7DE" : {
+      "sku" : "APS37JD3M29JJ7DE",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid On Demand Malware Protection EC2 AMI Data Scanned",
+        "usagetype" : "APS1-PaidOnDemandEC2AMIDataScanned",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "ZJYRER6QZAU2Y5B3" : {
+      "sku" : "ZJYRER6QZAU2Y5B3",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0012",
+        "usagetype" : "APS1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance:0012",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "923ZTEYETJKJGEVZ" : {
+      "sku" : "923ZTEYETJKJGEVZ",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid S3 Data Events Processed",
+        "usagetype" : "APS1-PaidS3DataEventsAnalyzed",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "K9WK5EMRCMJDEKC5" : {
+      "sku" : "K9WK5EMRCMJDEKC5",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free Fargate vCPU Monitored",
+        "usagetype" : "APS1-FreeFargatevCPUMonitored",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "4YQURUDNVWZZVUTU" : {
+      "sku" : "4YQURUDNVWZZVUTU",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0021",
+        "usagetype" : "APS1-PaidRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0021",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "JFTFX6EA2NNTDQ4Q" : {
+      "sku" : "JFTFX6EA2NNTDQ4Q",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0006",
+        "usagetype" : "APS1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance:0006",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "VS9Z977PFR3VJMU7" : {
+      "sku" : "VS9Z977PFR3VJMU7",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0021",
+        "usagetype" : "APS1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0021",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "WYEG2ZF43RQDGM7S" : {
+      "sku" : "WYEG2ZF43RQDGM7S",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0015",
+        "usagetype" : "APS1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0015",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "GEFZ9Y3PJ6N72GD8" : {
+      "sku" : "GEFZ9Y3PJ6N72GD8",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0021",
+        "usagetype" : "APS1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance:0021",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "3JP9FF22KP6PYK9M" : {
+      "sku" : "3JP9FF22KP6PYK9M",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Malware Protection S3 Data Scanned",
+        "usagetype" : "APS1-MalwareProtectionS3DataScanned",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "RSREENXN3NAYKNV3" : {
+      "sku" : "RSREENXN3NAYKNV3",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0020",
+        "usagetype" : "APS1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance:0020",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "GUAD6TVHFBQW798E" : {
+      "sku" : "GUAD6TVHFBQW798E",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid Malware Protection EBS Data Scanned",
+        "usagetype" : "APS1-PaidMalwareProtectionEBSDataScanned",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "39H6P4893DFTUNSQ" : {
+      "sku" : "39H6P4893DFTUNSQ",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty EBS Backup Data Malware Scanned",
+        "usagetype" : "APS1-MalwareProtectionEBSBackup",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "FP8J3VXZFEMPC4CY" : {
+      "sku" : "FP8J3VXZFEMPC4CY",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0004",
+        "usagetype" : "APS1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0004",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "TWMZ5HBJXXNY4Y4Y" : {
+      "sku" : "TWMZ5HBJXXNY4Y4Y",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance",
+        "usagetype" : "APS1-PaidRDSvCPUMonitored",
+        "operation" : "CreateDBInstance",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "2TR5FNJ2EAT7DY28" : {
+      "sku" : "2TR5FNJ2EAT7DY28",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0012",
+        "usagetype" : "APS1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0012",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "DJ8T2KBWCWYX5NYB" : {
+      "sku" : "DJ8T2KBWCWYX5NYB",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0008",
+        "usagetype" : "APS1-PaidRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0008",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "39YRRRDXS2Q37UA3" : {
+      "sku" : "39YRRRDXS2Q37UA3",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0015",
+        "usagetype" : "APS1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance:0015",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "434AGDVMJJCGYKDB" : {
+      "sku" : "434AGDVMJJCGYKDB",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0011",
+        "usagetype" : "APS1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance:0011",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "BZ3V49PCHNZ5NMDQ" : {
+      "sku" : "BZ3V49PCHNZ5NMDQ",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free Lambda Data Events Processed",
+        "usagetype" : "APS1-FreeLambdaNetworkLogsAnalyzed-Bytes",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "PVXVR59ETSKN5T84" : {
+      "sku" : "PVXVR59ETSKN5T84",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid Lambda Data Events Processed",
+        "usagetype" : "APS1-PaidLambdaNetworkLogsAnalyzed-Bytes",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "T7ZY83W3Y5VAD7DR" : {
+      "sku" : "T7ZY83W3Y5VAD7DR",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0008",
+        "usagetype" : "APS1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0008",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "RR938HUH225RZEHP" : {
+      "sku" : "RR938HUH225RZEHP",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0006",
+        "usagetype" : "APS1-PaidRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0006",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "SGWG2GK6KQT9WKF8" : {
+      "sku" : "SGWG2GK6KQT9WKF8",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance",
+        "usagetype" : "APS1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "UASWTFWDSKK8FY4T" : {
+      "sku" : "UASWTFWDSKK8FY4T",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0016",
+        "usagetype" : "APS1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance:0016",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "5FKDCDQTCGXBWHRD" : {
+      "sku" : "5FKDCDQTCGXBWHRD",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0010",
+        "usagetype" : "APS1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0010",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "7SSP6QVHPFGYGSAS" : {
+      "sku" : "7SSP6QVHPFGYGSAS",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0008",
+        "usagetype" : "APS1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance:0008",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "MZ4NWUB2FSVDVZ9P" : {
+      "sku" : "MZ4NWUB2FSVDVZ9P",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0019",
+        "usagetype" : "APS1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance:0019",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "8CQQ536RDCK5H6DV" : {
+      "sku" : "8CQQ536RDCK5H6DV",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0009",
+        "usagetype" : "APS1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0009",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "XJQYCDQ9YBAJKCHB" : {
+      "sku" : "XJQYCDQ9YBAJKCHB",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free Malware Protection EBS Data Scanned",
+        "usagetype" : "APS1-FreeMalwareProtectionEBSDataScanned",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "RTWJE9KJMY438UJ2" : {
+      "sku" : "RTWJE9KJMY438UJ2",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0011",
+        "usagetype" : "APS1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0011",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "NH92YNTJ8QVBDF5G" : {
+      "sku" : "NH92YNTJ8QVBDF5G",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0009",
+        "usagetype" : "APS1-PaidRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0009",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "B6X6PBW5E39HVS96" : {
+      "sku" : "B6X6PBW5E39HVS96",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free EC2 vCPU Monitored",
+        "usagetype" : "APS1-FreeEC2vCPUMonitored",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "E354F4VZRBUHFZPV" : {
+      "sku" : "E354F4VZRBUHFZPV",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS ACU Monitored - CreateDBInstance:0014",
+        "usagetype" : "APS1-FreeRDSACUMonitored",
+        "operation" : "CreateDBInstance:0014",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "3AYCZEB8VTC3RNYM" : {
+      "sku" : "3AYCZEB8VTC3RNYM",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Limitless Monitored - CreateDBInstance:0016",
+        "usagetype" : "APS1-PaidRDSACULimitlessMonitored",
+        "operation" : "CreateDBInstance:0016",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "ZRTNAYFP3BJ3HFPY" : {
+      "sku" : "ZRTNAYFP3BJ3HFPY",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty On Demand Malware Protection S3 Data Scanned",
+        "usagetype" : "APS1-OnDemandMalwareProtectionS3DataScanned",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "2TUJ8FN62VKHGWYS" : {
+      "sku" : "2TUJ8FN62VKHGWYS",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0019",
+        "usagetype" : "APS1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0019",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "K6HDZRPYX5BJRU29" : {
+      "sku" : "K6HDZRPYX5BJRU29",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0002",
+        "usagetype" : "APS1-PaidRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0002",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "ZX6N35DCA9YZH6XM" : {
+      "sku" : "ZX6N35DCA9YZH6XM",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0016",
+        "usagetype" : "APS1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0016",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "JHPK9SFW3HAAD6EU" : {
+      "sku" : "JHPK9SFW3HAAD6EU",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0012",
+        "usagetype" : "APS1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0012",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "TGXG8Q44CFDQGVX2" : {
+      "sku" : "TGXG8Q44CFDQGVX2",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0015",
+        "usagetype" : "APS1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0015",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "CUHCK7HC3F5T3QST" : {
+      "sku" : "CUHCK7HC3F5T3QST",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0020",
+        "usagetype" : "APS1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0020",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "YKMMJJTTMNBWYZGB" : {
+      "sku" : "YKMMJJTTMNBWYZGB",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0005",
+        "usagetype" : "APS1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0005",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "JTWDTAJ3PWPQVEQJ" : {
+      "sku" : "JTWDTAJ3PWPQVEQJ",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0016",
+        "usagetype" : "APS1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0016",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "H63WFTUWRRMNJZ3K" : {
+      "sku" : "H63WFTUWRRMNJZ3K",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS ACU Monitored - CreateDBInstance:0018",
+        "usagetype" : "APS1-PaidRDSACUMonitored",
+        "operation" : "CreateDBInstance:0018",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "Z4A558SQMGWMXBVZ" : {
+      "sku" : "Z4A558SQMGWMXBVZ",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid Kubernetes Audit Logs Events Processed",
+        "usagetype" : "APS1-PaidKubernetesAuditLogsAnalyzed",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "ZZZYGNGSZEDN3Z4F" : {
+      "sku" : "ZZZYGNGSZEDN3Z4F",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free Data Events Processed",
+        "usagetype" : "APS1-FreeEventsAnalyzed-Bytes",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "HXKC834VR5EGSCRQ" : {
+      "sku" : "HXKC834VR5EGSCRQ",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0011",
+        "usagetype" : "APS1-PaidRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0011",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "WFE78TZNVJ3TGHZE" : {
+      "sku" : "WFE78TZNVJ3TGHZE",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Free RDS vCPU Monitored - CreateDBInstance:0010",
+        "usagetype" : "APS1-FreeRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0010",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    },
+    "VEKH4V46DCCYJ9BC" : {
+      "sku" : "VEKH4V46DCCYJ9BC",
+      "productFamily" : "GuardDuty",
+      "attributes" : {
+        "servicecode" : "AmazonGuardDuty",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Security Services - Amazon GuardDuty Paid RDS vCPU Monitored - CreateDBInstance:0016",
+        "usagetype" : "APS1-PaidRDSvCPUMonitored",
+        "operation" : "CreateDBInstance:0016",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon GuardDuty"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "KX9NMU25MNYFC4TR" : {
+        "KX9NMU25MNYFC4TR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KX9NMU25MNYFC4TR",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "KX9NMU25MNYFC4TR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KX9NMU25MNYFC4TR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RTWJE9KJMY438UJ2" : {
+        "RTWJE9KJMY438UJ2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RTWJE9KJMY438UJ2",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "RTWJE9KJMY438UJ2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RTWJE9KJMY438UJ2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WFHPD8K4TCMY4TN8" : {
+        "WFHPD8K4TCMY4TN8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WFHPD8K4TCMY4TN8",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "WFHPD8K4TCMY4TN8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WFHPD8K4TCMY4TN8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.22 per vCPU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "A952ZEHH58M6U9KC" : {
+        "A952ZEHH58M6U9KC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "A952ZEHH58M6U9KC",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "A952ZEHH58M6U9KC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "A952ZEHH58M6U9KC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month monitored (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DJ8T2KBWCWYX5NYB" : {
+        "DJ8T2KBWCWYX5NYB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DJ8T2KBWCWYX5NYB",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "DJ8T2KBWCWYX5NYB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DJ8T2KBWCWYX5NYB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.22 per vCPU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9439PQ6G248N2Z9P" : {
+        "9439PQ6G248N2Z9P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9439PQ6G248N2Z9P",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "9439PQ6G248N2Z9P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9439PQ6G248N2Z9P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7SSP6QVHPFGYGSAS" : {
+        "7SSP6QVHPFGYGSAS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7SSP6QVHPFGYGSAS",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "7SSP6QVHPFGYGSAS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7SSP6QVHPFGYGSAS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "22KMQNUEHYNCZY4R" : {
+        "22KMQNUEHYNCZY4R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "22KMQNUEHYNCZY4R",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "22KMQNUEHYNCZY4R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "22KMQNUEHYNCZY4R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Z4A558SQMGWMXBVZ" : {
+        "Z4A558SQMGWMXBVZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Z4A558SQMGWMXBVZ",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "Z4A558SQMGWMXBVZ.JRTCKXETXF.8DQQFJNTGA" : {
+              "rateCode" : "Z4A558SQMGWMXBVZ.JRTCKXETXF.8DQQFJNTGA",
+              "description" : "$0.00000219 per Kubernetes Audit Log for the first 100000000 logs / month in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "100000000",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000021900"
+              },
+              "appliesTo" : [ ]
+            },
+            "Z4A558SQMGWMXBVZ.JRTCKXETXF.9Z8W94EKTV" : {
+              "rateCode" : "Z4A558SQMGWMXBVZ.JRTCKXETXF.9Z8W94EKTV",
+              "description" : "$0.00000109 per Kubernetes Audit Log for the next 100000000 logs / month in Asia Pacific (Singapore) region",
+              "beginRange" : "100000000",
+              "endRange" : "200000000",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000010900"
+              },
+              "appliesTo" : [ ]
+            },
+            "Z4A558SQMGWMXBVZ.JRTCKXETXF.27HXR6XEUN" : {
+              "rateCode" : "Z4A558SQMGWMXBVZ.JRTCKXETXF.27HXR6XEUN",
+              "description" : "$0.00000027 per Kubernetes Audit Log over 200000000 logs / month in Asia Pacific (Singapore) region",
+              "beginRange" : "200000000",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000002700"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XA73GKPSMUZ4W8DQ" : {
+        "XA73GKPSMUZ4W8DQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XA73GKPSMUZ4W8DQ",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "XA73GKPSMUZ4W8DQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XA73GKPSMUZ4W8DQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.083 per GB for EC2 Backup Data Malware Scanned in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0830000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HNJAT8Y43CV5N37N" : {
+        "HNJAT8Y43CV5N37N.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HNJAT8Y43CV5N37N",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "HNJAT8Y43CV5N37N.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HNJAT8Y43CV5N37N.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NH92YNTJ8QVBDF5G" : {
+        "NH92YNTJ8QVBDF5G.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NH92YNTJ8QVBDF5G",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "NH92YNTJ8QVBDF5G.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NH92YNTJ8QVBDF5G.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.22 per vCPU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JHPK9SFW3HAAD6EU" : {
+        "JHPK9SFW3HAAD6EU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JHPK9SFW3HAAD6EU",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "JHPK9SFW3HAAD6EU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JHPK9SFW3HAAD6EU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "C4W5NUTCYWYUE72Q" : {
+        "C4W5NUTCYWYUE72Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C4W5NUTCYWYUE72Q",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "C4W5NUTCYWYUE72Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "C4W5NUTCYWYUE72Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XP3BWX7USHD7UUDP" : {
+        "XP3BWX7USHD7UUDP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XP3BWX7USHD7UUDP",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "XP3BWX7USHD7UUDP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XP3BWX7USHD7UUDP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per S3 Data Event analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B8ZEGYU592UN9WAS" : {
+        "B8ZEGYU592UN9WAS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B8ZEGYU592UN9WAS",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "B8ZEGYU592UN9WAS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B8ZEGYU592UN9WAS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.22 per vCPU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8KM28CW5Z4PNQZVF" : {
+        "8KM28CW5Z4PNQZVF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8KM28CW5Z4PNQZVF",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "8KM28CW5Z4PNQZVF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8KM28CW5Z4PNQZVF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EAH5Q9KBGU35DJVC" : {
+        "EAH5Q9KBGU35DJVC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EAH5Q9KBGU35DJVC",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "EAH5Q9KBGU35DJVC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EAH5Q9KBGU35DJVC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YKMMJJTTMNBWYZGB" : {
+        "YKMMJJTTMNBWYZGB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YKMMJJTTMNBWYZGB",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "YKMMJJTTMNBWYZGB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YKMMJJTTMNBWYZGB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "94WKQUA34KDU5V3A" : {
+        "94WKQUA34KDU5V3A.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "94WKQUA34KDU5V3A",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "94WKQUA34KDU5V3A.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "94WKQUA34KDU5V3A.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU-Month for RDS ACU Limitless Monitored (Free Trial) in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CUHCK7HC3F5T3QST" : {
+        "CUHCK7HC3F5T3QST.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CUHCK7HC3F5T3QST",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "CUHCK7HC3F5T3QST.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CUHCK7HC3F5T3QST.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XJQYCDQ9YBAJKCHB" : {
+        "XJQYCDQ9YBAJKCHB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XJQYCDQ9YBAJKCHB",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "XJQYCDQ9YBAJKCHB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XJQYCDQ9YBAJKCHB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per GB for FreeMalwareProtectionEBSDataScanned in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UACPXBXKC2SXGUDU" : {
+        "UACPXBXKC2SXGUDU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UACPXBXKC2SXGUDU",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "UACPXBXKC2SXGUDU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UACPXBXKC2SXGUDU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "39H6P4893DFTUNSQ" : {
+        "39H6P4893DFTUNSQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "39H6P4893DFTUNSQ",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "39H6P4893DFTUNSQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "39H6P4893DFTUNSQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.083 per GB for EBS Backup Data Malware Scanned in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0830000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HS3UDR2JBPQ3DY7D" : {
+        "HS3UDR2JBPQ3DY7D.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HS3UDR2JBPQ3DY7D",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "HS3UDR2JBPQ3DY7D.JRTCKXETXF.C2QCTD4VXQ" : {
+              "rateCode" : "HS3UDR2JBPQ3DY7D.JRTCKXETXF.C2QCTD4VXQ",
+              "description" : "$1.85 per vCPU for the first 500 EC2 vCPU / month monitored in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "500",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.8500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "HS3UDR2JBPQ3DY7D.JRTCKXETXF.JJUTPMMDBH" : {
+              "rateCode" : "HS3UDR2JBPQ3DY7D.JRTCKXETXF.JJUTPMMDBH",
+              "description" : "$0.93 per vCPU for the next 4500 EC2 vCPU / month monitored in Asia Pacific (Singapore) region",
+              "beginRange" : "500",
+              "endRange" : "5000",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.9300000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "HS3UDR2JBPQ3DY7D.JRTCKXETXF.YKYQ4272N3" : {
+              "rateCode" : "HS3UDR2JBPQ3DY7D.JRTCKXETXF.YKYQ4272N3",
+              "description" : "$0.31 per vCPU for above 5000 EC2 vCPU / month monitored in Asia Pacific (Singapore) region",
+              "beginRange" : "5000",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6JE3B7325AKD2RZK" : {
+        "6JE3B7325AKD2RZK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6JE3B7325AKD2RZK",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "6JE3B7325AKD2RZK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6JE3B7325AKD2RZK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FS5VH54FHZMW2FBS" : {
+        "FS5VH54FHZMW2FBS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FS5VH54FHZMW2FBS",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "FS5VH54FHZMW2FBS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FS5VH54FHZMW2FBS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7H9NQWVCNANQV6HE" : {
+        "7H9NQWVCNANQV6HE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7H9NQWVCNANQV6HE",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "7H9NQWVCNANQV6HE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7H9NQWVCNANQV6HE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.22 per vCPU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WFE78TZNVJ3TGHZE" : {
+        "WFE78TZNVJ3TGHZE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WFE78TZNVJ3TGHZE",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "WFE78TZNVJ3TGHZE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WFE78TZNVJ3TGHZE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HXKC834VR5EGSCRQ" : {
+        "HXKC834VR5EGSCRQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HXKC834VR5EGSCRQ",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "HXKC834VR5EGSCRQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HXKC834VR5EGSCRQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.22 per vCPU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GEFZ9Y3PJ6N72GD8" : {
+        "GEFZ9Y3PJ6N72GD8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GEFZ9Y3PJ6N72GD8",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "GEFZ9Y3PJ6N72GD8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GEFZ9Y3PJ6N72GD8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6EE78HATK62FDFAC" : {
+        "6EE78HATK62FDFAC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6EE78HATK62FDFAC",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "6EE78HATK62FDFAC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6EE78HATK62FDFAC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.083 per GB for On Demand Malware Protection S3 Recovery Point Data Scanned in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0830000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "K6HDZRPYX5BJRU29" : {
+        "K6HDZRPYX5BJRU29.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K6HDZRPYX5BJRU29",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "K6HDZRPYX5BJRU29.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K6HDZRPYX5BJRU29.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.22 per vCPU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "K9PH89QRGW2FT49S" : {
+        "K9PH89QRGW2FT49S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K9PH89QRGW2FT49S",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "K9PH89QRGW2FT49S.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K9PH89QRGW2FT49S.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU-Month for RDS ACU Limitless Monitored in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "923ZTEYETJKJGEVZ" : {
+        "923ZTEYETJKJGEVZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "923ZTEYETJKJGEVZ",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "923ZTEYETJKJGEVZ.JRTCKXETXF.YFTRE9Q8RU" : {
+              "rateCode" : "923ZTEYETJKJGEVZ.JRTCKXETXF.YFTRE9Q8RU",
+              "description" : "$0.00000116 per S3 Data Event for the first 500000000 events / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "500000000",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000011600"
+              },
+              "appliesTo" : [ ]
+            },
+            "923ZTEYETJKJGEVZ.JRTCKXETXF.KHSMBGBSRQ" : {
+              "rateCode" : "923ZTEYETJKJGEVZ.JRTCKXETXF.KHSMBGBSRQ",
+              "description" : "$0.00000058 per S3 Data Event for the next 4500000000 events / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "500000000",
+              "endRange" : "5000000000",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000005800"
+              },
+              "appliesTo" : [ ]
+            },
+            "923ZTEYETJKJGEVZ.JRTCKXETXF.TZN6KSERSS" : {
+              "rateCode" : "923ZTEYETJKJGEVZ.JRTCKXETXF.TZN6KSERSS",
+              "description" : "$0.00000029 per S3 Data Event over 5000000000 events / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "5000000000",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000002900"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PVXVR59ETSKN5T84" : {
+        "PVXVR59ETSKN5T84.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PVXVR59ETSKN5T84",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "PVXVR59ETSKN5T84.JRTCKXETXF.C2QCTD4VXQ" : {
+              "rateCode" : "PVXVR59ETSKN5T84.JRTCKXETXF.C2QCTD4VXQ",
+              "description" : "$1.15 per GB for the first 500 GB / month of Lambda based network data analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "500",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "1.1500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "PVXVR59ETSKN5T84.JRTCKXETXF.FNVAXVYQW3" : {
+              "rateCode" : "PVXVR59ETSKN5T84.JRTCKXETXF.FNVAXVYQW3",
+              "description" : "$0.58 per GB for the next 2000 GB / month of Lambda based network data analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "500",
+              "endRange" : "2500",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.5800000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "PVXVR59ETSKN5T84.JRTCKXETXF.HUSW68NB95" : {
+              "rateCode" : "PVXVR59ETSKN5T84.JRTCKXETXF.HUSW68NB95",
+              "description" : "$0.29 per GB for the next 7500 GB / month of Lambda based network data analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "2500",
+              "endRange" : "10000",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.2900000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "PVXVR59ETSKN5T84.JRTCKXETXF.B536CJ4M58" : {
+              "rateCode" : "PVXVR59ETSKN5T84.JRTCKXETXF.B536CJ4M58",
+              "description" : "$0.17 per GB over 10000 GB / month of Lambda based network data analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "10000",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1700000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BZ3V49PCHNZ5NMDQ" : {
+        "BZ3V49PCHNZ5NMDQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BZ3V49PCHNZ5NMDQ",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "BZ3V49PCHNZ5NMDQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BZ3V49PCHNZ5NMDQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB of Lambda based VPC Flow Log & DNS log data analyzed in (free trial) Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "P5F8Z7DEA5NMT652" : {
+        "P5F8Z7DEA5NMT652.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "P5F8Z7DEA5NMT652",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "P5F8Z7DEA5NMT652.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "P5F8Z7DEA5NMT652.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.083 per GB for On Demand Malware Protection EBS Snapshot Data Scanned in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0830000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UASWTFWDSKK8FY4T" : {
+        "UASWTFWDSKK8FY4T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UASWTFWDSKK8FY4T",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "UASWTFWDSKK8FY4T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UASWTFWDSKK8FY4T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9RBSDS26BRS27VGU" : {
+        "9RBSDS26BRS27VGU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9RBSDS26BRS27VGU",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "9RBSDS26BRS27VGU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9RBSDS26BRS27VGU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per Kubernetes Audit Log Analyzed (free trial) in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GUAD6TVHFBQW798E" : {
+        "GUAD6TVHFBQW798E.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GUAD6TVHFBQW798E",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "GUAD6TVHFBQW798E.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GUAD6TVHFBQW798E.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per GB for PaidMalwareProtectionEBSDataScanned in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UMPHYA6K4PRX7YPG" : {
+        "UMPHYA6K4PRX7YPG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UMPHYA6K4PRX7YPG",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "UMPHYA6K4PRX7YPG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UMPHYA6K4PRX7YPG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6DPFSMCX5786D359" : {
+        "6DPFSMCX5786D359.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6DPFSMCX5786D359",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "6DPFSMCX5786D359.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6DPFSMCX5786D359.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.22 per vCPU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2TR5FNJ2EAT7DY28" : {
+        "2TR5FNJ2EAT7DY28.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2TR5FNJ2EAT7DY28",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "2TR5FNJ2EAT7DY28.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2TR5FNJ2EAT7DY28.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4ZN669ERSC56C2AE" : {
+        "4ZN669ERSC56C2AE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4ZN669ERSC56C2AE",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "4ZN669ERSC56C2AE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4ZN669ERSC56C2AE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per GB for PaidOnDemandEBSVolumeDataScanned in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CR6UW7T2H4SA2S2P" : {
+        "CR6UW7T2H4SA2S2P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CR6UW7T2H4SA2S2P",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "CR6UW7T2H4SA2S2P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CR6UW7T2H4SA2S2P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU-Month for RDS ACU Limitless Monitored (Free Trial) in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "APS37JD3M29JJ7DE" : {
+        "APS37JD3M29JJ7DE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "APS37JD3M29JJ7DE",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "APS37JD3M29JJ7DE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "APS37JD3M29JJ7DE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.083 per GB for On Demand Malware Protection EC2 AMI Data Scanned in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0830000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RR938HUH225RZEHP" : {
+        "RR938HUH225RZEHP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RR938HUH225RZEHP",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "RR938HUH225RZEHP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RR938HUH225RZEHP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.22 per vCPU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "SGWG2GK6KQT9WKF8" : {
+        "SGWG2GK6KQT9WKF8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SGWG2GK6KQT9WKF8",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "SGWG2GK6KQT9WKF8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SGWG2GK6KQT9WKF8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JTWDTAJ3PWPQVEQJ" : {
+        "JTWDTAJ3PWPQVEQJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JTWDTAJ3PWPQVEQJ",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "JTWDTAJ3PWPQVEQJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JTWDTAJ3PWPQVEQJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JFTFX6EA2NNTDQ4Q" : {
+        "JFTFX6EA2NNTDQ4Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JFTFX6EA2NNTDQ4Q",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "JFTFX6EA2NNTDQ4Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JFTFX6EA2NNTDQ4Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9D7YTFSNKN7D4T7B" : {
+        "9D7YTFSNKN7D4T7B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9D7YTFSNKN7D4T7B",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "9D7YTFSNKN7D4T7B.JRTCKXETXF.C2QCTD4VXQ" : {
+              "rateCode" : "9D7YTFSNKN7D4T7B.JRTCKXETXF.C2QCTD4VXQ",
+              "description" : "$1.15 per GB for the first 500 GB / month of data analyzed Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "500",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "1.1500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "9D7YTFSNKN7D4T7B.JRTCKXETXF.FNVAXVYQW3" : {
+              "rateCode" : "9D7YTFSNKN7D4T7B.JRTCKXETXF.FNVAXVYQW3",
+              "description" : "$0.58 per GB for the next 2000 GB / month of data analyzed Asia Pacific (Singapore) region",
+              "beginRange" : "500",
+              "endRange" : "2500",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.5800000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "9D7YTFSNKN7D4T7B.JRTCKXETXF.HUSW68NB95" : {
+              "rateCode" : "9D7YTFSNKN7D4T7B.JRTCKXETXF.HUSW68NB95",
+              "description" : "$0.29 per GB for the next 7500 GB / month of data analyzed Asia Pacific (Singapore) region",
+              "beginRange" : "2500",
+              "endRange" : "10000",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.2900000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "9D7YTFSNKN7D4T7B.JRTCKXETXF.B536CJ4M58" : {
+              "rateCode" : "9D7YTFSNKN7D4T7B.JRTCKXETXF.B536CJ4M58",
+              "description" : "$0.17 per GB over 10000 GB / month of data analyzed Asia Pacific (Singapore) region",
+              "beginRange" : "10000",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1700000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8CQQ536RDCK5H6DV" : {
+        "8CQQ536RDCK5H6DV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8CQQ536RDCK5H6DV",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "8CQQ536RDCK5H6DV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8CQQ536RDCK5H6DV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6JCRDMNPWPFWPH5K" : {
+        "6JCRDMNPWPFWPH5K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6JCRDMNPWPFWPH5K",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "6JCRDMNPWPFWPH5K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6JCRDMNPWPFWPH5K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.083 per GB for S3 Backup Data Malware Scanned in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0830000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2TE8JJMQURYNS94S" : {
+        "2TE8JJMQURYNS94S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2TE8JJMQURYNS94S",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "2TE8JJMQURYNS94S.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2TE8JJMQURYNS94S.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.22 per vCPU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3W8YKERT73NAFRXM" : {
+        "3W8YKERT73NAFRXM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3W8YKERT73NAFRXM",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "3W8YKERT73NAFRXM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3W8YKERT73NAFRXM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.22 per vCPU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "K9WK5EMRCMJDEKC5" : {
+        "K9WK5EMRCMJDEKC5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K9WK5EMRCMJDEKC5",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "K9WK5EMRCMJDEKC5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K9WK5EMRCMJDEKC5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month monitored (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WHDD4FQMS3XPJDVJ" : {
+        "WHDD4FQMS3XPJDVJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WHDD4FQMS3XPJDVJ",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "WHDD4FQMS3XPJDVJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WHDD4FQMS3XPJDVJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FAWM3QXNX6SK6T96" : {
+        "FAWM3QXNX6SK6T96.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FAWM3QXNX6SK6T96",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "FAWM3QXNX6SK6T96.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FAWM3QXNX6SK6T96.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3JP9FF22KP6PYK9M" : {
+        "3JP9FF22KP6PYK9M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3JP9FF22KP6PYK9M",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "3JP9FF22KP6PYK9M.JRTCKXETXF.8EEUB22XNJ" : {
+              "rateCode" : "3JP9FF22KP6PYK9M.JRTCKXETXF.8EEUB22XNJ",
+              "description" : "$0.00 per GB - for the first 1GB for Malware Protection S3 Data Scanned in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "1",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "3JP9FF22KP6PYK9M.JRTCKXETXF.JTU8TKNAMW" : {
+              "rateCode" : "3JP9FF22KP6PYK9M.JRTCKXETXF.JTU8TKNAMW",
+              "description" : "$0.135 per GB - for above 1GB for Malware Protection S3 Data Scanned in Asia Pacific (Singapore)",
+              "beginRange" : "1",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1350000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VEKH4V46DCCYJ9BC" : {
+        "VEKH4V46DCCYJ9BC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VEKH4V46DCCYJ9BC",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "VEKH4V46DCCYJ9BC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VEKH4V46DCCYJ9BC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.22 per vCPU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5FKDCDQTCGXBWHRD" : {
+        "5FKDCDQTCGXBWHRD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5FKDCDQTCGXBWHRD",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "5FKDCDQTCGXBWHRD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5FKDCDQTCGXBWHRD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "S4TMSQ6NQESC7TNZ" : {
+        "S4TMSQ6NQESC7TNZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "S4TMSQ6NQESC7TNZ",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "S4TMSQ6NQESC7TNZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "S4TMSQ6NQESC7TNZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AZRECVC7NPB2BXU6" : {
+        "AZRECVC7NPB2BXU6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AZRECVC7NPB2BXU6",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "AZRECVC7NPB2BXU6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AZRECVC7NPB2BXU6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZX6N35DCA9YZH6XM" : {
+        "ZX6N35DCA9YZH6XM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZX6N35DCA9YZH6XM",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZX6N35DCA9YZH6XM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZX6N35DCA9YZH6XM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RSREENXN3NAYKNV3" : {
+        "RSREENXN3NAYKNV3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RSREENXN3NAYKNV3",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "RSREENXN3NAYKNV3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RSREENXN3NAYKNV3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "H63WFTUWRRMNJZ3K" : {
+        "H63WFTUWRRMNJZ3K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "H63WFTUWRRMNJZ3K",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "H63WFTUWRRMNJZ3K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "H63WFTUWRRMNJZ3K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3AYCZEB8VTC3RNYM" : {
+        "3AYCZEB8VTC3RNYM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3AYCZEB8VTC3RNYM",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "3AYCZEB8VTC3RNYM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3AYCZEB8VTC3RNYM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU-Month for RDS ACU Limitless Monitored in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZRTNAYFP3BJ3HFPY" : {
+        "ZRTNAYFP3BJ3HFPY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZRTNAYFP3BJ3HFPY",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZRTNAYFP3BJ3HFPY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZRTNAYFP3BJ3HFPY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.135 per GB for On Demand Malware Protection S3 Data Scanned in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1350000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N3CHCSZDVUET6U7C" : {
+        "N3CHCSZDVUET6U7C.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N3CHCSZDVUET6U7C",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "N3CHCSZDVUET6U7C.JRTCKXETXF.C2QCTD4VXQ" : {
+              "rateCode" : "N3CHCSZDVUET6U7C.JRTCKXETXF.C2QCTD4VXQ",
+              "description" : "$1.85 per vCPU for the first 500 vCPU / month monitored in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "500",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.8500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "N3CHCSZDVUET6U7C.JRTCKXETXF.JJUTPMMDBH" : {
+              "rateCode" : "N3CHCSZDVUET6U7C.JRTCKXETXF.JJUTPMMDBH",
+              "description" : "$0.93 per vCPU for the next 4500 vCPU / month monitored in Asia Pacific (Singapore) region",
+              "beginRange" : "500",
+              "endRange" : "5000",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.9300000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "N3CHCSZDVUET6U7C.JRTCKXETXF.YKYQ4272N3" : {
+              "rateCode" : "N3CHCSZDVUET6U7C.JRTCKXETXF.YKYQ4272N3",
+              "description" : "$0.31 per vCPU for above 5000 vCPU / month monitored in Asia Pacific (Singapore) region",
+              "beginRange" : "5000",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BKHSB4VGVN4FQMKK" : {
+        "BKHSB4VGVN4FQMKK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BKHSB4VGVN4FQMKK",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "BKHSB4VGVN4FQMKK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BKHSB4VGVN4FQMKK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MZ4NWUB2FSVDVZ9P" : {
+        "MZ4NWUB2FSVDVZ9P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MZ4NWUB2FSVDVZ9P",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "MZ4NWUB2FSVDVZ9P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MZ4NWUB2FSVDVZ9P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3ZW3PPJRJ7NPXDMJ" : {
+        "3ZW3PPJRJ7NPXDMJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3ZW3PPJRJ7NPXDMJ",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "3ZW3PPJRJ7NPXDMJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3ZW3PPJRJ7NPXDMJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FP8J3VXZFEMPC4CY" : {
+        "FP8J3VXZFEMPC4CY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FP8J3VXZFEMPC4CY",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "FP8J3VXZFEMPC4CY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FP8J3VXZFEMPC4CY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Y4TFPA5J6MEEQG2E" : {
+        "Y4TFPA5J6MEEQG2E.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Y4TFPA5J6MEEQG2E",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "Y4TFPA5J6MEEQG2E.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Y4TFPA5J6MEEQG2E.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VS9Z977PFR3VJMU7" : {
+        "VS9Z977PFR3VJMU7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VS9Z977PFR3VJMU7",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "VS9Z977PFR3VJMU7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VS9Z977PFR3VJMU7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HVGTJA3HJJ6QNBU2" : {
+        "HVGTJA3HJJ6QNBU2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HVGTJA3HJJ6QNBU2",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "HVGTJA3HJJ6QNBU2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HVGTJA3HJJ6QNBU2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per CloudTrail events analyzed (free trial) Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RBTD595UNT646N6V" : {
+        "RBTD595UNT646N6V.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RBTD595UNT646N6V",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "RBTD595UNT646N6V.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RBTD595UNT646N6V.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E354F4VZRBUHFZPV" : {
+        "E354F4VZRBUHFZPV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E354F4VZRBUHFZPV",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "E354F4VZRBUHFZPV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E354F4VZRBUHFZPV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EC77A2SMHRC6GMYQ" : {
+        "EC77A2SMHRC6GMYQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EC77A2SMHRC6GMYQ",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "EC77A2SMHRC6GMYQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EC77A2SMHRC6GMYQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "J8EE2ABZ49CFYCQB" : {
+        "J8EE2ABZ49CFYCQB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J8EE2ABZ49CFYCQB",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "J8EE2ABZ49CFYCQB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "J8EE2ABZ49CFYCQB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.22 per vCPU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BZWDWSEZ768884N6" : {
+        "BZWDWSEZ768884N6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BZWDWSEZ768884N6",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "BZWDWSEZ768884N6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BZWDWSEZ768884N6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU-Month for RDS ACU Limitless Monitored (Free Trial) in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DCUP67T8269BPA44" : {
+        "DCUP67T8269BPA44.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DCUP67T8269BPA44",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "DCUP67T8269BPA44.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DCUP67T8269BPA44.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QZGYUNQ9VCCRB6SG" : {
+        "QZGYUNQ9VCCRB6SG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QZGYUNQ9VCCRB6SG",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "QZGYUNQ9VCCRB6SG.JRTCKXETXF.C2QCTD4VXQ" : {
+              "rateCode" : "QZGYUNQ9VCCRB6SG.JRTCKXETXF.C2QCTD4VXQ",
+              "description" : "$1.85 per vCPU for the first 500 Fargate vCPU / month monitored in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "500",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.8500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "QZGYUNQ9VCCRB6SG.JRTCKXETXF.JJUTPMMDBH" : {
+              "rateCode" : "QZGYUNQ9VCCRB6SG.JRTCKXETXF.JJUTPMMDBH",
+              "description" : "$0.93 per vCPU for the next 4500 Fargate vCPU / month monitored in Asia Pacific (Singapore) region",
+              "beginRange" : "500",
+              "endRange" : "5000",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.9300000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "QZGYUNQ9VCCRB6SG.JRTCKXETXF.YKYQ4272N3" : {
+              "rateCode" : "QZGYUNQ9VCCRB6SG.JRTCKXETXF.YKYQ4272N3",
+              "description" : "$0.31 per vCPU for above 5000 Fargate vCPU / month monitored in Asia Pacific (Singapore) region",
+              "beginRange" : "5000",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "B6X6PBW5E39HVS96" : {
+        "B6X6PBW5E39HVS96.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "B6X6PBW5E39HVS96",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "B6X6PBW5E39HVS96.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "B6X6PBW5E39HVS96.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month monitored (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2D3ADR9FHPURUU4Q" : {
+        "2D3ADR9FHPURUU4Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2D3ADR9FHPURUU4Q",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "2D3ADR9FHPURUU4Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2D3ADR9FHPURUU4Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU-Month for RDS ACU Limitless Monitored in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TWMZ5HBJXXNY4Y4Y" : {
+        "TWMZ5HBJXXNY4Y4Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TWMZ5HBJXXNY4Y4Y",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "TWMZ5HBJXXNY4Y4Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TWMZ5HBJXXNY4Y4Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.22 per vCPU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VQBG5WXZWZ2B39GG" : {
+        "VQBG5WXZWZ2B39GG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VQBG5WXZWZ2B39GG",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "VQBG5WXZWZ2B39GG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VQBG5WXZWZ2B39GG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "39YRRRDXS2Q37UA3" : {
+        "39YRRRDXS2Q37UA3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "39YRRRDXS2Q37UA3",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "39YRRRDXS2Q37UA3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "39YRRRDXS2Q37UA3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "J3FN5KPXGTFTMAFA" : {
+        "J3FN5KPXGTFTMAFA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "J3FN5KPXGTFTMAFA",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "J3FN5KPXGTFTMAFA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "J3FN5KPXGTFTMAFA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0000046 per CloudTrail event analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000046000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TGXG8Q44CFDQGVX2" : {
+        "TGXG8Q44CFDQGVX2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TGXG8Q44CFDQGVX2",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "TGXG8Q44CFDQGVX2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TGXG8Q44CFDQGVX2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "T7ZY83W3Y5VAD7DR" : {
+        "T7ZY83W3Y5VAD7DR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "T7ZY83W3Y5VAD7DR",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "T7ZY83W3Y5VAD7DR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "T7ZY83W3Y5VAD7DR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2TUJ8FN62VKHGWYS" : {
+        "2TUJ8FN62VKHGWYS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2TUJ8FN62VKHGWYS",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "2TUJ8FN62VKHGWYS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2TUJ8FN62VKHGWYS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WYEG2ZF43RQDGM7S" : {
+        "WYEG2ZF43RQDGM7S.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WYEG2ZF43RQDGM7S",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "WYEG2ZF43RQDGM7S.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WYEG2ZF43RQDGM7S.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N976UGBFK8TTVFED" : {
+        "N976UGBFK8TTVFED.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N976UGBFK8TTVFED",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "N976UGBFK8TTVFED.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N976UGBFK8TTVFED.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.22 per vCPU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V7WYR23ZS7AKB8HS" : {
+        "V7WYR23ZS7AKB8HS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V7WYR23ZS7AKB8HS",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "V7WYR23ZS7AKB8HS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V7WYR23ZS7AKB8HS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZZZYGNGSZEDN3Z4F" : {
+        "ZZZYGNGSZEDN3Z4F.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZZZYGNGSZEDN3Z4F",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZZZYGNGSZEDN3Z4F.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZZZYGNGSZEDN3Z4F.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB of VPC Flow Log & DNS log data analyzed (free trial) Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JBRPQ9UQXWFVFUAZ" : {
+        "JBRPQ9UQXWFVFUAZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JBRPQ9UQXWFVFUAZ",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "JBRPQ9UQXWFVFUAZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JBRPQ9UQXWFVFUAZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.22 per vCPU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WGK62YYHYPC7U44G" : {
+        "WGK62YYHYPC7U44G.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WGK62YYHYPC7U44G",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "WGK62YYHYPC7U44G.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WGK62YYHYPC7U44G.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.31 per ACU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.3100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZJYRER6QZAU2Y5B3" : {
+        "ZJYRER6QZAU2Y5B3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZJYRER6QZAU2Y5B3",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZJYRER6QZAU2Y5B3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZJYRER6QZAU2Y5B3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RC5GN8P3YNRHZVUZ" : {
+        "RC5GN8P3YNRHZVUZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RC5GN8P3YNRHZVUZ",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "RC5GN8P3YNRHZVUZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RC5GN8P3YNRHZVUZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per vCPU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "434AGDVMJJCGYKDB" : {
+        "434AGDVMJJCGYKDB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "434AGDVMJJCGYKDB",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "434AGDVMJJCGYKDB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "434AGDVMJJCGYKDB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HMN9EQQFHYJHH8HJ" : {
+        "HMN9EQQFHYJHH8HJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HMN9EQQFHYJHH8HJ",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "HMN9EQQFHYJHH8HJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HMN9EQQFHYJHH8HJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000323 per Event for On Demand Malware Protection S3 Request Monitored in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0003230000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QCAXCSQABTVVP6MS" : {
+        "QCAXCSQABTVVP6MS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QCAXCSQABTVVP6MS",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "QCAXCSQABTVVP6MS.JRTCKXETXF.JXGPBPHWFF" : {
+              "rateCode" : "QCAXCSQABTVVP6MS.JRTCKXETXF.JXGPBPHWFF",
+              "description" : "$0 per request for the first 1000 S3 PUT requests / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "1000",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "QCAXCSQABTVVP6MS.JRTCKXETXF.MUBTP6UPGZ" : {
+              "rateCode" : "QCAXCSQABTVVP6MS.JRTCKXETXF.MUBTP6UPGZ",
+              "description" : "$0.000323 per request for above 1000 S3 PUT requests / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "1000",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0003230000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4YQURUDNVWZZVUTU" : {
+        "4YQURUDNVWZZVUTU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4YQURUDNVWZZVUTU",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "4YQURUDNVWZZVUTU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4YQURUDNVWZZVUTU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.22 per vCPU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FUVKW8J3F7P2622E" : {
+        "FUVKW8J3F7P2622E.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FUVKW8J3F7P2622E",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "FUVKW8J3F7P2622E.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FUVKW8J3F7P2622E.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.22 per vCPU / month analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "vCPU-Months",
+              "pricePerUnit" : {
+                "USD" : "1.2200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "W87N8ZF3VJWPXE4X" : {
+        "W87N8ZF3VJWPXE4X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "W87N8ZF3VJWPXE4X",
+          "effectiveDate" : "2026-01-01T00:00:00Z",
+          "priceDimensions" : {
+            "W87N8ZF3VJWPXE4X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "W87N8ZF3VJWPXE4X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per ACU / month analyzed (free trial) in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ACU-Months",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

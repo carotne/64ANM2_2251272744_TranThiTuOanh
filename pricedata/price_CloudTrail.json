@@ -1,0 +1,521 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AWSCloudTrail",
+  "version" : "20260521200133",
+  "publicationDate" : "2026-05-21T20:01:33Z",
+  "products" : {
+    "4W8H44ZS56EXV7WB" : {
+      "sku" : "4W8H44ZS56EXV7WB",
+      "productFamily" : "Management Tools - AWS CloudTrail Insights Events",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-DataInsightsEvents",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "8CXBNQ3FZMM42C2Q" : {
+      "sku" : "8CXBNQ3FZMM42C2Q",
+      "productFamily" : "Management Tools - AWS CloudTrail",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-FreeTrialIngestion-Bytes",
+        "operation" : "",
+        "category" : "FreeTrialIngestion-Bytes",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "D7AZK37QS8HTQ6DD" : {
+      "sku" : "D7AZK37QS8HTQ6DD",
+      "productFamily" : "Management Tools - AWS CloudTrail",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-QueryScanned-Bytes",
+        "operation" : "",
+        "category" : "QueryScanned-Bytes",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "DPD68W9KN3SD78W6" : {
+      "sku" : "DPD68W9KN3SD78W6",
+      "productFamily" : "Management Tools - AWS CloudTrail Paid Events Recorded",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-PaidEventsRecorded",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "QWBH8F64E3Z82BTS" : {
+      "sku" : "QWBH8F64E3Z82BTS",
+      "productFamily" : "Management Tools - AWS CloudTrail",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-EventsAnalyzed-AggregatedEvents",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "YVBF6W5VN6WKKD6Y" : {
+      "sku" : "YVBF6W5VN6WKKD6Y",
+      "productFamily" : "Management Tools - AWS CloudTrail Insights Events",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-InsightsEvents",
+        "operation" : "",
+        "insightstype" : "APICallVolume",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "5FDADHKS9S8RAX2P" : {
+      "sku" : "5FDADHKS9S8RAX2P",
+      "productFamily" : "Management Tools - AWS CloudTrail",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-NetworkEventsRecorded",
+        "operation" : "",
+        "eventType" : "Network events",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "UHY4D6P27CVUDUND" : {
+      "sku" : "UHY4D6P27CVUDUND",
+      "productFamily" : "Management Tools - AWS CloudTrail",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-Ingestion-Bytes",
+        "operation" : "",
+        "category" : "Ingestion-Bytes",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "BST27YMX8ASNNU5D" : {
+      "sku" : "BST27YMX8ASNNU5D",
+      "productFamily" : "Management Tools - AWS CloudTrail Data Events Recorded",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-DataEventsRecorded",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "QYHR8FWCVAM4V7KB" : {
+      "sku" : "QYHR8FWCVAM4V7KB",
+      "productFamily" : "Management Tools - AWS CloudTrail",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-FreeTrialQueryScanned-Bytes",
+        "operation" : "",
+        "category" : "FreeTrialQueryScanned-Bytes",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "GACSZECZVRF8ETJH" : {
+      "sku" : "GACSZECZVRF8ETJH",
+      "productFamily" : "Management Tools - AWS CloudTrail",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-PaidStorage-ByteHrs",
+        "operation" : "",
+        "category" : "PaidStorage-ByteHrs",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "CDF49ARRQWTH2GM9" : {
+      "sku" : "CDF49ARRQWTH2GM9",
+      "productFamily" : "Management Tools - AWS CloudTrail Free Events Recorded",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-FreeEventsRecorded",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "545VY9UH69UTU7UB" : {
+      "sku" : "545VY9UH69UTU7UB",
+      "productFamily" : "Management Tools - AWS CloudTrail",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-Ingestion-Bytes-1yearstore-Other-data-sources",
+        "operation" : "",
+        "category" : "Ingestion-Bytes-1yearstore-other-data-sources",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    },
+    "R3BDBF9QCDCE3MFX" : {
+      "sku" : "R3BDBF9QCDCE3MFX",
+      "productFamily" : "Management Tools - AWS CloudTrail",
+      "attributes" : {
+        "servicecode" : "AWSCloudTrail",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-Ingestion-Bytes-1yearstore-Live-CloudTrail-Logs",
+        "operation" : "",
+        "category" : "Ingestion-Bytes-1yearstore",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS CloudTrail"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "R3BDBF9QCDCE3MFX" : {
+        "R3BDBF9QCDCE3MFX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "R3BDBF9QCDCE3MFX",
+          "effectiveDate" : "2026-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "R3BDBF9QCDCE3MFX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "R3BDBF9QCDCE3MFX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.75/GB for Ingestion with 1 year retention for live CloudTrail logs in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.7500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QYHR8FWCVAM4V7KB" : {
+        "QYHR8FWCVAM4V7KB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QYHR8FWCVAM4V7KB",
+          "effectiveDate" : "2026-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "QYHR8FWCVAM4V7KB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QYHR8FWCVAM4V7KB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per GB for FreeTrialQueryScanned-Bytes in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "D7AZK37QS8HTQ6DD" : {
+        "D7AZK37QS8HTQ6DD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D7AZK37QS8HTQ6DD",
+          "effectiveDate" : "2026-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "D7AZK37QS8HTQ6DD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "D7AZK37QS8HTQ6DD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per GB for QueryScanned-Bytes in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0050000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DPD68W9KN3SD78W6" : {
+        "DPD68W9KN3SD78W6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DPD68W9KN3SD78W6",
+          "effectiveDate" : "2026-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "DPD68W9KN3SD78W6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DPD68W9KN3SD78W6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "0.00002 per paid event recorded in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000200000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4W8H44ZS56EXV7WB" : {
+        "4W8H44ZS56EXV7WB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4W8H44ZS56EXV7WB",
+          "effectiveDate" : "2026-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "4W8H44ZS56EXV7WB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4W8H44ZS56EXV7WB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0000003 per Event for DataInsightsEvents in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000003000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "545VY9UH69UTU7UB" : {
+        "545VY9UH69UTU7UB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "545VY9UH69UTU7UB",
+          "effectiveDate" : "2026-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "545VY9UH69UTU7UB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "545VY9UH69UTU7UB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.5/GB for Ingestion with 1 year retention for other data sources in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UHY4D6P27CVUDUND" : {
+        "UHY4D6P27CVUDUND.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UHY4D6P27CVUDUND",
+          "effectiveDate" : "2026-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "UHY4D6P27CVUDUND.JRTCKXETXF.WDPN22KHCH" : {
+              "rateCode" : "UHY4D6P27CVUDUND.JRTCKXETXF.WDPN22KHCH",
+              "description" : "$2.5 per GB for Ingestion-Bytes in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "5120",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "2.5000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "UHY4D6P27CVUDUND.JRTCKXETXF.JGJ82SVVQY" : {
+              "rateCode" : "UHY4D6P27CVUDUND.JRTCKXETXF.JGJ82SVVQY",
+              "description" : "$1 per GB for Ingestion-Bytes in Asia Pacific (Singapore)",
+              "beginRange" : "5120",
+              "endRange" : "25600",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "UHY4D6P27CVUDUND.JRTCKXETXF.BK48SQ6UVE" : {
+              "rateCode" : "UHY4D6P27CVUDUND.JRTCKXETXF.BK48SQ6UVE",
+              "description" : "$0.5 per GB for Ingestion-Bytes in Asia Pacific (Singapore)",
+              "beginRange" : "25600",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.5000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YVBF6W5VN6WKKD6Y" : {
+        "YVBF6W5VN6WKKD6Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YVBF6W5VN6WKKD6Y",
+          "effectiveDate" : "2026-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "YVBF6W5VN6WKKD6Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YVBF6W5VN6WKKD6Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "0.0000035 per event analyzed in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000035000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GACSZECZVRF8ETJH" : {
+        "GACSZECZVRF8ETJH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GACSZECZVRF8ETJH",
+          "effectiveDate" : "2026-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "GACSZECZVRF8ETJH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GACSZECZVRF8ETJH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.023/GB/month for extended retention in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0230000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BST27YMX8ASNNU5D" : {
+        "BST27YMX8ASNNU5D.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BST27YMX8ASNNU5D",
+          "effectiveDate" : "2026-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "BST27YMX8ASNNU5D.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BST27YMX8ASNNU5D.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "0.000001 per data event recorded in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "CDF49ARRQWTH2GM9" : {
+        "CDF49ARRQWTH2GM9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "CDF49ARRQWTH2GM9",
+          "effectiveDate" : "2026-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "CDF49ARRQWTH2GM9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "CDF49ARRQWTH2GM9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "0.0 per free event recorded in Asia Pacific (Singapore) region",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5FDADHKS9S8RAX2P" : {
+        "5FDADHKS9S8RAX2P.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5FDADHKS9S8RAX2P",
+          "effectiveDate" : "2026-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "5FDADHKS9S8RAX2P.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5FDADHKS9S8RAX2P.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.000001 per network activity events recorded in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "8CXBNQ3FZMM42C2Q" : {
+        "8CXBNQ3FZMM42C2Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "8CXBNQ3FZMM42C2Q",
+          "effectiveDate" : "2026-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "8CXBNQ3FZMM42C2Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "8CXBNQ3FZMM42C2Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0 per GB for FreeTrialIngestion-Bytes in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QWBH8F64E3Z82BTS" : {
+        "QWBH8F64E3Z82BTS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QWBH8F64E3Z82BTS",
+          "effectiveDate" : "2026-05-01T00:00:00Z",
+          "priceDimensions" : {
+            "QWBH8F64E3Z82BTS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QWBH8F64E3Z82BTS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0000003 per Event for EventsAnalyzed-AggregatedEvents in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Events",
+              "pricePerUnit" : {
+                "USD" : "0.0000003000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

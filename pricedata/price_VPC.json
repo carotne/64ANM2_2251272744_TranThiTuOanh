@@ -1,0 +1,2057 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonVPC",
+  "version" : "20260604173426",
+  "publicationDate" : "2026-06-04T17:34:26Z",
+  "products" : {
+    "YHGJQMH9CN6TUX3Z" : {
+      "sku" : "YHGJQMH9CN6TUX3Z",
+      "productFamily" : "Cloud Connectivity",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "endpointType" : "IPsec",
+        "usagetype" : "APS1-VPN-Usage-Hours:ipsec.1",
+        "operation" : "CreateVpnConnection",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud",
+        "vpnType" : "VPN Standard (1.25 Gbps)"
+      }
+    },
+    "2NGHGUG5WWET7DPA" : {
+      "sku" : "2NGHGUG5WWET7DPA",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "VpcLattice",
+        "groupDescription" : "Charge per Request per hour processed by VPC Lattice Service",
+        "usagetype" : "APS1-VPCLattice-RequestCount-Charged",
+        "operation" : "VpcLattice",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "PN6F2FSYRPQNF4XX" : {
+      "sku" : "PN6F2FSYRPQNF4XX",
+      "productFamily" : "VPC Peering",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "transferType" : "Intra Region Peering Inbound",
+        "fromLocation" : "Asia Pacific (Singapore)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Singapore)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APS1-VpcPeering-In-Bytes",
+        "operation" : "",
+        "fromRegionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud",
+        "toRegionCode" : "ap-southeast-1"
+      }
+    },
+    "YF4XUDR9J75555AS" : {
+      "sku" : "YF4XUDR9J75555AS",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Charge for per GB data processed by AWS Transit Gateways for Site-to-Site VPN Concentrator attachments",
+        "usagetype" : "APS1-TransitGateway-Bytes",
+        "operation" : "TransitGatewayConcentratorVPN",
+        "attachmentType" : "Site-to-Site VPN Concentrator",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "54DCSZF62C3WUUC3" : {
+      "sku" : "54DCSZF62C3WUUC3",
+      "productFamily" : "VPC Peering",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-OdbPeering-In-Bytes",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud",
+        "trafficDirection" : "In-Bytes"
+      }
+    },
+    "6PJFJFDGSTZBJW2G" : {
+      "sku" : "6PJFJFDGSTZBJW2G",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Charge for per GB data processed by AWS Transit Gateways for VPC attachments",
+        "usagetype" : "APS1-TransitGateway-Bytes",
+        "operation" : "TransitGatewayVPC",
+        "attachmentType" : "VPC",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "9FHRMQKNY2YAGGZW" : {
+      "sku" : "9FHRMQKNY2YAGGZW",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSVerifiedAccess",
+        "groupDescription" : "Hourly charge for non-HTTP Verified Access endpoints",
+        "usagetype" : "APS1-VerifiedAccess-non-HTTP-App-Hours",
+        "operation" : "VerifiedAccess-NonHTTP-Apps",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "JCVANXWQS5Q8CYSJ" : {
+      "sku" : "JCVANXWQS5Q8CYSJ",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "VpcResources",
+        "groupDescription" : "Hourly charge to access VPC Resource through service-network",
+        "usagetype" : "APS1-VpcLattice-Service-Network-Resource-Hours",
+        "operation" : "VpcResourceConsumer",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "ZW3HVQKP8FYZ6Y6K" : {
+      "sku" : "ZW3HVQKP8FYZ6Y6K",
+      "productFamily" : "VpcEndpoint",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "endpointType" : "PrivateLink",
+        "group" : "VPCE:VpcEndpoint",
+        "groupDescription" : "Hourly charge for VPC Endpoints",
+        "usagetype" : "APS1-VpcEndpoint-Hours",
+        "operation" : "VpcEndpoint",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "ZZ6NH6AH5JZEJGVB" : {
+      "sku" : "ZZ6NH6AH5JZEJGVB",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "VpcLattice",
+        "groupDescription" : "Charge per GB Data Processed by VPC Lattice Service",
+        "usagetype" : "APS1-VPCLattice-DataProcessing-Bytes",
+        "operation" : "VpcLattice",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "XF35FVHBQ6BA5BG3" : {
+      "sku" : "XF35FVHBQ6BA5BG3",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSClientVPN",
+        "groupDescription" : "Hourly charge for Client VPN Endpoints",
+        "usagetype" : "APS1-ClientVPN-EndpointHours",
+        "operation" : "ClientVPNEndpoints",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "PF5Y3DGZCZHWPRVN" : {
+      "sku" : "PF5Y3DGZCZHWPRVN",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSVerifiedAccess",
+        "groupDescription" : "Hourly charge for Verified Access Applications",
+        "usagetype" : "APS1-VerifiedAccess-App-Hours",
+        "operation" : "VerifiedAccess-Apps",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "V9BTJSV948MAWX4V" : {
+      "sku" : "V9BTJSV948MAWX4V",
+      "productFamily" : "VPC Peering",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-OdbPeering-Out-Bytes",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud",
+        "trafficDirection" : "Out-Bytes"
+      }
+    },
+    "JV4NX24UQ47QVNFX" : {
+      "sku" : "JV4NX24UQ47QVNFX",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSClientVPN",
+        "groupDescription" : "Hourly charge for Client VPN connections",
+        "usagetype" : "APS1-ClientVPN-ConnectionHours",
+        "operation" : "ClientVPNConnections",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "6H23B5MFAG22ZMYA" : {
+      "sku" : "6H23B5MFAG22ZMYA",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "VPCPublicIPv4Address",
+        "groupDescription" : "Hourly charge for Idle Public IPv4 Addresses",
+        "usagetype" : "APS1-PublicIPv4:IdleAddress",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "NT2T8WKMQ2XKDFUF" : {
+      "sku" : "NT2T8WKMQ2XKDFUF",
+      "productFamily" : "VPC Peering",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-OdbPeering-AZ-Out-Bytes",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud",
+        "trafficDirection" : "AZ-Out-Bytes"
+      }
+    },
+    "4MQVKXMHKDRBTMFE" : {
+      "sku" : "4MQVKXMHKDRBTMFE",
+      "productFamily" : "VpcEndpoint",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Resource",
+        "group" : "VpcResources",
+        "groupDescription" : "Hourly charge to access ODB Network Resource through Resource-endpoint",
+        "usagetype" : "APS1-VpcEndpoint-ODB-Resource-Hours",
+        "operation" : "VpcResourceConsumer",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "47UCRT594CHACV2B" : {
+      "sku" : "47UCRT594CHACV2B",
+      "productFamily" : "VPC Peering",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-OdbPeering-AZ-In-Bytes",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud",
+        "trafficDirection" : "AZ-In-Bytes"
+      }
+    },
+    "AX6K6V4KFP3PYMM9" : {
+      "sku" : "AX6K6V4KFP3PYMM9",
+      "productFamily" : "VpcEndpoint",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Resource",
+        "group" : "VpcResources",
+        "groupDescription" : "Hourly charge to access VPC Resource through Resource-endpoint",
+        "usagetype" : "APS1-VpcEndpoint-Resource-Hours",
+        "operation" : "VpcResourceConsumer",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "9XJY5WWCQJEVPNDS" : {
+      "sku" : "9XJY5WWCQJEVPNDS",
+      "productFamily" : "VPC Encryption Controls",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "VPCEncryptionControls",
+        "groupDescription" : "Hourly charge for VPC Encryption Controls",
+        "usagetype" : "APS1-VPCEncryptionControls-hours",
+        "operation" : "VPCEncryptionControls",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "QYFCBEEFYC3X66MR" : {
+      "sku" : "QYFCBEEFYC3X66MR",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Hourly charge for Transit Gateway Peering Attachments",
+        "usagetype" : "APS1-TransitGateway-Hours",
+        "operation" : "TransitGatewayPeering",
+        "attachmentType" : "Transit Gateway",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "VEDTCH4Q86NQPGUU" : {
+      "sku" : "VEDTCH4Q86NQPGUU",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "VPCIPv4ContiguousBlocks",
+        "groupDescription" : "Hourly charge for IPv4 address in a contiguous block of IPv4 address",
+        "usagetype" : "APS1-PublicIPv4:ContiguousBlock",
+        "operation" : "ProvisionIpamPoolCidr",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "K66DWHBUX32JS4NE" : {
+      "sku" : "K66DWHBUX32JS4NE",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "VpcLattice",
+        "groupDescription" : "Charge per Connection per hour processed by VPC Lattice Service",
+        "usagetype" : "APS1-VPCLattice-ConnectionCount-Charged",
+        "operation" : "VpcLattice",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "UM29TPEQG77HDXTB" : {
+      "sku" : "UM29TPEQG77HDXTB",
+      "productFamily" : "VpcEndpoint",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Endpoint Service",
+        "group" : "VPCE:VPCEnpoint",
+        "groupDescription" : "Charge per hour per active remote region for a VPCE service",
+        "usagetype" : "APS1-VpcEndpoint-Service-Hours",
+        "operation" : "VpcEndpoint",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "3EBTF7RPTH7EKV6R" : {
+      "sku" : "3EBTF7RPTH7EKV6R",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Charge for per GB data processed by AWS Transit Gateways for AWS Direct Connect Gateway attachments",
+        "usagetype" : "APS1-TransitGateway-Bytes",
+        "operation" : "TransitGatewayDirectConnect",
+        "attachmentType" : "AWS DirectConnect",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "FPS2J5JBNFTCS76Y" : {
+      "sku" : "FPS2J5JBNFTCS76Y",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSVPCIPAddressManager",
+        "groupDescription" : "Hourly charge for Active IP Addresses",
+        "usagetype" : "APS1-IPAddressManager-IP-Hours",
+        "operation" : "IPAM-Active-IP",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "3ZA9FWYRR2TQW5KH" : {
+      "sku" : "3ZA9FWYRR2TQW5KH",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Hourly charge for Transit Gateway Site-to-Site VPN attachments",
+        "usagetype" : "APS1-TransitGateway-Hours",
+        "operation" : "TransitGatewayVPN",
+        "attachmentType" : "AWS Site-to-Site VPN",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "282J26FXFNMZDHAK" : {
+      "sku" : "282J26FXFNMZDHAK",
+      "productFamily" : "VpcEndpoint",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Resource",
+        "group" : "VpcResources",
+        "groupDescription" : "Per GB charge to access ODB Network Resources",
+        "usagetype" : "APS1-VpcResource-ODB-Consumer-Bytes",
+        "operation" : "VpcResourceConsumer",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "MQCQET62FA95RYCT" : {
+      "sku" : "MQCQET62FA95RYCT",
+      "productFamily" : "Cloud Connectivity",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "endpointType" : "IPsec",
+        "usagetype" : "APS1-VPN-large-Usage-Hours:ipsec.1",
+        "operation" : "CreateVpnConnection",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud",
+        "vpnType" : "VPN Large (5 Gbps)"
+      }
+    },
+    "C8D8VMQRDHMB9KRU" : {
+      "sku" : "C8D8VMQRDHMB9KRU",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "VPCPublicIPv4Address",
+        "groupDescription" : "Hourly charge for In-use Public IPv4 Addresses",
+        "usagetype" : "APS1-PublicIPv4:InUseAddress",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "7RWDPSX8WV7EAKRE" : {
+      "sku" : "7RWDPSX8WV7EAKRE",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSReachabilityAnalyzer",
+        "groupDescription" : "Charge per analysis processed by VPC Reachability Analyzer",
+        "usagetype" : "APS1-Analysis-Runs",
+        "operation" : "RunAnalysis",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "C7HYDEUSFWSS4DNM" : {
+      "sku" : "C7HYDEUSFWSS4DNM",
+      "productFamily" : "VPC Route Server",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Route Server",
+        "groupDescription" : "Hourly charge for Route Server Endpoints",
+        "usagetype" : "APS1-RouteServer-EndpointHours",
+        "operation" : "RouteServerEndpoint",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "5YTR7K64YFQZ87X3" : {
+      "sku" : "5YTR7K64YFQZ87X3",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "VpcLattice",
+        "groupDescription" : "Free for the first 300,000 Requests per hour processed by VPC Lattice Service",
+        "usagetype" : "APS1-VPCLattice-RequestCount-Free",
+        "operation" : "VpcLattice",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "NGWZC2RW4DTZ455J" : {
+      "sku" : "NGWZC2RW4DTZ455J",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSVerifiedAccess",
+        "groupDescription" : "Data processed by AWS Verified Access",
+        "usagetype" : "APS1-VerifiedAccess-DataProcess-Bytes",
+        "operation" : "VerifiedAccess-data",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "HS7NFK4TS4CXCTQ2" : {
+      "sku" : "HS7NFK4TS4CXCTQ2",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "VpcLattice",
+        "groupDescription" : "Hourly charge to access ODB Network Resource through service-network",
+        "usagetype" : "APS1-VpcLattice-Service-Network-ODB-Resource-Hours",
+        "operation" : "VpcResourceConsumer",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "VU4JUFNDJD3K8MGX" : {
+      "sku" : "VU4JUFNDJD3K8MGX",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Hourly charge for Transit Gateway VPC Attachments",
+        "usagetype" : "APS1-TransitGateway-Hours",
+        "operation" : "TransitGatewayVPC",
+        "attachmentType" : "VPC",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "KT2QAWYCW6CDJEVP" : {
+      "sku" : "KT2QAWYCW6CDJEVP",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "VpcLattice",
+        "groupDescription" : "Free for the first 300,000 Connections per hour processed by VPC Lattice Service",
+        "usagetype" : "APS1-VPCLattice-ConnectionCount-Free",
+        "operation" : "VpcLattice",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "YDTCCAN22W4FK4R2" : {
+      "sku" : "YDTCCAN22W4FK4R2",
+      "productFamily" : "VPC Peering",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "transferType" : "Intra Region Peering Outbound",
+        "fromLocation" : "Asia Pacific (Singapore)",
+        "fromLocationType" : "AWS Region",
+        "toLocation" : "Asia Pacific (Singapore)",
+        "toLocationType" : "AWS Region",
+        "usagetype" : "APS1-VpcPeering-Out-Bytes",
+        "operation" : "",
+        "fromRegionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud",
+        "toRegionCode" : "ap-southeast-1"
+      }
+    },
+    "49WTYPUFRX5Q8YVJ" : {
+      "sku" : "49WTYPUFRX5Q8YVJ",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Hourly charge for Transit Gateway AWS Direct Connect Gateway attachments",
+        "usagetype" : "APS1-TransitGateway-Hours",
+        "operation" : "TransitGatewayDirectConnect",
+        "attachmentType" : "AWS DirectConnect",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "92AZFXVHZ8BS7V5B" : {
+      "sku" : "92AZFXVHZ8BS7V5B",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "VpcResources",
+        "groupDescription" : "Per GB charge for provider of VPC Resource",
+        "usagetype" : "APS1-VpcResource-Provider-Bytes",
+        "operation" : "VpcResourceProvider",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "U4VKC3YS6XQF987M" : {
+      "sku" : "U4VKC3YS6XQF987M",
+      "productFamily" : "Cloud Connectivity",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "endpointType" : "IPsec",
+        "usagetype" : "APS1-VPN-concentrator-Usage-Hours:ipsec.1",
+        "operation" : "CreateVpnConcentrator",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud",
+        "vpnType" : "VPN Concentrator"
+      }
+    },
+    "VPMDP6F7HK5B3QCU" : {
+      "sku" : "VPMDP6F7HK5B3QCU",
+      "productFamily" : "VpcEndpoint",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Gateway Load Balancer Endpoint",
+        "group" : "VPCE:VpcEndpoint",
+        "groupDescription" : "Hourly charge for AWS Gateway Load Balancer VPC Endpoint",
+        "usagetype" : "APS1-VpcEndpoint-GWLBE-Hours",
+        "operation" : "VpcEndpoint",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "XDX2W5TR4RJFANZ3" : {
+      "sku" : "XDX2W5TR4RJFANZ3",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Charge for per GB data processed by AWS Transit Gateways  for Site-to-Site VPN attachments",
+        "usagetype" : "APS1-TransitGateway-Bytes",
+        "operation" : "TransitGatewayVPN",
+        "attachmentType" : "AWS Site-to-Site VPN",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "XY5JBS9THHBRKA99" : {
+      "sku" : "XY5JBS9THHBRKA99",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTrafficMirroring",
+        "groupDescription" : "Hourly charge for Traffic Mirroring Source",
+        "usagetype" : "APS1-ENI-Mirror",
+        "operation" : "ENI-to-ENI",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "TPXG5CW8CMM3DBEQ" : {
+      "sku" : "TPXG5CW8CMM3DBEQ",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "VpcResources",
+        "groupDescription" : "Per GB charge for provider of ODB Network Resource",
+        "usagetype" : "APS1-VpcResource-ODB-Provider-Bytes",
+        "operation" : "VpcResourceProvider",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "EUYZARHD7HWT23CK" : {
+      "sku" : "EUYZARHD7HWT23CK",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Hourly charge for Transit Gateway Site-to-Site VPN Concentrator attachments",
+        "usagetype" : "APS1-TransitGateway-Hours",
+        "operation" : "TransitGatewayConcentratorVPN",
+        "attachmentType" : "Site-to-Site VPN Concentrator",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "5APZT8JXA5B8ZYFH" : {
+      "sku" : "5APZT8JXA5B8ZYFH",
+      "productFamily" : "VpcEndpoint",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "endpointType" : "PrivateLink",
+        "group" : "VPCE:VpcEndpoint",
+        "groupDescription" : "Charge for per GB data processed by VPC Endpoints",
+        "usagetype" : "APS1-VpcEndpoint-Bytes",
+        "operation" : "VpcEndpoint",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "2REGTP3WZS5W8F84" : {
+      "sku" : "2REGTP3WZS5W8F84",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSVerifiedAccess",
+        "groupDescription" : "Hourly charge for Verified Access connections",
+        "usagetype" : "APS1-VerifiedAccess-ConnectionHours",
+        "operation" : "VerifiedAccessConnection",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "MZDSWKZXZ6ZRN4T3" : {
+      "sku" : "MZDSWKZXZ6ZRN4T3",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "VpcLattice",
+        "groupDescription" : "Charge per Hour per VPC Lattice Service",
+        "usagetype" : "APS1-VPCLattice-Service-Hourly",
+        "operation" : "VpcLattice",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "9KJPX2QRU65UMRGM" : {
+      "sku" : "9KJPX2QRU65UMRGM",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Hourly charge for Transit Gateway Connect attachments",
+        "usagetype" : "APS1-TransitGateway-Hours",
+        "operation" : "TransitGatewayConnect",
+        "attachmentType" : "Transit Gateway Connect",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "YUWZUY3Q68XX8M83" : {
+      "sku" : "YUWZUY3Q68XX8M83",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSTransitGateway",
+        "groupDescription" : "Charge for per GB data processed by AWS Transit Gateway for Multicast receivers",
+        "usagetype" : "APS1-TGW-Multicast-Consumer-Bytes",
+        "operation" : "TransitGatewayVPC",
+        "attachmentType" : "VPC",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "XF3W935SAWY7TCQ3" : {
+      "sku" : "XF3W935SAWY7TCQ3",
+      "productFamily" : "VpcEndpoint",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Resource",
+        "group" : "VpcResources",
+        "groupDescription" : "Per GB charge to access VPC Resources",
+        "usagetype" : "APS1-VpcResource-Consumer-Bytes",
+        "operation" : "VpcResourceConsumer",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "DRMKZUSV227RTPTK" : {
+      "sku" : "DRMKZUSV227RTPTK",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AWSVPCAccessAnalyzer",
+        "groupDescription" : "Charge per ENI processed by VPC Access Analyzer",
+        "usagetype" : "APS1-NetworkInterface-Assessment",
+        "operation" : "AnalyzeENI",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "ZUMPPGPBS98PW2AJ" : {
+      "sku" : "ZUMPPGPBS98PW2AJ",
+      "productFamily" : "VpcEndpoint",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "endpointType" : "Gateway Load Balancer Endpoint",
+        "group" : "VPCE:VpcEndpoint",
+        "groupDescription" : "Charge for per GB data processed by AWS Gateway Load Balancer VPC Endpoint",
+        "usagetype" : "APS1-VpcEndpoint-GWLBE-Bytes",
+        "operation" : "VpcEndpoint",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud"
+      }
+    },
+    "X9FBDQTBE8D5MWZ7" : {
+      "sku" : "X9FBDQTBE8D5MWZ7",
+      "productFamily" : "Cloud Connectivity",
+      "attributes" : {
+        "servicecode" : "AmazonVPC",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "endpointType" : "IPsec",
+        "usagetype" : "APS1-VPN-concentrator-site-Usage-Hours:ipsec.1",
+        "operation" : "CreateVpnConnection",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon Virtual Private Cloud",
+        "vpnType" : "VPN Concentrator Sites"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "VPMDP6F7HK5B3QCU" : {
+        "VPMDP6F7HK5B3QCU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VPMDP6F7HK5B3QCU",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "VPMDP6F7HK5B3QCU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VPMDP6F7HK5B3QCU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.013 per Hrs for VpcEndpoint-GWLBE-Hours:VpcEndpoint in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0130000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YDTCCAN22W4FK4R2" : {
+        "YDTCCAN22W4FK4R2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YDTCCAN22W4FK4R2",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "YDTCCAN22W4FK4R2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YDTCCAN22W4FK4R2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per GB for APS1-VpcPeering-Out-Bytes",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "282J26FXFNMZDHAK" : {
+        "282J26FXFNMZDHAK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "282J26FXFNMZDHAK",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "282J26FXFNMZDHAK.JRTCKXETXF.D7RZ6WCPVW" : {
+              "rateCode" : "282J26FXFNMZDHAK.JRTCKXETXF.D7RZ6WCPVW",
+              "description" : "$0.01 from 0 to 1 PB - Per GB charge to access ODB Network Resources",
+              "beginRange" : "0",
+              "endRange" : "1048576",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "282J26FXFNMZDHAK.JRTCKXETXF.RBMR72YW69" : {
+              "rateCode" : "282J26FXFNMZDHAK.JRTCKXETXF.RBMR72YW69",
+              "description" : "$0.006 from 1 PB to 5 PB - Per GB charge to access ODB Network Resources",
+              "beginRange" : "1048576",
+              "endRange" : "5242880",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0060000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "282J26FXFNMZDHAK.JRTCKXETXF.SW9U2ZKBYX" : {
+              "rateCode" : "282J26FXFNMZDHAK.JRTCKXETXF.SW9U2ZKBYX",
+              "description" : "$0.004 after the first 5 PB - Per GB charge to access ODB Network Resources",
+              "beginRange" : "5242880",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "C7HYDEUSFWSS4DNM" : {
+        "C7HYDEUSFWSS4DNM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C7HYDEUSFWSS4DNM",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "C7HYDEUSFWSS4DNM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "C7HYDEUSFWSS4DNM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.98 per Hour for APS1-RouteServer-EndpointHours in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hour",
+              "pricePerUnit" : {
+                "USD" : "0.9800000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "C8D8VMQRDHMB9KRU" : {
+        "C8D8VMQRDHMB9KRU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C8D8VMQRDHMB9KRU",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "C8D8VMQRDHMB9KRU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "C8D8VMQRDHMB9KRU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per In-use public IPv4 address per hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0050000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2NGHGUG5WWET7DPA" : {
+        "2NGHGUG5WWET7DPA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2NGHGUG5WWET7DPA",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "2NGHGUG5WWET7DPA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2NGHGUG5WWET7DPA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00000013 per Request per hour processed by VPC Lattice Service (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000001300"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2REGTP3WZS5W8F84" : {
+        "2REGTP3WZS5W8F84.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2REGTP3WZS5W8F84",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "2REGTP3WZS5W8F84.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2REGTP3WZS5W8F84.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.001 per Hourly for VerifiedAccess-ConnectionHours:VerifiedAccessConnection in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3EBTF7RPTH7EKV6R" : {
+        "3EBTF7RPTH7EKV6R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3EBTF7RPTH7EKV6R",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "3EBTF7RPTH7EKV6R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3EBTF7RPTH7EKV6R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB Data Processed by Transit Gateway DirectConnect Attachment",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9KJPX2QRU65UMRGM" : {
+        "9KJPX2QRU65UMRGM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9KJPX2QRU65UMRGM",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "9KJPX2QRU65UMRGM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9KJPX2QRU65UMRGM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.07 per hour for TransitGateway-Hours:TransitGatewayConnect in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.0700000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FPS2J5JBNFTCS76Y" : {
+        "FPS2J5JBNFTCS76Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FPS2J5JBNFTCS76Y",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "FPS2J5JBNFTCS76Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FPS2J5JBNFTCS76Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00027 per hours for IPAddressManager-IP-Hours:IPAM-Active-IP in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.0002700000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PF5Y3DGZCZHWPRVN" : {
+        "PF5Y3DGZCZHWPRVN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PF5Y3DGZCZHWPRVN",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "PF5Y3DGZCZHWPRVN.JRTCKXETXF.YHRGHAZCQU" : {
+              "rateCode" : "PF5Y3DGZCZHWPRVN.JRTCKXETXF.YHRGHAZCQU",
+              "description" : "USD0.35 per hours for VerifiedAccess-App-Hours:VerifiedAccess-Apps in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "148800",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.3500000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "PF5Y3DGZCZHWPRVN.JRTCKXETXF.7P82R4JVNG" : {
+              "rateCode" : "PF5Y3DGZCZHWPRVN.JRTCKXETXF.7P82R4JVNG",
+              "description" : "USD0.26 per hours for VerifiedAccess-App-Hours:VerifiedAccess-Apps in Asia Pacific (Singapore)",
+              "beginRange" : "148800",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.2600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EUYZARHD7HWT23CK" : {
+        "EUYZARHD7HWT23CK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EUYZARHD7HWT23CK",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "EUYZARHD7HWT23CK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EUYZARHD7HWT23CK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.07 per hour - Hourly charge for Transit Gateway Site-to-Site VPN Concentrator attachments",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.0700000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YF4XUDR9J75555AS" : {
+        "YF4XUDR9J75555AS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YF4XUDR9J75555AS",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "YF4XUDR9J75555AS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YF4XUDR9J75555AS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB - data processed by AWS Transit Gateways for Site-to-Site VPN Concentrator attachments",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DRMKZUSV227RTPTK" : {
+        "DRMKZUSV227RTPTK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DRMKZUSV227RTPTK",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "DRMKZUSV227RTPTK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DRMKZUSV227RTPTK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.002 per ENI processed by VPC Network Access Analyzer ap-southeast-1",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "NetworkInterface-Assessment",
+              "pricePerUnit" : {
+                "USD" : "0.0020000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "54DCSZF62C3WUUC3" : {
+        "54DCSZF62C3WUUC3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "54DCSZF62C3WUUC3",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "54DCSZF62C3WUUC3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "54DCSZF62C3WUUC3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per GB for APS1-OdbPeering-In-Bytes in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "K66DWHBUX32JS4NE" : {
+        "K66DWHBUX32JS4NE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "K66DWHBUX32JS4NE",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "K66DWHBUX32JS4NE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "K66DWHBUX32JS4NE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00000013 per Connection per hour processed by VPC Lattice Service (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Connections",
+              "pricePerUnit" : {
+                "USD" : "0.0000001300"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6PJFJFDGSTZBJW2G" : {
+        "6PJFJFDGSTZBJW2G.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6PJFJFDGSTZBJW2G",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "6PJFJFDGSTZBJW2G.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6PJFJFDGSTZBJW2G.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB Data Processed by Transit Gateway VPC Attachment",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3ZA9FWYRR2TQW5KH" : {
+        "3ZA9FWYRR2TQW5KH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3ZA9FWYRR2TQW5KH",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "3ZA9FWYRR2TQW5KH.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3ZA9FWYRR2TQW5KH.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.07 per Transit Gateway VPN Attachment Hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.0700000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AX6K6V4KFP3PYMM9" : {
+        "AX6K6V4KFP3PYMM9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AX6K6V4KFP3PYMM9",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "AX6K6V4KFP3PYMM9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AX6K6V4KFP3PYMM9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.026 per hour per VPC resource for VPC endpoint of type 'resource' in  Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0260000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XF3W935SAWY7TCQ3" : {
+        "XF3W935SAWY7TCQ3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XF3W935SAWY7TCQ3",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "XF3W935SAWY7TCQ3.JRTCKXETXF.D7RZ6WCPVW" : {
+              "rateCode" : "XF3W935SAWY7TCQ3.JRTCKXETXF.D7RZ6WCPVW",
+              "description" : "$0.01 per GB for upto 1 PB monthly data processed for VPC resources ",
+              "beginRange" : "0",
+              "endRange" : "1048576",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "XF3W935SAWY7TCQ3.JRTCKXETXF.RBMR72YW69" : {
+              "rateCode" : "XF3W935SAWY7TCQ3.JRTCKXETXF.RBMR72YW69",
+              "description" : "$0.006 per GB for more than 1 PB and less than 5 PB monthly data processed for VPC resources",
+              "beginRange" : "1048576",
+              "endRange" : "5242880",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0060000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "XF3W935SAWY7TCQ3.JRTCKXETXF.SW9U2ZKBYX" : {
+              "rateCode" : "XF3W935SAWY7TCQ3.JRTCKXETXF.SW9U2ZKBYX",
+              "description" : "$0.004 per GB for more than 5 PB monthly data processed for VPC resources ",
+              "beginRange" : "5242880",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6H23B5MFAG22ZMYA" : {
+        "6H23B5MFAG22ZMYA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6H23B5MFAG22ZMYA",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "6H23B5MFAG22ZMYA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6H23B5MFAG22ZMYA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.005 per Idle public IPv4 address per hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0050000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7RWDPSX8WV7EAKRE" : {
+        "7RWDPSX8WV7EAKRE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7RWDPSX8WV7EAKRE",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "7RWDPSX8WV7EAKRE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7RWDPSX8WV7EAKRE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1 per analysis processed by VPC Reachability Analyzer",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReachabilityAnalyses",
+              "pricePerUnit" : {
+                "USD" : "0.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VU4JUFNDJD3K8MGX" : {
+        "VU4JUFNDJD3K8MGX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VU4JUFNDJD3K8MGX",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "VU4JUFNDJD3K8MGX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VU4JUFNDJD3K8MGX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.07 per Transit Gateway VPC Attachment Hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.0700000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9FHRMQKNY2YAGGZW" : {
+        "9FHRMQKNY2YAGGZW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9FHRMQKNY2YAGGZW",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "9FHRMQKNY2YAGGZW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9FHRMQKNY2YAGGZW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.26 per hours for VerifiedAccess-non-HTTP-App-Hours:VerifiedAccess-NonHTTP-Apps in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hours",
+              "pricePerUnit" : {
+                "USD" : "0.2600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JCVANXWQS5Q8CYSJ" : {
+        "JCVANXWQS5Q8CYSJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JCVANXWQS5Q8CYSJ",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "JCVANXWQS5Q8CYSJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JCVANXWQS5Q8CYSJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.13 per hour per VPC resource in a service-network in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZW3HVQKP8FYZ6Y6K" : {
+        "ZW3HVQKP8FYZ6Y6K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZW3HVQKP8FYZ6Y6K",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZW3HVQKP8FYZ6Y6K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZW3HVQKP8FYZ6Y6K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.013 per VPC Endpoint Hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0130000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TPXG5CW8CMM3DBEQ" : {
+        "TPXG5CW8CMM3DBEQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TPXG5CW8CMM3DBEQ",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "TPXG5CW8CMM3DBEQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TPXG5CW8CMM3DBEQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.006 - Per GB charge for provider of ODB Network Resource in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0060000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HS7NFK4TS4CXCTQ2" : {
+        "HS7NFK4TS4CXCTQ2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HS7NFK4TS4CXCTQ2",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "HS7NFK4TS4CXCTQ2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "HS7NFK4TS4CXCTQ2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.13 - Hourly charge to access ODB Network Resource through service-network in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.1300000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NGWZC2RW4DTZ455J" : {
+        "NGWZC2RW4DTZ455J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NGWZC2RW4DTZ455J",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "NGWZC2RW4DTZ455J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NGWZC2RW4DTZ455J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "USD0.02 per GB for VerifiedAccess-DataProcess-Bytes:VerifiedAccess-data in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MZDSWKZXZ6ZRN4T3" : {
+        "MZDSWKZXZ6ZRN4T3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MZDSWKZXZ6ZRN4T3",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "MZDSWKZXZ6ZRN4T3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MZDSWKZXZ6ZRN4T3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0325 per Hour per VPC Lattice Service (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0325000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XDX2W5TR4RJFANZ3" : {
+        "XDX2W5TR4RJFANZ3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XDX2W5TR4RJFANZ3",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "XDX2W5TR4RJFANZ3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XDX2W5TR4RJFANZ3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GB Data Processed by Transit Gateway VPN Attachment",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5APZT8JXA5B8ZYFH" : {
+        "5APZT8JXA5B8ZYFH.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5APZT8JXA5B8ZYFH",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "5APZT8JXA5B8ZYFH.JRTCKXETXF.D7RZ6WCPVW" : {
+              "rateCode" : "5APZT8JXA5B8ZYFH.JRTCKXETXF.D7RZ6WCPVW",
+              "description" : "$0.01 per GB for upto 1 PB monthly data processed by VPC Endpoints",
+              "beginRange" : "0",
+              "endRange" : "1048576",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "5APZT8JXA5B8ZYFH.JRTCKXETXF.RBMR72YW69" : {
+              "rateCode" : "5APZT8JXA5B8ZYFH.JRTCKXETXF.RBMR72YW69",
+              "description" : "$0.006 per GB for more than 1 PB and less than 5 PB monthly data processed by VPC Endpoints",
+              "beginRange" : "1048576",
+              "endRange" : "5242880",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0060000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "5APZT8JXA5B8ZYFH.JRTCKXETXF.SW9U2ZKBYX" : {
+              "rateCode" : "5APZT8JXA5B8ZYFH.JRTCKXETXF.SW9U2ZKBYX",
+              "description" : "$0.004 per GB for more than 5 PB monthly data processed by VPC Endpoints",
+              "beginRange" : "5242880",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0040000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "49WTYPUFRX5Q8YVJ" : {
+        "49WTYPUFRX5Q8YVJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "49WTYPUFRX5Q8YVJ",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "49WTYPUFRX5Q8YVJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "49WTYPUFRX5Q8YVJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.07 per Transit Gateway DirectConnect Attachment Hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.0700000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UM29TPEQG77HDXTB" : {
+        "UM29TPEQG77HDXTB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UM29TPEQG77HDXTB",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "UM29TPEQG77HDXTB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UM29TPEQG77HDXTB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per hour per active remote region for a VPCE service",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZZ6NH6AH5JZEJGVB" : {
+        "ZZ6NH6AH5JZEJGVB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZZ6NH6AH5JZEJGVB",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZZ6NH6AH5JZEJGVB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZZ6NH6AH5JZEJGVB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0325 per GB Data Processed by VPC Lattice Service (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0325000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YUWZUY3Q68XX8M83" : {
+        "YUWZUY3Q68XX8M83.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YUWZUY3Q68XX8M83",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "YUWZUY3Q68XX8M83.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YUWZUY3Q68XX8M83.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.02 per GigaBytes for TGW-Multicast-Consumer-Bytes:TransitGatewayVPC in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GigaBytes",
+              "pricePerUnit" : {
+                "USD" : "0.0200000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "92AZFXVHZ8BS7V5B" : {
+        "92AZFXVHZ8BS7V5B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "92AZFXVHZ8BS7V5B",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "92AZFXVHZ8BS7V5B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "92AZFXVHZ8BS7V5B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.006 per GB for data processed by VPC resource in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0060000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5YTR7K64YFQZ87X3" : {
+        "5YTR7K64YFQZ87X3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5YTR7K64YFQZ87X3",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "5YTR7K64YFQZ87X3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5YTR7K64YFQZ87X3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 for the first 300,000 Requests per hour processed by VPC Lattice Service (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QYFCBEEFYC3X66MR" : {
+        "QYFCBEEFYC3X66MR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QYFCBEEFYC3X66MR",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "QYFCBEEFYC3X66MR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QYFCBEEFYC3X66MR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.07 per hour for TransitGateway-Hours:TransitGatewayPeering in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.0700000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XF35FVHBQ6BA5BG3" : {
+        "XF35FVHBQ6BA5BG3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XF35FVHBQ6BA5BG3",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "XF35FVHBQ6BA5BG3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XF35FVHBQ6BA5BG3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per Client VPN Endpoint Association Hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.1500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V9BTJSV948MAWX4V" : {
+        "V9BTJSV948MAWX4V.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V9BTJSV948MAWX4V",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "V9BTJSV948MAWX4V.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V9BTJSV948MAWX4V.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per GB for APS1-OdbPeering-Out-Bytes in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VEDTCH4Q86NQPGUU" : {
+        "VEDTCH4Q86NQPGUU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "VEDTCH4Q86NQPGUU",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "VEDTCH4Q86NQPGUU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "VEDTCH4Q86NQPGUU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.008 per hour per IPv4 address in contiguous IPv4 block",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0080000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZUMPPGPBS98PW2AJ" : {
+        "ZUMPPGPBS98PW2AJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZUMPPGPBS98PW2AJ",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZUMPPGPBS98PW2AJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZUMPPGPBS98PW2AJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Charge for per GB data processed by AWS Gateway Load Balancer VPC Endpoint",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0035000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "X9FBDQTBE8D5MWZ7" : {
+        "X9FBDQTBE8D5MWZ7.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "X9FBDQTBE8D5MWZ7",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "X9FBDQTBE8D5MWZ7.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "X9FBDQTBE8D5MWZ7.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per hour for CreateVpnConnection in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4MQVKXMHKDRBTMFE" : {
+        "4MQVKXMHKDRBTMFE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4MQVKXMHKDRBTMFE",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "4MQVKXMHKDRBTMFE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4MQVKXMHKDRBTMFE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.026 - Hourly charge to access ODB Network Resource through Resource-endpoint",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0260000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KT2QAWYCW6CDJEVP" : {
+        "KT2QAWYCW6CDJEVP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KT2QAWYCW6CDJEVP",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "KT2QAWYCW6CDJEVP.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KT2QAWYCW6CDJEVP.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 for the first 300,000 Connections per hour processed by VPC Lattice Service (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Connections",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "47UCRT594CHACV2B" : {
+        "47UCRT594CHACV2B.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "47UCRT594CHACV2B",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "47UCRT594CHACV2B.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "47UCRT594CHACV2B.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB for APS1-OdbPeering-AZ-In-Bytes in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JV4NX24UQ47QVNFX" : {
+        "JV4NX24UQ47QVNFX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JV4NX24UQ47QVNFX",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "JV4NX24UQ47QVNFX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JV4NX24UQ47QVNFX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per Client VPN Connection Hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hourly",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U4VKC3YS6XQF987M" : {
+        "U4VKC3YS6XQF987M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U4VKC3YS6XQF987M",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "U4VKC3YS6XQF987M.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U4VKC3YS6XQF987M.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.95 per hour for CreateVpnConcentrator in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.9500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PN6F2FSYRPQNF4XX" : {
+        "PN6F2FSYRPQNF4XX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PN6F2FSYRPQNF4XX",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "PN6F2FSYRPQNF4XX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PN6F2FSYRPQNF4XX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.01 per GB for APS1-VpcPeering-In-Bytes",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "9XJY5WWCQJEVPNDS" : {
+        "9XJY5WWCQJEVPNDS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "9XJY5WWCQJEVPNDS",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "9XJY5WWCQJEVPNDS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "9XJY5WWCQJEVPNDS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.20 per hour for VPCEncryptionControls-hours in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.2000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MQCQET62FA95RYCT" : {
+        "MQCQET62FA95RYCT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MQCQET62FA95RYCT",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "MQCQET62FA95RYCT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MQCQET62FA95RYCT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.60 per hour for CreateVpnConnection in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.6000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XY5JBS9THHBRKA99" : {
+        "XY5JBS9THHBRKA99.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XY5JBS9THHBRKA99",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "XY5JBS9THHBRKA99.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XY5JBS9THHBRKA99.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.018 per Traffic Mirroring Source Hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "hour",
+              "pricePerUnit" : {
+                "USD" : "0.0180000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YHGJQMH9CN6TUX3Z" : {
+        "YHGJQMH9CN6TUX3Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YHGJQMH9CN6TUX3Z",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "YHGJQMH9CN6TUX3Z.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YHGJQMH9CN6TUX3Z.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.05 per VPN Connection-Hour",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0500000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NT2T8WKMQ2XKDFUF" : {
+        "NT2T8WKMQ2XKDFUF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NT2T8WKMQ2XKDFUF",
+          "effectiveDate" : "2026-06-01T00:00:00Z",
+          "priceDimensions" : {
+            "NT2T8WKMQ2XKDFUF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NT2T8WKMQ2XKDFUF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per GB for APS1-OdbPeering-AZ-Out-Bytes in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

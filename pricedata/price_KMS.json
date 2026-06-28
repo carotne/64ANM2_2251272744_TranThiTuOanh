@@ -1,0 +1,259 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "awskms",
+  "version" : "20250828153913",
+  "publicationDate" : "2025-08-28T15:39:13Z",
+  "products" : {
+    "R8AEZWXXE7G5EHRZ" : {
+      "sku" : "R8AEZWXXE7G5EHRZ",
+      "productFamily" : "Encryption Key",
+      "attributes" : {
+        "servicecode" : "awskms",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "ap-southeast-1-KMS-Keys",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS Key Management Service"
+      }
+    },
+    "NR343AV4H543ZXG3" : {
+      "sku" : "NR343AV4H543ZXG3",
+      "attributes" : {
+        "servicecode" : "awskms",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "aws-kms-Requests-Asymmetric-RSA_2048",
+        "groupDescription" : "AWS KMS Asymmetric Requests RSA_2048",
+        "usagetype" : "ap-southeast-1-KMS-Requests-Asymmetric-RSA_2048",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS Key Management Service"
+      }
+    },
+    "AJHCKGBJKYU4VAD6" : {
+      "sku" : "AJHCKGBJKYU4VAD6",
+      "attributes" : {
+        "servicecode" : "awskms",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "awskms-Requests-GenerateDatakeyPair-RSA",
+        "groupDescription" : "AWS KMS API Requests GenerateDatakeyPair RSA",
+        "usagetype" : "ap-southeast-1-KMS-Requests-GenerateDatakeyPair-RSA",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS Key Management Service"
+      }
+    },
+    "GR8A68CZMABU6AYN" : {
+      "sku" : "GR8A68CZMABU6AYN",
+      "attributes" : {
+        "servicecode" : "awskms",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "awskms-Requests-Asymmetric",
+        "groupDescription" : "AWS KMS Asymmetric Requests except RSA_2048API",
+        "usagetype" : "ap-southeast-1-KMS-Requests-Asymmetric",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS Key Management Service"
+      }
+    },
+    "VTFSAGP364M6QE4A" : {
+      "sku" : "VTFSAGP364M6QE4A",
+      "productFamily" : "Bundle",
+      "attributes" : {
+        "servicecode" : "awskms",
+        "group" : "awskms-Requests",
+        "groupDescription" : "Monthly free usage of KMS API Requests",
+        "usagetype" : "Global-KMS-Requests",
+        "operation" : "",
+        "servicename" : "AWS Key Management Service"
+      }
+    },
+    "7AVHXGCZK6D9ARBK" : {
+      "sku" : "7AVHXGCZK6D9ARBK",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "awskms",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "awskms-APIRequest-All",
+        "groupDescription" : "All AWS KMS API requests",
+        "usagetype" : "ap-southeast-1-KMS-Requests",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS Key Management Service"
+      }
+    },
+    "5SNBYMV9DRA8CA87" : {
+      "sku" : "5SNBYMV9DRA8CA87",
+      "attributes" : {
+        "servicecode" : "awskms",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "awskms-Requests-GenerateDatakeyPair-ECC",
+        "groupDescription" : "AWS KMS API Requests GenerateDatakeyPair ECC",
+        "usagetype" : "ap-southeast-1-KMS-Requests-GenerateDatakeyPair-ECC",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS Key Management Service"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "AJHCKGBJKYU4VAD6" : {
+        "AJHCKGBJKYU4VAD6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AJHCKGBJKYU4VAD6",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "AJHCKGBJKYU4VAD6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AJHCKGBJKYU4VAD6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$12 per 10000 RSA Generate Data Key Pair Requests in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0012000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GR8A68CZMABU6AYN" : {
+        "GR8A68CZMABU6AYN.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GR8A68CZMABU6AYN",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "GR8A68CZMABU6AYN.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GR8A68CZMABU6AYN.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per 10000 KMS Asymmetric Requests excluding RSA 2048 in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000150000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "VTFSAGP364M6QE4A" : {
+        "VTFSAGP364M6QE4A.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "VTFSAGP364M6QE4A",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "VTFSAGP364M6QE4A.A429C66SYZ.7K6Z2V4Y4Q" : {
+              "rateCode" : "VTFSAGP364M6QE4A.A429C66SYZ.7K6Z2V4Y4Q",
+              "description" : "$0.00 per request - Monthly Global Free Tier for KMS requests",
+              "beginRange" : "0",
+              "endRange" : "20000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "A3247YR2SJRYKDEX", "MFEBZPX8NHM5FY7Z", "GAG46BCKTJNCPRCD", "H4VQ25AJP5STBY2V", "MG69RRR3V9FG2YMF", "WCDV7H2SEWSQDPHE", "2S77H5MZU5BVWEXS", "GKJ2WA9PUPY889NV", "8XH9DBV4329CDSSS", "74AFRTWKY4BVPBF7", "22NGFM2U7FQGBC49", "EZCZH4NG992U5FTR", "XV5CERB5VJ728MSB", "KHS2JMB7WKYW8C7Z", "GNYCWMXMCTZC5JHT", "Y2YQ2HC2B26TT67Y", "UM499D63PU3S76VD", "5Y7QS22JD2KZBNBG", "9XXHSZC4PS7S6AY2", "UBKP744W7HW7MT76", "GKZE5RA8VKSV68NC", "H9GF6XQC7UBUWPRJ", "49JKURJSSQHXXAKH", "4H6XVYZMMD8MKVZD", "7AVHXGCZK6D9ARBK", "3QRVDNCQFVZRB88M", "HZSWET2JVDK3QKYM", "N8ZHDTY86X2AN7DE", "MPVASE9XEU8AVWM6", "23PVFMNC6R4J3AB6", "QCRBRVP4WHFE4RN9", "SE9KXT6M6JTP7E4W", "2V8H8RKD5G49TF84", "ERNZKT7S85V564AK", "SN4PUPSHPREACEHV", "ZXP6ZS4WWG9FNXHG", "EVSMZX4D7HGSBAQF" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "R8AEZWXXE7G5EHRZ" : {
+        "R8AEZWXXE7G5EHRZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "R8AEZWXXE7G5EHRZ",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "R8AEZWXXE7G5EHRZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "R8AEZWXXE7G5EHRZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1 per customer managed KMS key version in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Keys",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NR343AV4H543ZXG3" : {
+        "NR343AV4H543ZXG3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NR343AV4H543ZXG3",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "NR343AV4H543ZXG3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NR343AV4H543ZXG3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03 per 10000 KMS RSA 2048 requests in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000030000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5SNBYMV9DRA8CA87" : {
+        "5SNBYMV9DRA8CA87.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5SNBYMV9DRA8CA87",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "5SNBYMV9DRA8CA87.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5SNBYMV9DRA8CA87.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1 per 10000 ECC Generate Data Key Pair Requests in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7AVHXGCZK6D9ARBK" : {
+        "7AVHXGCZK6D9ARBK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7AVHXGCZK6D9ARBK",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "7AVHXGCZK6D9ARBK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7AVHXGCZK6D9ARBK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.03 per 10000 KMS requests in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000030000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

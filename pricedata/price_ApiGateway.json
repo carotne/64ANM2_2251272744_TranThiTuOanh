@@ -1,0 +1,557 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonApiGateway",
+  "version" : "20251120010652",
+  "publicationDate" : "2025-11-20T01:06:52Z",
+  "products" : {
+    "R2JG4MPQHTZSFP5T" : {
+      "sku" : "R2JG4MPQHTZSFP5T",
+      "productFamily" : "Amazon API Gateway Cache",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-ApiGatewayCacheUsage:6.05GB",
+        "operation" : "RunInstances",
+        "cacheMemorySizeGb" : "6.1",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "2F9MBTX6X3TTK82Z" : {
+      "sku" : "2F9MBTX6X3TTK82Z",
+      "productFamily" : "Amazon API Gateway Cache",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-ApiGatewayCacheUsage:118GB",
+        "operation" : "RunInstances",
+        "cacheMemorySizeGb" : "118",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "ZS4R5DTABEP43UQV" : {
+      "sku" : "ZS4R5DTABEP43UQV",
+      "productFamily" : "Amazon API Gateway Cache",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-ApiGatewayCacheUsage:58.2GB",
+        "operation" : "RunInstances",
+        "cacheMemorySizeGb" : "58.2",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "XKFM6R3VGPNAV77J" : {
+      "sku" : "XKFM6R3VGPNAV77J",
+      "productFamily" : "Amazon API Gateway Cache",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-ApiGatewayCacheUsage:13.5GB",
+        "operation" : "RunInstances",
+        "cacheMemorySizeGb" : "13.5",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "AKBK8N4QD2HR4H4X" : {
+      "sku" : "AKBK8N4QD2HR4H4X",
+      "productFamily" : "Amazon API Gateway Cache",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-ApiGatewayCacheUsage:1.55GB",
+        "operation" : "RunInstances",
+        "cacheMemorySizeGb" : "1.6",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "RTEXRH4RZHBBTX9E" : {
+      "sku" : "RTEXRH4RZHBBTX9E",
+      "productFamily" : "Amazon API Gateway Cache",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-ApiGatewayCacheUsage:237GB",
+        "operation" : "RunInstances",
+        "cacheMemorySizeGb" : "237",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "YUAPGUMZYEZE4FK3" : {
+      "sku" : "YUAPGUMZYEZE4FK3",
+      "productFamily" : "Amazon API Gateway Cache",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-ApiGatewayCacheUsage:28.4GB",
+        "operation" : "RunInstances",
+        "cacheMemorySizeGb" : "28.4",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "U7QFR3NTA5AHU4AX" : {
+      "sku" : "U7QFR3NTA5AHU4AX",
+      "productFamily" : "Amazon API Gateway Portals",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-APIGateway-Portal-Product-Months",
+        "operation" : "APIGateway-Portals",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "HTX6VZU3YCMMNRM5" : {
+      "sku" : "HTX6VZU3YCMMNRM5",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "description" : "HTTP API Requests",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-ApiGatewayHttpRequest",
+        "operation" : "ApiGatewayHttpApi",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "66AQ3WP3HSD5CEM9" : {
+      "sku" : "66AQ3WP3HSD5CEM9",
+      "productFamily" : "Amazon API Gateway Portals",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-APIGateway-Portal-Months",
+        "operation" : "APIGateway-Portals",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "7KUXYHEQKAD79DEW" : {
+      "sku" : "7KUXYHEQKAD79DEW",
+      "productFamily" : "WebSocket",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "description" : "WebSocket Connection Minutes",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-ApiGatewayMinute",
+        "operation" : "ApiGatewayWebSocket",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "APBPQWG3UF58FCFE" : {
+      "sku" : "APBPQWG3UF58FCFE",
+      "productFamily" : "Amazon API Gateway Cache",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-ApiGatewayCacheUsage:0.5GB",
+        "operation" : "RunInstances",
+        "cacheMemorySizeGb" : "0.5",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "W5CFX7DTWDXQKY63" : {
+      "sku" : "W5CFX7DTWDXQKY63",
+      "productFamily" : "WebSocket",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "description" : "WebSocket Messages",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-ApiGatewayMessage",
+        "operation" : "ApiGatewayWebSocket",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    },
+    "GVUAQ6EVG8QNVVZQ" : {
+      "sku" : "GVUAQ6EVG8QNVVZQ",
+      "productFamily" : "API Calls",
+      "attributes" : {
+        "servicecode" : "AmazonApiGateway",
+        "description" : "API calls received",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "usagetype" : "APS1-ApiGatewayRequest",
+        "operation" : "ApiGatewayRequest",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon API Gateway"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "66AQ3WP3HSD5CEM9" : {
+        "66AQ3WP3HSD5CEM9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "66AQ3WP3HSD5CEM9",
+          "effectiveDate" : "2025-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "66AQ3WP3HSD5CEM9.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "66AQ3WP3HSD5CEM9.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$149.71 per Month for APIGateway-Portal-Months in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "149.7100000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XKFM6R3VGPNAV77J" : {
+        "XKFM6R3VGPNAV77J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XKFM6R3VGPNAV77J",
+          "effectiveDate" : "2025-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "XKFM6R3VGPNAV77J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XKFM6R3VGPNAV77J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "API Gateway Dedicated Cache: 13.5GB - Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2900000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HTX6VZU3YCMMNRM5" : {
+        "HTX6VZU3YCMMNRM5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HTX6VZU3YCMMNRM5",
+          "effectiveDate" : "2025-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "HTX6VZU3YCMMNRM5.JRTCKXETXF.9NXBCPDZYR" : {
+              "rateCode" : "HTX6VZU3YCMMNRM5.JRTCKXETXF.9NXBCPDZYR",
+              "description" : "$1.25/million requests - API Gateway HTTP API (first 300 million)",
+              "beginRange" : "0",
+              "endRange" : "300000000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000012500"
+              },
+              "appliesTo" : [ ]
+            },
+            "HTX6VZU3YCMMNRM5.JRTCKXETXF.Y5DREYKEMT" : {
+              "rateCode" : "HTX6VZU3YCMMNRM5.JRTCKXETXF.Y5DREYKEMT",
+              "description" : "$1.13/million requests - API Gateway HTTP API (more than 300 million)",
+              "beginRange" : "300000000",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000011300"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AKBK8N4QD2HR4H4X" : {
+        "AKBK8N4QD2HR4H4X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AKBK8N4QD2HR4H4X",
+          "effectiveDate" : "2025-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "AKBK8N4QD2HR4H4X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AKBK8N4QD2HR4H4X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "API Gateway Dedicated Cache: 1.55GB - Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0540000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZS4R5DTABEP43UQV" : {
+        "ZS4R5DTABEP43UQV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZS4R5DTABEP43UQV",
+          "effectiveDate" : "2025-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZS4R5DTABEP43UQV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZS4R5DTABEP43UQV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "API Gateway Dedicated Cache: 58.2GB - Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "1.1000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "W5CFX7DTWDXQKY63" : {
+        "W5CFX7DTWDXQKY63.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "W5CFX7DTWDXQKY63",
+          "effectiveDate" : "2025-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "W5CFX7DTWDXQKY63.JRTCKXETXF.ZN357FEBCK" : {
+              "rateCode" : "W5CFX7DTWDXQKY63.JRTCKXETXF.ZN357FEBCK",
+              "description" : "$1.15/million messages - first 1 billion messages/month",
+              "beginRange" : "0",
+              "endRange" : "1000000000",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000011500"
+              },
+              "appliesTo" : [ ]
+            },
+            "W5CFX7DTWDXQKY63.JRTCKXETXF.AGD8ADSNTG" : {
+              "rateCode" : "W5CFX7DTWDXQKY63.JRTCKXETXF.AGD8ADSNTG",
+              "description" : "$0.95/million messages - over 1 billion messages/month",
+              "beginRange" : "1000000000",
+              "endRange" : "Inf",
+              "unit" : "Messages",
+              "pricePerUnit" : {
+                "USD" : "0.0000009500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YUAPGUMZYEZE4FK3" : {
+        "YUAPGUMZYEZE4FK3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YUAPGUMZYEZE4FK3",
+          "effectiveDate" : "2025-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "YUAPGUMZYEZE4FK3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YUAPGUMZYEZE4FK3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "API Gateway Dedicated Cache: 28.4GB - Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.5600000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2F9MBTX6X3TTK82Z" : {
+        "2F9MBTX6X3TTK82Z.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2F9MBTX6X3TTK82Z",
+          "effectiveDate" : "2025-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "2F9MBTX6X3TTK82Z.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2F9MBTX6X3TTK82Z.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "API Gateway Dedicated Cache: 118GB - Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "2.2000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7KUXYHEQKAD79DEW" : {
+        "7KUXYHEQKAD79DEW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7KUXYHEQKAD79DEW",
+          "effectiveDate" : "2025-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "7KUXYHEQKAD79DEW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7KUXYHEQKAD79DEW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.288/million connection minutes",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "minutes",
+              "pricePerUnit" : {
+                "USD" : "0.0000002880"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "APBPQWG3UF58FCFE" : {
+        "APBPQWG3UF58FCFE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "APBPQWG3UF58FCFE",
+          "effectiveDate" : "2025-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "APBPQWG3UF58FCFE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "APBPQWG3UF58FCFE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "API Gateway Dedicated Cache: 0.5GB - Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0280000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RTEXRH4RZHBBTX9E" : {
+        "RTEXRH4RZHBBTX9E.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RTEXRH4RZHBBTX9E",
+          "effectiveDate" : "2025-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "RTEXRH4RZHBBTX9E.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RTEXRH4RZHBBTX9E.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "API Gateway Dedicated Cache: 237GB - Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "4.4000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "U7QFR3NTA5AHU4AX" : {
+        "U7QFR3NTA5AHU4AX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "U7QFR3NTA5AHU4AX",
+          "effectiveDate" : "2025-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "U7QFR3NTA5AHU4AX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "U7QFR3NTA5AHU4AX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$14.97 per Month for APIGateway-Portal-Product-Months in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "14.9700000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GVUAQ6EVG8QNVVZQ" : {
+        "GVUAQ6EVG8QNVVZQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GVUAQ6EVG8QNVVZQ",
+          "effectiveDate" : "2025-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "GVUAQ6EVG8QNVVZQ.JRTCKXETXF.QS4VQ8N7FD" : {
+              "rateCode" : "GVUAQ6EVG8QNVVZQ.JRTCKXETXF.QS4VQ8N7FD",
+              "description" : "$4.25/million requests - first 333 million requests/month",
+              "beginRange" : "0",
+              "endRange" : "333000000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000042500"
+              },
+              "appliesTo" : [ ]
+            },
+            "GVUAQ6EVG8QNVVZQ.JRTCKXETXF.DRE2JBTXBV" : {
+              "rateCode" : "GVUAQ6EVG8QNVVZQ.JRTCKXETXF.DRE2JBTXBV",
+              "description" : "$3.53/million requests - next 667 million requests/month",
+              "beginRange" : "333000000",
+              "endRange" : "1000000000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000035300"
+              },
+              "appliesTo" : [ ]
+            },
+            "GVUAQ6EVG8QNVVZQ.JRTCKXETXF.J4SY3H5SUC" : {
+              "rateCode" : "GVUAQ6EVG8QNVVZQ.JRTCKXETXF.J4SY3H5SUC",
+              "description" : "$3.00/million requests - next 19 billion requests/month",
+              "beginRange" : "1000000000",
+              "endRange" : "20000000000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000030000"
+              },
+              "appliesTo" : [ ]
+            },
+            "GVUAQ6EVG8QNVVZQ.JRTCKXETXF.KVC36CKCEW" : {
+              "rateCode" : "GVUAQ6EVG8QNVVZQ.JRTCKXETXF.KVC36CKCEW",
+              "description" : "$1.91/million requests - over 20 billion requests/month",
+              "beginRange" : "20000000000",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000019100"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "R2JG4MPQHTZSFP5T" : {
+        "R2JG4MPQHTZSFP5T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "R2JG4MPQHTZSFP5T",
+          "effectiveDate" : "2025-11-01T00:00:00Z",
+          "priceDimensions" : {
+            "R2JG4MPQHTZSFP5T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "R2JG4MPQHTZSFP5T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "API Gateway Dedicated Cache: 6.05GB - Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.2450000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

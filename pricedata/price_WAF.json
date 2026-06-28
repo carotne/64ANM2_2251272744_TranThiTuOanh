@@ -1,0 +1,2114 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "awswaf",
+  "version" : "20260107213453",
+  "publicationDate" : "2026-01-07T21:34:53Z",
+  "products" : {
+    "N2KGQRV4TBNQMEG5" : {
+      "sku" : "N2KGQRV4TBNQMEG5",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Captcha Attempts (Shield Protected)",
+        "groupDescription" : "Captcha Attempts processed (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-CaptchaAttempted",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "TZFYHJW9E6HUMU22" : {
+      "sku" : "TZFYHJW9E6HUMU22",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Request Processed Tier5 3500WCU",
+        "usagetype" : "APS1-RequestV2-Tier5-3500WCU",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "BWVQ76KEV2VXSSBT" : {
+      "sku" : "BWVQ76KEV2VXSSBT",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Request Processed Tier2 2000WCU (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-RequestV2-Tier2-2000WCU",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "DUFC5PRN8CBH7JBS" : {
+      "sku" : "DUFC5PRN8CBH7JBS",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Requests Processed 48KB",
+        "usagetype" : "APS1-RequestV2-48KB",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "NM4WSPX7KAQ2G845" : {
+      "sku" : "NM4WSPX7KAQ2G845",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Number of Web Requests received",
+        "usagetype" : "APS1-Request",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "3YTWKVGN4GJDXWEM" : {
+      "sku" : "3YTWKVGN4GJDXWEM",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Rule",
+        "groupDescription" : "Rule Activated",
+        "usagetype" : "APS1-RuleV2",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "3QQQJDWQ6NQQDFQX" : {
+      "sku" : "3QQQJDWQ6NQQDFQX",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Bot Control Targeted Request",
+        "groupDescription" : "AMR Bot Control Targeted Request Processed",
+        "usagetype" : "APS1-AMR-BotControl-Targeted-Request",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "UV85RR2Q8JRPXAB5" : {
+      "sku" : "UV85RR2Q8JRPXAB5",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Captcha Attempts",
+        "groupDescription" : "Captcha Attempts processed",
+        "usagetype" : "APS1-CaptchaAttempted",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "AUWKE8BWWTGY4GJX" : {
+      "sku" : "AUWKE8BWWTGY4GJX",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Request Processed Tier1 (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-RequestV2-Tier1",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "7P5Z895U8X5E7AE8" : {
+      "sku" : "7P5Z895U8X5E7AE8",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Requests Processed 64KB",
+        "usagetype" : "APS1-RequestV2-64KB",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "6375J84Q28P5PBZW" : {
+      "sku" : "6375J84Q28P5PBZW",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Number of Web Requests received (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-Request",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "4SPZW5CJPRRVZCB2" : {
+      "sku" : "4SPZW5CJPRRVZCB2",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Anti-DDoS Entity",
+        "groupDescription" : "AMR Anti-DDoS Activated",
+        "usagetype" : "APS1-AMR-AntiDDoS",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "XPDR8JY93RZKTWED" : {
+      "sku" : "XPDR8JY93RZKTWED",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Anti-DDoS Request (Shield Protected)",
+        "groupDescription" : "AMR Anti-DDoS Request (Capped) Processed (Shield Protected) Tier 0",
+        "usagetype" : "APS1-ShieldProtected-Capped-RequestV2-Tier0",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "828UQP6KRUUPDPQC" : {
+      "sku" : "828UQP6KRUUPDPQC",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Request Processed Tier4 3000WCU (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-RequestV2-Tier4-3000WCU",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "PDBBJGPWK4RRMQ2R" : {
+      "sku" : "PDBBJGPWK4RRMQ2R",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Anti-DDoS Entity (Shield Protected)",
+        "groupDescription" : "AMR Anti-DDoS Activated (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-AMR-AntiDDoS",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "ARJJGFHFBTQ9GK96" : {
+      "sku" : "ARJJGFHFBTQ9GK96",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Request Processed Tier0 (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-RequestV2-Tier0",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "PUVHYS9F2425Q9Q3" : {
+      "sku" : "PUVHYS9F2425Q9Q3",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Rule (Shield Protected)",
+        "groupDescription" : "Rule Activated (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-RuleV2",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "W8RM6JX8UDMGW9XX" : {
+      "sku" : "W8RM6JX8UDMGW9XX",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Any",
+        "locationType" : "AWS Region",
+        "group" : "Shield Protected Request Count",
+        "groupDescription" : "Shield Protected Request Counts All regions",
+        "usagetype" : "Global-ShieldProtected-Capped-RequestV2-Count",
+        "operation" : "",
+        "regionCode" : "",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "V3QX8Y7APM324MMD" : {
+      "sku" : "V3QX8Y7APM324MMD",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Requests Processed 64KB (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-RequestV2-64KB",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "KRUVEP3YJYPMMHZE" : {
+      "sku" : "KRUVEP3YJYPMMHZE",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Anti-DDoS Request (Shield Protected)",
+        "groupDescription" : "AMR Anti-DDoS Request (Capped) Processed (Shield Protected) Tier 1",
+        "usagetype" : "APS1-ShieldProtected-Capped-RequestV2-Tier1",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "5ZWA6Y9FRJ2GCQV6" : {
+      "sku" : "5ZWA6Y9FRJ2GCQV6",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AMR ATP Entity (Shield Protected)",
+        "groupDescription" : "AMR ATP Activated (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-AMR-ATP",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "ZH247RYBGHTHFFHR" : {
+      "sku" : "ZH247RYBGHTHFFHR",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Requests Processed 48KB (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-RequestV2-48KB",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "PVVWJBVAWSB9MKZ4" : {
+      "sku" : "PVVWJBVAWSB9MKZ4",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Web ACL (Shield Protected)",
+        "groupDescription" : "Number of Web Access Control Lists (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-WebACL",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "RVTAG6GV34CYMTZV" : {
+      "sku" : "RVTAG6GV34CYMTZV",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Web ACL",
+        "groupDescription" : "Number of Web Access Control Lists",
+        "usagetype" : "APS1-WebACL",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "ESZ3U4SACKXCGBPS" : {
+      "sku" : "ESZ3U4SACKXCGBPS",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Requests Processed 32KB (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-RequestV2-32KB",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "662KTAGFABFH9R5Q" : {
+      "sku" : "662KTAGFABFH9R5Q",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Web ACL",
+        "groupDescription" : "Web ACL Activated",
+        "usagetype" : "APS1-WebACLV2",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "F483UJHNZWGRSY6N" : {
+      "sku" : "F483UJHNZWGRSY6N",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Request Processed Tier3 2500WCU",
+        "usagetype" : "APS1-RequestV2-Tier3-2500WCU",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "D4JDVP7ZYZGUVMTG" : {
+      "sku" : "D4JDVP7ZYZGUVMTG",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Challenge Served (Shield Protected)",
+        "groupDescription" : "Challenge Served processed (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-ChallengeServed",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "HTHPDSUJA7CVVFFP" : {
+      "sku" : "HTHPDSUJA7CVVFFP",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Bot Control Request (Shield Protected)",
+        "groupDescription" : "AMR Bot Control Request Processed (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-AMR-BotControl-Request",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "JYXH57THCD9UFJGU" : {
+      "sku" : "JYXH57THCD9UFJGU",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Request Processed Tier6 4000WCU",
+        "usagetype" : "APS1-RequestV2-Tier6-4000WCU",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "MSFW6TWR85VHZKUX" : {
+      "sku" : "MSFW6TWR85VHZKUX",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Request Processed Tier2 2000WCU",
+        "usagetype" : "APS1-RequestV2-Tier2-2000WCU",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "XRAYKG29G7K87FZ8" : {
+      "sku" : "XRAYKG29G7K87FZ8",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Request Processed Tier0",
+        "usagetype" : "APS1-RequestV2-Tier0",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "2VUUQQCJ39AQPF23" : {
+      "sku" : "2VUUQQCJ39AQPF23",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Requests Processed 32KB",
+        "usagetype" : "APS1-RequestV2-32KB",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "X2FPVHDJKGCDAE3T" : {
+      "sku" : "X2FPVHDJKGCDAE3T",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Request Processed Tier4 3000WCU",
+        "usagetype" : "APS1-RequestV2-Tier4-3000WCU",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "2K76BPU6EZT96BZ4" : {
+      "sku" : "2K76BPU6EZT96BZ4",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Request Processed Tier1",
+        "usagetype" : "APS1-RequestV2-Tier1",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "WQHJUG6TUTYV33YR" : {
+      "sku" : "WQHJUG6TUTYV33YR",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Bot Control Entity (Shield Protected)",
+        "groupDescription" : "AMR Bot Control Activated (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-AMR-BotControl",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "NHZJJMVBTTAMGJPY" : {
+      "sku" : "NHZJJMVBTTAMGJPY",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Request Processed Tier6 4000WCU (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-RequestV2-Tier6-4000WCU",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "GX6AF876DSXRG883" : {
+      "sku" : "GX6AF876DSXRG883",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Rule",
+        "groupDescription" : "Number of Rules added per Web Access Control Lists",
+        "usagetype" : "APS1-Rule",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "2C2XV5UJB76JHWNA" : {
+      "sku" : "2C2XV5UJB76JHWNA",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Request Processed Tier7 4500WCU (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-RequestV2-Tier7-4500WCU",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "2YPKA35YG5VG9QJA" : {
+      "sku" : "2YPKA35YG5VG9QJA",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Fraud Control Request",
+        "groupDescription" : "AMR Fraud Control request processed",
+        "usagetype" : "APS1-AMR-FraudControl-Request",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "DRZM2NUPK4CPZ2E6" : {
+      "sku" : "DRZM2NUPK4CPZ2E6",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Bot Control Request",
+        "groupDescription" : "AMR Bot Control Request Processed",
+        "usagetype" : "APS1-AMR-BotControl-Request",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "E5493MPRRCGDYQ4Y" : {
+      "sku" : "E5493MPRRCGDYQ4Y",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Request Processed Tier3 2500WCU (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-RequestV2-Tier3-2500WCU",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "DYT3C3DE994MKRYT" : {
+      "sku" : "DYT3C3DE994MKRYT",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Web ACL (Shield Protected)",
+        "groupDescription" : "Web ACL Activated (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-WebACLV2",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "Y22TMP8HEGASSJRB" : {
+      "sku" : "Y22TMP8HEGASSJRB",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Bot Control Targeted Request (Shield Protected)",
+        "groupDescription" : "AMR Bot Control Request Processed (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-AMR-BotControl-Targeted-Request",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "GJ4DBCEZEMN8SNQC" : {
+      "sku" : "GJ4DBCEZEMN8SNQC",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Fraud Control Request (Shield Protected)",
+        "groupDescription" : "AMR Fraud Control request processed (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-AMR-FraudControl-Request",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "WRTSMF8KG24BV3KA" : {
+      "sku" : "WRTSMF8KG24BV3KA",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Rule (Shield Protected)",
+        "groupDescription" : "Number of Rules added per Web Access Control Lists (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-Rule",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "AE8SP75FTQ5NTQCA" : {
+      "sku" : "AE8SP75FTQ5NTQCA",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AMR ATP Entity",
+        "groupDescription" : "AMR ATP Activated",
+        "usagetype" : "APS1-AMR-ATP",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "QAB4GN45GA8VDVU4" : {
+      "sku" : "QAB4GN45GA8VDVU4",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Request Processed Tier8 5000WCU (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-RequestV2-Tier8-5000WCU",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "ZUQWTBVKXEJ6WX4Q" : {
+      "sku" : "ZUQWTBVKXEJ6WX4Q",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Bot Control Entity",
+        "groupDescription" : "AMR Bot Control Activated",
+        "usagetype" : "APS1-AMR-BotControl",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "Q6M48HC8N2D3GZX3" : {
+      "sku" : "Q6M48HC8N2D3GZX3",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request (Shield Protected)",
+        "groupDescription" : "Request Processed Tier5 3500WCU (Shield Protected)",
+        "usagetype" : "APS1-ShieldProtected-RequestV2-Tier5-3500WCU",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "TDSWAJ35567YW26K" : {
+      "sku" : "TDSWAJ35567YW26K",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Challenge Served",
+        "groupDescription" : "Challenge Served processed",
+        "usagetype" : "APS1-ChallengeServed",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "X8QUYC8MARUUH2PW" : {
+      "sku" : "X8QUYC8MARUUH2PW",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Request Processed Tier7 4500WCU",
+        "usagetype" : "APS1-RequestV2-Tier7-4500WCU",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "TYFSRQGGY75RAZEK" : {
+      "sku" : "TYFSRQGGY75RAZEK",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "AMR Anti-DDoS Request",
+        "groupDescription" : "AMR Anti-DDoS Request Processed",
+        "usagetype" : "APS1-AMR-AntiDDoS-Request",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    },
+    "FNYBRA5Q8FSER3Q5" : {
+      "sku" : "FNYBRA5Q8FSER3Q5",
+      "productFamily" : "Web Application Firewall",
+      "attributes" : {
+        "servicecode" : "awswaf",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "Request",
+        "groupDescription" : "Request Processed Tier8 5000WCU",
+        "usagetype" : "APS1-RequestV2-Tier8-5000WCU",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "AWS WAF"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "2VUUQQCJ39AQPF23" : {
+        "2VUUQQCJ39AQPF23.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2VUUQQCJ39AQPF23",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "2VUUQQCJ39AQPF23.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2VUUQQCJ39AQPF23.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.30 per million requests processed (32KB)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000003000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2K76BPU6EZT96BZ4" : {
+        "2K76BPU6EZT96BZ4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2K76BPU6EZT96BZ4",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "2K76BPU6EZT96BZ4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2K76BPU6EZT96BZ4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.60 per million requests processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000006000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DUFC5PRN8CBH7JBS" : {
+        "DUFC5PRN8CBH7JBS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DUFC5PRN8CBH7JBS",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "DUFC5PRN8CBH7JBS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DUFC5PRN8CBH7JBS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.60 per million requests processed (48KB)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000006000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "N2KGQRV4TBNQMEG5" : {
+        "N2KGQRV4TBNQMEG5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "N2KGQRV4TBNQMEG5",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "N2KGQRV4TBNQMEG5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "N2KGQRV4TBNQMEG5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.40 per thousand captcha attempts analyzed (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0004000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "5ZWA6Y9FRJ2GCQV6" : {
+        "5ZWA6Y9FRJ2GCQV6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "5ZWA6Y9FRJ2GCQV6",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "5ZWA6Y9FRJ2GCQV6.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "5ZWA6Y9FRJ2GCQV6.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10.00 per month for each Account Takeover Prevention managed rule group enabled (prorated hourly)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "10.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NHZJJMVBTTAMGJPY" : {
+        "NHZJJMVBTTAMGJPY.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NHZJJMVBTTAMGJPY",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "NHZJJMVBTTAMGJPY.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NHZJJMVBTTAMGJPY.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.00 per million requests processed (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZUQWTBVKXEJ6WX4Q" : {
+        "ZUQWTBVKXEJ6WX4Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZUQWTBVKXEJ6WX4Q",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZUQWTBVKXEJ6WX4Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZUQWTBVKXEJ6WX4Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10.00 per month for each Bot Control managed rule group enabled (prorated hourly)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "10.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3QQQJDWQ6NQQDFQX" : {
+        "3QQQJDWQ6NQQDFQX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3QQQJDWQ6NQQDFQX",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "3QQQJDWQ6NQQDFQX.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "3QQQJDWQ6NQQDFQX.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.0 per Request for AMR-BotControl-Targeted-Request in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "3QQQJDWQ6NQQDFQX.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "3QQQJDWQ6NQQDFQX.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$0.0 per Request for AMR-BotControl-Targeted-Request in Asia Pacific (Singapore)",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ARJJGFHFBTQ9GK96" : {
+        "ARJJGFHFBTQ9GK96.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ARJJGFHFBTQ9GK96",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "ARJJGFHFBTQ9GK96.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ARJJGFHFBTQ9GK96.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per Request for Request Processed Tier0 (Shield Protected) in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "WQHJUG6TUTYV33YR" : {
+        "WQHJUG6TUTYV33YR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WQHJUG6TUTYV33YR",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "WQHJUG6TUTYV33YR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WQHJUG6TUTYV33YR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10.00 per month for each Bot Control managed rule group enabled (prorated hourly)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "10.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "RVTAG6GV34CYMTZV" : {
+        "RVTAG6GV34CYMTZV.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "RVTAG6GV34CYMTZV",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "RVTAG6GV34CYMTZV.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "RVTAG6GV34CYMTZV.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Price per WebACL",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "month",
+              "pricePerUnit" : {
+                "USD" : "5.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "MSFW6TWR85VHZKUX" : {
+        "MSFW6TWR85VHZKUX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "MSFW6TWR85VHZKUX",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "MSFW6TWR85VHZKUX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "MSFW6TWR85VHZKUX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.80 per million requests processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000008000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Y22TMP8HEGASSJRB" : {
+        "Y22TMP8HEGASSJRB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Y22TMP8HEGASSJRB",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "Y22TMP8HEGASSJRB.JRTCKXETXF.SB2VSFF4TP" : {
+              "rateCode" : "Y22TMP8HEGASSJRB.JRTCKXETXF.SB2VSFF4TP",
+              "description" : "$0.0 per Request for ShieldProtected-AMR-BotControl-Targeted-Request in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "1000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "Y22TMP8HEGASSJRB.JRTCKXETXF.VNJQCFJPS4" : {
+              "rateCode" : "Y22TMP8HEGASSJRB.JRTCKXETXF.VNJQCFJPS4",
+              "description" : "$10.0 per Million Request for ShieldProtected-AMR-BotControl-Targeted-Request in Asia Pacific (Singapore)",
+              "beginRange" : "1000000",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000100000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PDBBJGPWK4RRMQ2R" : {
+        "PDBBJGPWK4RRMQ2R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PDBBJGPWK4RRMQ2R",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "PDBBJGPWK4RRMQ2R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PDBBJGPWK4RRMQ2R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00 per Month for AMR Anti-DDoS Created (Shield Protected) in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3YTWKVGN4GJDXWEM" : {
+        "3YTWKVGN4GJDXWEM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3YTWKVGN4GJDXWEM",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "3YTWKVGN4GJDXWEM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "3YTWKVGN4GJDXWEM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.00 per rule created (prorated hourly)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ESZ3U4SACKXCGBPS" : {
+        "ESZ3U4SACKXCGBPS.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ESZ3U4SACKXCGBPS",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "ESZ3U4SACKXCGBPS.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ESZ3U4SACKXCGBPS.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.30 per million requests processed (32KB, Shield)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000003000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "E5493MPRRCGDYQ4Y" : {
+        "E5493MPRRCGDYQ4Y.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "E5493MPRRCGDYQ4Y",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "E5493MPRRCGDYQ4Y.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "E5493MPRRCGDYQ4Y.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.40 per million requests processed (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000004000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UV85RR2Q8JRPXAB5" : {
+        "UV85RR2Q8JRPXAB5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UV85RR2Q8JRPXAB5",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "UV85RR2Q8JRPXAB5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UV85RR2Q8JRPXAB5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.40 per thousand captcha attempts analyzed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0004000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "QAB4GN45GA8VDVU4" : {
+        "QAB4GN45GA8VDVU4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "QAB4GN45GA8VDVU4",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "QAB4GN45GA8VDVU4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "QAB4GN45GA8VDVU4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.40 per million requests processed (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000014000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "X8QUYC8MARUUH2PW" : {
+        "X8QUYC8MARUUH2PW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "X8QUYC8MARUUH2PW",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "X8QUYC8MARUUH2PW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "X8QUYC8MARUUH2PW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.80 per million requests processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000018000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "4SPZW5CJPRRVZCB2" : {
+        "4SPZW5CJPRRVZCB2.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "4SPZW5CJPRRVZCB2",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "4SPZW5CJPRRVZCB2.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "4SPZW5CJPRRVZCB2.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$20.00 per Month for AMR Anti-DDoS Created in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "20.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DRZM2NUPK4CPZ2E6" : {
+        "DRZM2NUPK4CPZ2E6.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DRZM2NUPK4CPZ2E6",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "DRZM2NUPK4CPZ2E6.JRTCKXETXF.HWDSBTNJX9" : {
+              "rateCode" : "DRZM2NUPK4CPZ2E6.JRTCKXETXF.HWDSBTNJX9",
+              "description" : "$0 per million requests processed by Bot Control",
+              "beginRange" : "0",
+              "endRange" : "10000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "DRZM2NUPK4CPZ2E6.JRTCKXETXF.EFRCQPS26J" : {
+              "rateCode" : "DRZM2NUPK4CPZ2E6.JRTCKXETXF.EFRCQPS26J",
+              "description" : "$1.00 per million requests processed by Bot Control",
+              "beginRange" : "10000000",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "7P5Z895U8X5E7AE8" : {
+        "7P5Z895U8X5E7AE8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "7P5Z895U8X5E7AE8",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "7P5Z895U8X5E7AE8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "7P5Z895U8X5E7AE8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.90 per million requests processed (64KB)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000009000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "V3QX8Y7APM324MMD" : {
+        "V3QX8Y7APM324MMD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "V3QX8Y7APM324MMD",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "V3QX8Y7APM324MMD.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "V3QX8Y7APM324MMD.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.90 per million requests processed (64KB, Shield)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000009000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "828UQP6KRUUPDPQC" : {
+        "828UQP6KRUUPDPQC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "828UQP6KRUUPDPQC",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "828UQP6KRUUPDPQC.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "828UQP6KRUUPDPQC.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.60 per million requests processed (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000006000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "6375J84Q28P5PBZW" : {
+        "6375J84Q28P5PBZW.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "6375J84Q28P5PBZW",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "6375J84Q28P5PBZW.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "6375J84Q28P5PBZW.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Price per HTTP request (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HTHPDSUJA7CVVFFP" : {
+        "HTHPDSUJA7CVVFFP.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HTHPDSUJA7CVVFFP",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "HTHPDSUJA7CVVFFP.JRTCKXETXF.HWDSBTNJX9" : {
+              "rateCode" : "HTHPDSUJA7CVVFFP.JRTCKXETXF.HWDSBTNJX9",
+              "description" : "$0 per million requests processed by Bot Control",
+              "beginRange" : "0",
+              "endRange" : "10000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "HTHPDSUJA7CVVFFP.JRTCKXETXF.EFRCQPS26J" : {
+              "rateCode" : "HTHPDSUJA7CVVFFP.JRTCKXETXF.EFRCQPS26J",
+              "description" : "$1.00 per million requests processed by Bot Control",
+              "beginRange" : "10000000",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "F483UJHNZWGRSY6N" : {
+        "F483UJHNZWGRSY6N.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "F483UJHNZWGRSY6N",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "F483UJHNZWGRSY6N.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "F483UJHNZWGRSY6N.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.00 per million requests processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000010000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "662KTAGFABFH9R5Q" : {
+        "662KTAGFABFH9R5Q.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "662KTAGFABFH9R5Q",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "662KTAGFABFH9R5Q.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "662KTAGFABFH9R5Q.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$5.00 per web ACL created (prorated hourly)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "5.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "X2FPVHDJKGCDAE3T" : {
+        "X2FPVHDJKGCDAE3T.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "X2FPVHDJKGCDAE3T",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "X2FPVHDJKGCDAE3T.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "X2FPVHDJKGCDAE3T.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.20 per million requests processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000012000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AUWKE8BWWTGY4GJX" : {
+        "AUWKE8BWWTGY4GJX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AUWKE8BWWTGY4GJX",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "AUWKE8BWWTGY4GJX.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AUWKE8BWWTGY4GJX.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per million requests processed (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "D4JDVP7ZYZGUVMTG" : {
+        "D4JDVP7ZYZGUVMTG.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "D4JDVP7ZYZGUVMTG",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "D4JDVP7ZYZGUVMTG.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "D4JDVP7ZYZGUVMTG.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.4 per Million Request  for ShieldProtected-ChallengeServed in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000004000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "DYT3C3DE994MKRYT" : {
+        "DYT3C3DE994MKRYT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "DYT3C3DE994MKRYT",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "DYT3C3DE994MKRYT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "DYT3C3DE994MKRYT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per web ACL created (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2YPKA35YG5VG9QJA" : {
+        "2YPKA35YG5VG9QJA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2YPKA35YG5VG9QJA",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "2YPKA35YG5VG9QJA.JRTCKXETXF.A6VD9GXV7W" : {
+              "rateCode" : "2YPKA35YG5VG9QJA.JRTCKXETXF.A6VD9GXV7W",
+              "description" : "$0 per thousand requests (Tier 0) processed by Fraud Control AMR",
+              "beginRange" : "0",
+              "endRange" : "10000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "2YPKA35YG5VG9QJA.JRTCKXETXF.Q8U7ERQMFZ" : {
+              "rateCode" : "2YPKA35YG5VG9QJA.JRTCKXETXF.Q8U7ERQMFZ",
+              "description" : "$1.00 per thousand requests (Tier 1) processed by Fraud Control AMR",
+              "beginRange" : "10000",
+              "endRange" : "2000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "2YPKA35YG5VG9QJA.JRTCKXETXF.4KF9HH2TZ4" : {
+              "rateCode" : "2YPKA35YG5VG9QJA.JRTCKXETXF.4KF9HH2TZ4",
+              "description" : "$0.70 per thousand requests (Tier 2) processed by Fraud Control AMR",
+              "beginRange" : "2000000",
+              "endRange" : "5000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0007000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "2YPKA35YG5VG9QJA.JRTCKXETXF.7UCCNN4NE8" : {
+              "rateCode" : "2YPKA35YG5VG9QJA.JRTCKXETXF.7UCCNN4NE8",
+              "description" : "$0.40 per thousand requests (Tier 3) processed by Fraud Control AMR",
+              "beginRange" : "5000000",
+              "endRange" : "15000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0004000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "2YPKA35YG5VG9QJA.JRTCKXETXF.KCDPB7BUTC" : {
+              "rateCode" : "2YPKA35YG5VG9QJA.JRTCKXETXF.KCDPB7BUTC",
+              "description" : "$0.20 per thousand requests (Tier 4) processed by Fraud Control AMR",
+              "beginRange" : "15000000",
+              "endRange" : "30000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0002000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "2YPKA35YG5VG9QJA.JRTCKXETXF.FNBKGN7CAD" : {
+              "rateCode" : "2YPKA35YG5VG9QJA.JRTCKXETXF.FNBKGN7CAD",
+              "description" : "$0.05 per thousand requests (Tier 5) processed by Fraud Control AMR",
+              "beginRange" : "30000000",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "KRUVEP3YJYPMMHZE" : {
+        "KRUVEP3YJYPMMHZE.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "KRUVEP3YJYPMMHZE",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "KRUVEP3YJYPMMHZE.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "KRUVEP3YJYPMMHZE.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per million requests for ShieldProtected-Capped-RequestV2-Tier1 in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000001500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PVVWJBVAWSB9MKZ4" : {
+        "PVVWJBVAWSB9MKZ4.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PVVWJBVAWSB9MKZ4",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "PVVWJBVAWSB9MKZ4.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PVVWJBVAWSB9MKZ4.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Price per WebACL (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XPDR8JY93RZKTWED" : {
+        "XPDR8JY93RZKTWED.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XPDR8JY93RZKTWED",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "XPDR8JY93RZKTWED.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XPDR8JY93RZKTWED.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per million requests for ShieldProtected-Capped-RequestV2-Tier0 in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000001500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XRAYKG29G7K87FZ8" : {
+        "XRAYKG29G7K87FZ8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XRAYKG29G7K87FZ8",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "XRAYKG29G7K87FZ8.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XRAYKG29G7K87FZ8.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.60 per million Request for Request Processed Tier0 in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000006000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TYFSRQGGY75RAZEK" : {
+        "TYFSRQGGY75RAZEK.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TYFSRQGGY75RAZEK",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "TYFSRQGGY75RAZEK.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TYFSRQGGY75RAZEK.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.15 per million Request for AMR Anti-DDoS Request Processed in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000001500"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "Q6M48HC8N2D3GZX3" : {
+        "Q6M48HC8N2D3GZX3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "Q6M48HC8N2D3GZX3",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "Q6M48HC8N2D3GZX3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "Q6M48HC8N2D3GZX3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.80 per million requests processed (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000008000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TZFYHJW9E6HUMU22" : {
+        "TZFYHJW9E6HUMU22.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TZFYHJW9E6HUMU22",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "TZFYHJW9E6HUMU22.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TZFYHJW9E6HUMU22.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.40 per million requests processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000014000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ZH247RYBGHTHFFHR" : {
+        "ZH247RYBGHTHFFHR.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ZH247RYBGHTHFFHR",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "ZH247RYBGHTHFFHR.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "ZH247RYBGHTHFFHR.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.60 per million requests processed (48KB, Shield)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000006000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "W8RM6JX8UDMGW9XX" : {
+        "W8RM6JX8UDMGW9XX.A429C66SYZ" : {
+          "offerTermCode" : "A429C66SYZ",
+          "sku" : "W8RM6JX8UDMGW9XX",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "W8RM6JX8UDMGW9XX.A429C66SYZ.Y5CKM6MAG2" : {
+              "rateCode" : "W8RM6JX8UDMGW9XX.A429C66SYZ.Y5CKM6MAG2",
+              "description" : "$0.00 per Request from 0 to 50,000,000,000 for Global-ShieldProtected-Capped-RequestV2-Count",
+              "beginRange" : "0",
+              "endRange" : "50000000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ "YE9FAVTVP4QGXYEB", "VY72XXRYVYQV29A3", "GJ4BQC8GMGJAZG8W", "3RSPWQUWYJSKAV4E", "Y9R7TDAGKNZGXRE3", "7J9A8ZS9ZBNKET95", "ANS52YDCWHMW3ZZA", "C8SFK6J6FTRUSY5B", "UMVMTQ5H7YAGJCG6", "WCFZBBSAVT85GN84", "DDCMM2285JKXX326", "FPZVU8SWX6R4U8FR", "GHMZ84X5XYCRE435", "EBQAD8XBTJ5NXMAC", "C7PB2WXB9WUW65W6", "XPDR8JY93RZKTWED", "V7V23Y66MF83UFVH", "2E8WCX6BX3WZAG3K", "PFGZDRJKEXWPSW5B", "JR74YNUBRWR7CP4U", "R7479E7GBG2MM9GQ", "F652PC3WAARZVCS9", "F34R8N6MQFF4CT3V", "2X6FD5TYZNDWN5BV", "499588GTHXRNDGWQ", "RS9PJRTEZ2Z2THM6", "36YFGYVMHHEPGMXV", "3596JQNPSQNZFWS7", "2BM9BMMR34SHD8JK", "4KQ6WE3HEJUEPAGS", "AKTDGX3CTVD3JQ4Q", "E4PVPAYYGM2K5Y4P", "VVNXPH5TPRUQFA77", "K3ENJD57WVRM8EAM", "5X2TMZF3TFMBTPN3", "KZ2N8UQ9KZSSGKK2", "DASAPK4R23VY4RPF", "AKJNXG8KGC565FXY", "BS6XYWDYUC4NYTQA", "JD4554KJ8XN7XVQH", "MVHTKDUW8Z9QAM8V", "PVWRU98N8QV2DN9B", "Z5FYUXRY98G4UCFM", "2V4G5P9W3WTJUBPR", "9YTC7W2V9ZFS6GR7", "93D7EECYWUSH42Q3", "A2PDSGZU4HF2Z8EJ", "72UG3A4MEVF38T8J", "A9ZSYQH89FK5RS43", "RJPMTYPUYV5TDHZC", "SDXH2AFV7EFQXEV5", "HHT53WWM48CYRZMS", "UMZERFK27S7G92U5", "GZSFWRZTKMBJG74N", "JEYJ7KD83CXQ2QU9", "UMBVDXKPBU75YGJV", "GMZW6YEY9P24Q6Q3", "AGDJERAZE7QBXCJ9", "AA8DQ2YGT5C2CGK7", "DSA5SSEVDG7P87PM", "C6VWUU9S5Z742WMJ", "G6HG86PZKM5H5UHX", "S8MMXX6MMBEHFXMR", "KAUTU788ZCXE6CVJ", "SR5K88CJYSBBK3GN", "DMSU822XVS4WPMXN", "AAQBXYKQMX63MFKB", "DKQ87ZRNW7HFKGV9", "AE3JCQ8YK7BBTKDF", "6K6MJ4JTQ63VKDJX", "KRUVEP3YJYPMMHZE", "ZM9P84SNXD4K29DN", "8QXN99DPCG4HV47R", "79P8BC4KKQUERN93", "XF54AP9D8W4SMYD3", "CD349V57VH74KZSM" ]
+            }
+          },
+          "termAttributes" : {
+            "Restriction" : "Limited SKU Usage"
+          }
+        }
+      },
+      "WRTSMF8KG24BV3KA" : {
+        "WRTSMF8KG24BV3KA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "WRTSMF8KG24BV3KA",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "WRTSMF8KG24BV3KA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "WRTSMF8KG24BV3KA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Price per Rule (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "JYXH57THCD9UFJGU" : {
+        "JYXH57THCD9UFJGU.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "JYXH57THCD9UFJGU",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "JYXH57THCD9UFJGU.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "JYXH57THCD9UFJGU.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.60 per million requests processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000016000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "BWVQ76KEV2VXSSBT" : {
+        "BWVQ76KEV2VXSSBT.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "BWVQ76KEV2VXSSBT",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "BWVQ76KEV2VXSSBT.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "BWVQ76KEV2VXSSBT.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.20 per million requests processed (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000002000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "NM4WSPX7KAQ2G845" : {
+        "NM4WSPX7KAQ2G845.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "NM4WSPX7KAQ2G845",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "NM4WSPX7KAQ2G845.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "NM4WSPX7KAQ2G845.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Price per HTTP request",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000006000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GJ4DBCEZEMN8SNQC" : {
+        "GJ4DBCEZEMN8SNQC.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GJ4DBCEZEMN8SNQC",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "GJ4DBCEZEMN8SNQC.JRTCKXETXF.A6VD9GXV7W" : {
+              "rateCode" : "GJ4DBCEZEMN8SNQC.JRTCKXETXF.A6VD9GXV7W",
+              "description" : "$0 per thousand requests (Tier 0) processed by Fraud Control AMR",
+              "beginRange" : "0",
+              "endRange" : "10000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "GJ4DBCEZEMN8SNQC.JRTCKXETXF.Q8U7ERQMFZ" : {
+              "rateCode" : "GJ4DBCEZEMN8SNQC.JRTCKXETXF.Q8U7ERQMFZ",
+              "description" : "$1.00 per thousand requests (Tier 1) processed by Fraud Control AMR",
+              "beginRange" : "10000",
+              "endRange" : "2000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0010000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "GJ4DBCEZEMN8SNQC.JRTCKXETXF.4KF9HH2TZ4" : {
+              "rateCode" : "GJ4DBCEZEMN8SNQC.JRTCKXETXF.4KF9HH2TZ4",
+              "description" : "$0.70 per thousand requests (Tier 2) processed by Fraud Control AMR",
+              "beginRange" : "2000000",
+              "endRange" : "5000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0007000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "GJ4DBCEZEMN8SNQC.JRTCKXETXF.7UCCNN4NE8" : {
+              "rateCode" : "GJ4DBCEZEMN8SNQC.JRTCKXETXF.7UCCNN4NE8",
+              "description" : "$0.40 per thousand requests (Tier 3) processed by Fraud Control AMR",
+              "beginRange" : "5000000",
+              "endRange" : "15000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0004000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "GJ4DBCEZEMN8SNQC.JRTCKXETXF.KCDPB7BUTC" : {
+              "rateCode" : "GJ4DBCEZEMN8SNQC.JRTCKXETXF.KCDPB7BUTC",
+              "description" : "$0.20 per thousand requests (Tier 4) processed by Fraud Control AMR",
+              "beginRange" : "15000000",
+              "endRange" : "30000000",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0002000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "GJ4DBCEZEMN8SNQC.JRTCKXETXF.FNBKGN7CAD" : {
+              "rateCode" : "GJ4DBCEZEMN8SNQC.JRTCKXETXF.FNBKGN7CAD",
+              "description" : "$0.05 per thousand requests (Tier 5) processed by Fraud Control AMR",
+              "beginRange" : "30000000",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000500000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "TDSWAJ35567YW26K" : {
+        "TDSWAJ35567YW26K.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "TDSWAJ35567YW26K",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "TDSWAJ35567YW26K.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "TDSWAJ35567YW26K.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.4 per Million Request  for ChallengeServed in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000004000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GX6AF876DSXRG883" : {
+        "GX6AF876DSXRG883.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GX6AF876DSXRG883",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "GX6AF876DSXRG883.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GX6AF876DSXRG883.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "Price per Rule",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "month",
+              "pricePerUnit" : {
+                "USD" : "1.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "2C2XV5UJB76JHWNA" : {
+        "2C2XV5UJB76JHWNA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "2C2XV5UJB76JHWNA",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "2C2XV5UJB76JHWNA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "2C2XV5UJB76JHWNA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$1.20 per million requests processed (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000012000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FNYBRA5Q8FSER3Q5" : {
+        "FNYBRA5Q8FSER3Q5.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FNYBRA5Q8FSER3Q5",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "FNYBRA5Q8FSER3Q5.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FNYBRA5Q8FSER3Q5.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$2.00 per million requests processed",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Request",
+              "pricePerUnit" : {
+                "USD" : "0.0000020000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PUVHYS9F2425Q9Q3" : {
+        "PUVHYS9F2425Q9Q3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PUVHYS9F2425Q9Q3",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "PUVHYS9F2425Q9Q3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PUVHYS9F2425Q9Q3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0 per rule created (Shield Protected)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "AE8SP75FTQ5NTQCA" : {
+        "AE8SP75FTQ5NTQCA.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "AE8SP75FTQ5NTQCA",
+          "effectiveDate" : "2025-12-01T00:00:00Z",
+          "priceDimensions" : {
+            "AE8SP75FTQ5NTQCA.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "AE8SP75FTQ5NTQCA.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$10.00 per month for each Account Takeover Prevention managed rule group enabled (prorated hourly)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "Month",
+              "pricePerUnit" : {
+                "USD" : "10.0000000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}

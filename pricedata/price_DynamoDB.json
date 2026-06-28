@@ -1,0 +1,986 @@
+{
+  "formatVersion" : "v1.0",
+  "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode" : "AmazonDynamoDB",
+  "version" : "20260608234428",
+  "publicationDate" : "2026-06-08T23:44:28Z",
+  "products" : {
+    "HKAXA28QKWPC5UR9" : {
+      "sku" : "HKAXA28QKWPC5UR9",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-WriteUnits",
+        "groupDescription" : "DynamoDB Provisioned Write Units",
+        "usagetype" : "APS1-WriteCapacityUnit-Hrs",
+        "operation" : "CommittedThroughput",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "YCMS8QPJ7DRVHAXD" : {
+      "sku" : "YCMS8QPJ7DRVHAXD",
+      "productFamily" : "Database Storage",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "volumeType" : "Amazon DynamoDB - Indexed DataStore",
+        "usagetype" : "APS1-TimedStorage-ByteHrs",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "XF4WN9CQUFPSY9SQ" : {
+      "sku" : "XF4WN9CQUFPSY9SQ",
+      "productFamily" : "Amazon DynamoDB PayPerRequest Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-ReadUnits",
+        "groupDescription" : "DynamoDB PayPerRequest Read Request Units",
+        "usagetype" : "APS1-ReadRequestUnits",
+        "operation" : "PayPerRequestThroughput",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "28F5UUC3ZUDFGPU8" : {
+      "sku" : "28F5UUC3ZUDFGPU8",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-ReadUnits",
+        "groupDescription" : "DynamoDB Provisioned Read Units",
+        "usagetype" : "APS1-ReadCapacityUnit-Hrs",
+        "operation" : "CommittedThroughput",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "GSSDTS2TPQ4RHW4R" : {
+      "sku" : "GSSDTS2TPQ4RHW4R",
+      "productFamily" : "Database Storage",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "volumeType" : "Amazon DynamoDB - Point-In-Time-Restore (PITR) Backup Storage",
+        "usagetype" : "APS1-TimedPITRStorage-ByteHrs",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "FBYDN68554R87MME" : {
+      "sku" : "FBYDN68554R87MME",
+      "productFamily" : "Amazon DynamoDB Import Data Size",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "volumeType" : "Amazon DynamoDB - Import Size",
+        "usagetype" : "APS1-ImportDataSize-Bytes",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "A4JVT7FRHPDGJJKZ" : {
+      "sku" : "A4JVT7FRHPDGJJKZ",
+      "productFamily" : "Amazon DynamoDB On-Demand Backup Storage",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "volumeType" : "Amazon DynamoDB - On-Demand Backup Storage",
+        "usagetype" : "APS1-TimedBackupStorage-ByteHrs",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "ECPFUGTTSZNSBQ6M" : {
+      "sku" : "ECPFUGTTSZNSBQ6M",
+      "productFamily" : "DDB-Operation-ReplicatedWrite",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-ReplicatedWriteUnits",
+        "groupDescription" : "DynamoDB Provisioned Replicated Write Units",
+        "usagetype" : "APS1-ReplWriteCapacityUnit-Hrs",
+        "operation" : "CommittedThroughput",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "X5287MKANKTHAHKQ" : {
+      "sku" : "X5287MKANKTHAHKQ",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-WriteUnitsIA",
+        "groupDescription" : "DynamoDB Provisioned Write Units IA",
+        "usagetype" : "APS1-IA-WriteCapacityUnit-Hrs",
+        "operation" : "CommittedThroughput",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "UW59C4ZGW26D7F24" : {
+      "sku" : "UW59C4ZGW26D7F24",
+      "productFamily" : "Provisioned IOPS",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-ReadUnitsIA",
+        "groupDescription" : "DynamoDB Provisioned Read Units IA",
+        "usagetype" : "APS1-IA-ReadCapacityUnit-Hrs",
+        "operation" : "CommittedThroughput",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "FVTYPQJ48D5HD595" : {
+      "sku" : "FVTYPQJ48D5HD595",
+      "productFamily" : "Database Storage",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "volumeType" : "Amazon DynamoDB - Indexed DataStore - IA",
+        "usagetype" : "APS1-IA-TimedStorage-ByteHrs",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "PFCX92ZEA4T293U3" : {
+      "sku" : "PFCX92ZEA4T293U3",
+      "productFamily" : "Amazon DynamoDB PayPerRequest Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-ReadUnitsIA",
+        "groupDescription" : "DynamoDB PayPerRequest Read Request Units IA",
+        "usagetype" : "APS1-IA-ReadRequestUnits",
+        "operation" : "PayPerRequestThroughput",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "EGZ29Y92CQQP7NGF" : {
+      "sku" : "EGZ29Y92CQQP7NGF",
+      "productFamily" : "Amazon DynamoDB Restore Data Size",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "volumeType" : "Amazon DynamoDB - Backup Restore Size",
+        "usagetype" : "APS1-RestoreDataSize-Bytes",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "C2WD7MBWQJJ6TSNB" : {
+      "sku" : "C2WD7MBWQJJ6TSNB",
+      "productFamily" : "Amazon DynamoDB Export Data Size",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "volumeType" : "Amazon DynamoDB - Export Size",
+        "usagetype" : "APS1-ExportDataSize-Bytes",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "49D4SAYCU3HTHF4J" : {
+      "sku" : "49D4SAYCU3HTHF4J",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-Kinesis",
+        "groupDescription" : "Change Data Capture Units for Kinesis Data Streams",
+        "usagetype" : "APS1-ChangeDataCaptureUnits-Kinesis",
+        "operation" : "DelegatedOperations",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "3PB8DE2X4E4VWVDX" : {
+      "sku" : "3PB8DE2X4E4VWVDX",
+      "productFamily" : "API Request",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-StreamsReadRequests",
+        "groupDescription" : "DynamoDB Streams read request (GetRecords API)",
+        "usagetype" : "APS1-Streams-Requests",
+        "operation" : "GetRecords",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "PZTVP859DVDCGT8X" : {
+      "sku" : "PZTVP859DVDCGT8X",
+      "productFamily" : "Amazon DynamoDB PayPerRequest Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-WriteUnits",
+        "groupDescription" : "DynamoDB PayPerRequest Write Request Units",
+        "usagetype" : "APS1-WriteRequestUnits",
+        "operation" : "PayPerRequestThroughput",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "YPBEDS7QQZW3Y5AM" : {
+      "sku" : "YPBEDS7QQZW3Y5AM",
+      "productFamily" : "Amazon DynamoDB PayPerRequest Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-ReplicatedWriteUnitsIA",
+        "groupDescription" : "DynamoDB PayPerRequest Replicated Write Request Units IA",
+        "usagetype" : "APS1-IA-ReplWriteRequestUnits",
+        "operation" : "PayPerRequestThroughput",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "SRNZJEBGH7M8AQDJ" : {
+      "sku" : "SRNZJEBGH7M8AQDJ",
+      "productFamily" : "Amazon DynamoDB Export Data Size",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "volumeType" : "Amazon DynamoDB - Incremental Export",
+        "usagetype" : "APS1-IncrementalExportDataSize-Bytes",
+        "operation" : "",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "PMRRXXTRZYH8ZU96" : {
+      "sku" : "PMRRXXTRZYH8ZU96",
+      "productFamily" : "DDB-Operation-ReplicatedWrite",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-ReplicatedWriteUnitsIA",
+        "groupDescription" : "DynamoDB Provisioned Replicated Write Units IA",
+        "usagetype" : "APS1-IA-ReplWriteCapacityUnit-Hrs",
+        "operation" : "CommittedThroughput",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "PB5RUHHH4NWP57QF" : {
+      "sku" : "PB5RUHHH4NWP57QF",
+      "productFamily" : "Amazon DynamoDB PayPerRequest Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-ReplicatedWriteUnits",
+        "groupDescription" : "DynamoDB PayPerRequest Replicated Write Request Units",
+        "usagetype" : "APS1-ReplWriteRequestUnits",
+        "operation" : "PayPerRequestThroughput",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    },
+    "UGMC2XP7PZW3A88R" : {
+      "sku" : "UGMC2XP7PZW3A88R",
+      "productFamily" : "Amazon DynamoDB PayPerRequest Throughput",
+      "attributes" : {
+        "servicecode" : "AmazonDynamoDB",
+        "location" : "Asia Pacific (Singapore)",
+        "locationType" : "AWS Region",
+        "group" : "DDB-WriteUnitsIA",
+        "groupDescription" : "DynamoDB PayPerRequest Write Request Units IA",
+        "usagetype" : "APS1-IA-WriteRequestUnits",
+        "operation" : "PayPerRequestThroughput",
+        "regionCode" : "ap-southeast-1",
+        "servicename" : "Amazon DynamoDB"
+      }
+    }
+  },
+  "terms" : {
+    "OnDemand" : {
+      "SRNZJEBGH7M8AQDJ" : {
+        "SRNZJEBGH7M8AQDJ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "SRNZJEBGH7M8AQDJ",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "SRNZJEBGH7M8AQDJ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "SRNZJEBGH7M8AQDJ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1140 per GB of incremental data exported in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1140000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "XF4WN9CQUFPSY9SQ" : {
+        "XF4WN9CQUFPSY9SQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "XF4WN9CQUFPSY9SQ",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "XF4WN9CQUFPSY9SQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "XF4WN9CQUFPSY9SQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1425 per million read request units (Asia Pacific (Singapore))",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReadRequestUnits",
+              "pricePerUnit" : {
+                "USD" : "0.0000001425"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FVTYPQJ48D5HD595" : {
+        "FVTYPQJ48D5HD595.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FVTYPQJ48D5HD595",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "FVTYPQJ48D5HD595.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FVTYPQJ48D5HD595.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.11400 per GB-Month of IA storage in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.1140000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UW59C4ZGW26D7F24" : {
+        "UW59C4ZGW26D7F24.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UW59C4ZGW26D7F24",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "UW59C4ZGW26D7F24.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UW59C4ZGW26D7F24.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0001855 per hour for units of IA read capacity in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReadCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0001855000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "EGZ29Y92CQQP7NGF" : {
+        "EGZ29Y92CQQP7NGF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "EGZ29Y92CQQP7NGF",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "EGZ29Y92CQQP7NGF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "EGZ29Y92CQQP7NGF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.171 per GB of data restored",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1710000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "GSSDTS2TPQ4RHW4R" : {
+        "GSSDTS2TPQ4RHW4R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "GSSDTS2TPQ4RHW4R",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "GSSDTS2TPQ4RHW4R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "GSSDTS2TPQ4RHW4R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.228 per GB-Month of storage used for DynamoDB PITR backup",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.2280000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "X5287MKANKTHAHKQ" : {
+        "X5287MKANKTHAHKQ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "X5287MKANKTHAHKQ",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "X5287MKANKTHAHKQ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "X5287MKANKTHAHKQ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.0009300 per hour for units of IA write capacity in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "WriteCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0009300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PFCX92ZEA4T293U3" : {
+        "PFCX92ZEA4T293U3.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PFCX92ZEA4T293U3",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "PFCX92ZEA4T293U3.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PFCX92ZEA4T293U3.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.178 per million IA read request units in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReadRequestUnits",
+              "pricePerUnit" : {
+                "USD" : "0.0000001780"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "A4JVT7FRHPDGJJKZ" : {
+        "A4JVT7FRHPDGJJKZ.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "A4JVT7FRHPDGJJKZ",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "A4JVT7FRHPDGJJKZ.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "A4JVT7FRHPDGJJKZ.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.114 per GB-Month of storage used for on-demand backup",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB-Month",
+              "pricePerUnit" : {
+                "USD" : "0.1140000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "49D4SAYCU3HTHF4J" : {
+        "49D4SAYCU3HTHF4J.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "49D4SAYCU3HTHF4J",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "49D4SAYCU3HTHF4J.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "49D4SAYCU3HTHF4J.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.11385 per million change data capture units for Kinesis Data Streams in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ChangeDataCaptureUnits",
+              "pricePerUnit" : {
+                "USD" : "0.0000001139"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "28F5UUC3ZUDFGPU8" : {
+        "28F5UUC3ZUDFGPU8.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "28F5UUC3ZUDFGPU8",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "28F5UUC3ZUDFGPU8.JRTCKXETXF.HBHVWY47CM" : {
+              "rateCode" : "28F5UUC3ZUDFGPU8.JRTCKXETXF.HBHVWY47CM",
+              "description" : "$0.00 per hour for 25 units of read capacity for a month (free tier)",
+              "beginRange" : "0",
+              "endRange" : "18600",
+              "unit" : "ReadCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "28F5UUC3ZUDFGPU8.JRTCKXETXF.E63J5HTPNN" : {
+              "rateCode" : "28F5UUC3ZUDFGPU8.JRTCKXETXF.E63J5HTPNN",
+              "description" : "$0.000148 per hour for units of read capacity beyond the free tier",
+              "beginRange" : "18600",
+              "endRange" : "Inf",
+              "unit" : "ReadCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0001480000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "ECPFUGTTSZNSBQ6M" : {
+        "ECPFUGTTSZNSBQ6M.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "ECPFUGTTSZNSBQ6M",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "ECPFUGTTSZNSBQ6M.JRTCKXETXF.HBHVWY47CM" : {
+              "rateCode" : "ECPFUGTTSZNSBQ6M.JRTCKXETXF.HBHVWY47CM",
+              "description" : "$0.00 per hour for 25 units of replicated write capacity for a month (free tier)",
+              "beginRange" : "0",
+              "endRange" : "18600",
+              "unit" : "ReplicatedWriteCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "ECPFUGTTSZNSBQ6M.JRTCKXETXF.E63J5HTPNN" : {
+              "rateCode" : "ECPFUGTTSZNSBQ6M.JRTCKXETXF.E63J5HTPNN",
+              "description" : "$0.00074 per hour for units of replicated write capacity beyond the free tier",
+              "beginRange" : "18600",
+              "endRange" : "Inf",
+              "unit" : "ReplicatedWriteCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0007400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YCMS8QPJ7DRVHAXD" : {
+        "YCMS8QPJ7DRVHAXD.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YCMS8QPJ7DRVHAXD",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "YCMS8QPJ7DRVHAXD.JRTCKXETXF.G2A93NZ7DT" : {
+              "rateCode" : "YCMS8QPJ7DRVHAXD.JRTCKXETXF.G2A93NZ7DT",
+              "description" : "$0.00 per GB-Month of storage for first 25 free GB-Months",
+              "beginRange" : "0",
+              "endRange" : "25",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "YCMS8QPJ7DRVHAXD.JRTCKXETXF.VYAP54KATQ" : {
+              "rateCode" : "YCMS8QPJ7DRVHAXD.JRTCKXETXF.VYAP54KATQ",
+              "description" : "$0.285 per GB-Month of storage used beyond first 25 free GB-Months",
+              "beginRange" : "25",
+              "endRange" : "Inf",
+              "unit" : "GB-Mo",
+              "pricePerUnit" : {
+                "USD" : "0.2850000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PMRRXXTRZYH8ZU96" : {
+        "PMRRXXTRZYH8ZU96.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PMRRXXTRZYH8ZU96",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "PMRRXXTRZYH8ZU96.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PMRRXXTRZYH8ZU96.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.00093 per hour for units of IA replicated write capacity in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReplicatedWriteCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0009300000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "HKAXA28QKWPC5UR9" : {
+        "HKAXA28QKWPC5UR9.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "HKAXA28QKWPC5UR9",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "HKAXA28QKWPC5UR9.JRTCKXETXF.HBHVWY47CM" : {
+              "rateCode" : "HKAXA28QKWPC5UR9.JRTCKXETXF.HBHVWY47CM",
+              "description" : "$0.00 per hour for 25 units of write capacity for a month (free tier)",
+              "beginRange" : "0",
+              "endRange" : "18600",
+              "unit" : "WriteCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "HKAXA28QKWPC5UR9.JRTCKXETXF.E63J5HTPNN" : {
+              "rateCode" : "HKAXA28QKWPC5UR9.JRTCKXETXF.E63J5HTPNN",
+              "description" : "$0.00074 per hour for units of write capacity beyond the free tier",
+              "beginRange" : "18600",
+              "endRange" : "Inf",
+              "unit" : "WriteCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0007400000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "FBYDN68554R87MME" : {
+        "FBYDN68554R87MME.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "FBYDN68554R87MME",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "FBYDN68554R87MME.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "FBYDN68554R87MME.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.1710 per GB for data import in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1710000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "C2WD7MBWQJJ6TSNB" : {
+        "C2WD7MBWQJJ6TSNB.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "C2WD7MBWQJJ6TSNB",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "C2WD7MBWQJJ6TSNB.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "C2WD7MBWQJJ6TSNB.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.11400 per GB of data exported in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "GB",
+              "pricePerUnit" : {
+                "USD" : "0.1140000000"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PZTVP859DVDCGT8X" : {
+        "PZTVP859DVDCGT8X.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PZTVP859DVDCGT8X",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "PZTVP859DVDCGT8X.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PZTVP859DVDCGT8X.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.71 per million write request units (Asia Pacific (Singapore))",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "WriteRequestUnits",
+              "pricePerUnit" : {
+                "USD" : "0.0000007100"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "PB5RUHHH4NWP57QF" : {
+        "PB5RUHHH4NWP57QF.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "PB5RUHHH4NWP57QF",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "PB5RUHHH4NWP57QF.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "PB5RUHHH4NWP57QF.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.71 per million replicated write request units (Asia Pacific (Singapore))",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReplicatedWriteRequestUnits",
+              "pricePerUnit" : {
+                "USD" : "0.0000007100"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "UGMC2XP7PZW3A88R" : {
+        "UGMC2XP7PZW3A88R.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "UGMC2XP7PZW3A88R",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "UGMC2XP7PZW3A88R.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "UGMC2XP7PZW3A88R.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.89 per million IA write request units in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "WriteRequestUnits",
+              "pricePerUnit" : {
+                "USD" : "0.0000008900"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "YPBEDS7QQZW3Y5AM" : {
+        "YPBEDS7QQZW3Y5AM.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "YPBEDS7QQZW3Y5AM",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "YPBEDS7QQZW3Y5AM.JRTCKXETXF.6YS6EN2CT7" : {
+              "rateCode" : "YPBEDS7QQZW3Y5AM.JRTCKXETXF.6YS6EN2CT7",
+              "description" : "$0.89 per million replicated IA write request units in Asia Pacific (Singapore)",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReplicatedWriteRequestUnits",
+              "pricePerUnit" : {
+                "USD" : "0.0000008900"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      },
+      "3PB8DE2X4E4VWVDX" : {
+        "3PB8DE2X4E4VWVDX.JRTCKXETXF" : {
+          "offerTermCode" : "JRTCKXETXF",
+          "sku" : "3PB8DE2X4E4VWVDX",
+          "effectiveDate" : "2025-07-01T00:00:00Z",
+          "priceDimensions" : {
+            "3PB8DE2X4E4VWVDX.JRTCKXETXF.M9QGYPQ72M" : {
+              "rateCode" : "3PB8DE2X4E4VWVDX.JRTCKXETXF.M9QGYPQ72M",
+              "description" : "$0.00 for 2.5 million DynamoDB Streams read request units for a month (free tier) (Asia Pacific (Singapore))",
+              "beginRange" : "0",
+              "endRange" : "2500000",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000000000"
+              },
+              "appliesTo" : [ ]
+            },
+            "3PB8DE2X4E4VWVDX.JRTCKXETXF.AUKFMGQW43" : {
+              "rateCode" : "3PB8DE2X4E4VWVDX.JRTCKXETXF.AUKFMGQW43",
+              "description" : "$0.000000228 per DynamoDB Streams read request unit beyond free tier (Asia Pacific (Singapore))",
+              "beginRange" : "2500000",
+              "endRange" : "Inf",
+              "unit" : "Requests",
+              "pricePerUnit" : {
+                "USD" : "0.0000002280"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : { }
+        }
+      }
+    },
+    "Reserved" : {
+      "28F5UUC3ZUDFGPU8" : {
+        "28F5UUC3ZUDFGPU8.VG8YD49WWM" : {
+          "offerTermCode" : "VG8YD49WWM",
+          "sku" : "28F5UUC3ZUDFGPU8",
+          "effectiveDate" : "2026-06-08T23:44:32Z",
+          "priceDimensions" : {
+            "28F5UUC3ZUDFGPU8.VG8YD49WWM.6YS6EN2CT7" : {
+              "rateCode" : "28F5UUC3ZUDFGPU8.VG8YD49WWM.6YS6EN2CT7",
+              "description" : "Amazon DynamoDB, Reserved Read Capacity used this month",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReadCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000180000"
+              },
+              "appliesTo" : [ ]
+            },
+            "28F5UUC3ZUDFGPU8.VG8YD49WWM.2TG2D8R56U" : {
+              "rateCode" : "28F5UUC3ZUDFGPU8.VG8YD49WWM.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "0.4104"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Heavy Utilization",
+            "OfferingClass" : "standard"
+          }
+        },
+        "28F5UUC3ZUDFGPU8.YTVHEVGPBZ" : {
+          "offerTermCode" : "YTVHEVGPBZ",
+          "sku" : "28F5UUC3ZUDFGPU8",
+          "effectiveDate" : "2026-06-08T23:44:32Z",
+          "priceDimensions" : {
+            "28F5UUC3ZUDFGPU8.YTVHEVGPBZ.6YS6EN2CT7" : {
+              "rateCode" : "28F5UUC3ZUDFGPU8.YTVHEVGPBZ.6YS6EN2CT7",
+              "description" : "Amazon DynamoDB, Reserved Read Capacity used this month",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "ReadCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000290000"
+              },
+              "appliesTo" : [ ]
+            },
+            "28F5UUC3ZUDFGPU8.YTVHEVGPBZ.2TG2D8R56U" : {
+              "rateCode" : "28F5UUC3ZUDFGPU8.YTVHEVGPBZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "0.342"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Heavy Utilization",
+            "OfferingClass" : "standard"
+          }
+        }
+      },
+      "HKAXA28QKWPC5UR9" : {
+        "HKAXA28QKWPC5UR9.YTVHEVGPBZ" : {
+          "offerTermCode" : "YTVHEVGPBZ",
+          "sku" : "HKAXA28QKWPC5UR9",
+          "effectiveDate" : "2026-06-08T23:44:32Z",
+          "priceDimensions" : {
+            "HKAXA28QKWPC5UR9.YTVHEVGPBZ.6YS6EN2CT7" : {
+              "rateCode" : "HKAXA28QKWPC5UR9.YTVHEVGPBZ.6YS6EN2CT7",
+              "description" : "Amazon DynamoDB, Reserved Write Capacity used this month",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "WriteCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0001460000"
+              },
+              "appliesTo" : [ ]
+            },
+            "HKAXA28QKWPC5UR9.YTVHEVGPBZ.2TG2D8R56U" : {
+              "rateCode" : "HKAXA28QKWPC5UR9.YTVHEVGPBZ.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "1.71"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "1yr",
+            "PurchaseOption" : "Heavy Utilization",
+            "OfferingClass" : "standard"
+          }
+        },
+        "HKAXA28QKWPC5UR9.VG8YD49WWM" : {
+          "offerTermCode" : "VG8YD49WWM",
+          "sku" : "HKAXA28QKWPC5UR9",
+          "effectiveDate" : "2026-06-08T23:44:32Z",
+          "priceDimensions" : {
+            "HKAXA28QKWPC5UR9.VG8YD49WWM.6YS6EN2CT7" : {
+              "rateCode" : "HKAXA28QKWPC5UR9.VG8YD49WWM.6YS6EN2CT7",
+              "description" : "Amazon DynamoDB, Reserved Write Capacity used this month",
+              "beginRange" : "0",
+              "endRange" : "Inf",
+              "unit" : "WriteCapacityUnit-Hrs",
+              "pricePerUnit" : {
+                "USD" : "0.0000930000"
+              },
+              "appliesTo" : [ ]
+            },
+            "HKAXA28QKWPC5UR9.VG8YD49WWM.2TG2D8R56U" : {
+              "rateCode" : "HKAXA28QKWPC5UR9.VG8YD49WWM.2TG2D8R56U",
+              "description" : "Upfront Fee",
+              "unit" : "Quantity",
+              "pricePerUnit" : {
+                "USD" : "2.052"
+              },
+              "appliesTo" : [ ]
+            }
+          },
+          "termAttributes" : {
+            "LeaseContractLength" : "3yr",
+            "PurchaseOption" : "Heavy Utilization",
+            "OfferingClass" : "standard"
+          }
+        }
+      }
+    }
+  },
+  "attributesList" : { }
+}
