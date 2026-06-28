@@ -1,0 +1,8 @@
+mangum==0.17.0
+fastapi==0.115.5
+pydantic[email]==2.9.2
+pydantic-settings==2.6.1
+pyjwt==2.10.1
+bcrypt==4.2.1
+python-slugify==8.0.4
+boto3==1.35.92
